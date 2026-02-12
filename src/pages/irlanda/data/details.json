@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Ideas de viaje",
+    "details": [
+      {
+        "id": "coast",
+        "text": "Planifica una ruta por la costa si tienes dias extra."
+      },
+      {
+        "id": "daytours",
+        "text": "Considera tours de un dia desde Dublin o Belfast."
+      },
+      {
+        "id": "rain",
+        "text": "Lleva una capa ligera para lluvia."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Travel ideas",
+    "details": [
+      {
+        "id": "coast",
+        "text": "Plan a coastal route if you have extra days."
+      },
+      {
+        "id": "daytours",
+        "text": "Consider day tours from Dublin or Belfast."
+      },
+      {
+        "id": "rain",
+        "text": "Bring a light rain layer."
+      }
+    ]
+  }
+}

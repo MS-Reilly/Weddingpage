@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Vestimenta",
+    "details": [
+      {
+        "id": "men",
+        "text": "Hombres: traje oscuro o azul marino."
+      },
+      {
+        "id": "women",
+        "text": "Mujeres: vestido coctel o midi en tonos suaves."
+      },
+      {
+        "id": "colors",
+        "text": "Evita blanco, marfil, rose gold y dorado."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Attire",
+    "details": [
+      {
+        "id": "men",
+        "text": "Men: dark or navy suit."
+      },
+      {
+        "id": "women",
+        "text": "Women: cocktail or midi dress in soft tones."
+      },
+      {
+        "id": "colors",
+        "text": "Avoid white, ivory, rose gold, and gold."
+      }
+    ]
+  }
+}

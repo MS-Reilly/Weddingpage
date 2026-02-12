@@ -1,0 +1,72 @@
+{
+  "es": {
+    "title": "Llegar a Newry",
+    "subtitle": "Opciones desde Dublin y Belfast con precios orientativos.",
+    "cards": [
+      {
+        "from": "Desde Dublin",
+        "title": "Tren, bus o taxi",
+        "description": "Desde Dublin puedes llegar a Newry en tren, bus o taxi. Elige la opcion que mejor se adapte a tu horario y presupuesto.",
+        "prices": [
+          "Tren: 20-35 EUR (1h30)",
+          "Bus: 12-20 EUR (1h50)",
+          "Taxi: 160-220 EUR (1h20)"
+        ],
+        "image": "hero.webp"
+      },
+      {
+        "from": "Desde Belfast",
+        "title": "Viaje rapido y directo",
+        "description": "Desde Belfast, Newry queda muy cerca. Hay trenes y buses frecuentes, y el taxi es una opcion comoda si vienes con equipaje.",
+        "prices": [
+          "Tren: 8-15 GBP (40 min)",
+          "Bus: 6-12 GBP (50 min)",
+          "Taxi: 55-85 GBP (35 min)"
+        ],
+        "image": "hero.webp"
+      }
+    ],
+    "map": {
+      "title": "Mapa de Newry",
+      "introTitle": "Newry, puertas del Mourne",
+      "intro": "Newry es una ciudad historica en la frontera entre Irlanda y Irlanda del Norte, conocida por su canal y su papel como punto de paso entre Belfast y Dublin. Esta muy bien conectada por carretera y ferrocarril.",
+      "description": "Ubica el centro de Newry y planifica tu llegada.",
+      "embedUrl": "https://www.google.com/maps?q=Newry&output=embed"
+    }
+  },
+  "en": {
+    "title": "Getting to Newry",
+    "subtitle": "Options from Dublin and Belfast with estimated prices.",
+    "cards": [
+      {
+        "from": "From Dublin",
+        "title": "Train, bus, or taxi",
+        "description": "From Dublin you can reach Newry by train, bus, or taxi. Choose the option that best fits your schedule and budget.",
+        "prices": [
+          "Train: 20-35 EUR (1h30)",
+          "Bus: 12-20 EUR (1h50)",
+          "Taxi: 160-220 EUR (1h20)"
+        ],
+        "image": "hero.webp"
+      },
+      {
+        "from": "From Belfast",
+        "title": "Fast and direct",
+        "description": "From Belfast, Newry is very close. There are frequent trains and buses, and a taxi is a comfortable option if you are traveling with luggage.",
+        "prices": [
+          "Train: 8-15 GBP (40 min)",
+          "Bus: 6-12 GBP (50 min)",
+          "Taxi: 55-85 GBP (35 min)"
+        ],
+        "image": "hero.webp"
+      }
+    ],
+    "map": {
+      "title": "Map of Newry",
+      "introTitle": "Newry, gateway to the Mourne",
+      "intro": "Newry is a historic city on the border between Ireland and Northern Ireland, known for its canal and its role as a gateway between Belfast and Dublin. It is well connected by road and rail.",
+      "description": "Locate the center of Newry and plan your arrival.",
+      "embedUrl": "https://www.google.com/maps?q=Newry&output=embed"
+    }
+  }
+}

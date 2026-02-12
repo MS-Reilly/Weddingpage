@@ -1,0 +1,66 @@
+{
+  "es": {
+    "title": "Ubicaciones",
+    "subtitle": "Direcciones provisionales",
+    "cardLabel": "Ubicacion",
+    "mapsCta": "Abrir en Google Maps",
+    "cards": [
+      {
+        "name": "Cloughoge Chapel, Newry",
+        "address": "Direccion provisional: Cloughoge Chapel, Newry, Co. Down",
+        "mapsQuery": "Cloughoge Chapel, Newry",
+        "image": "img1.jpg"
+      },
+      {
+        "name": "Carrickdale Hotel, Newry",
+        "address": "Direccion provisional: Carrickdale Hotel, Newry, Co. Louth",
+        "mapsQuery": "Carrickdale Hotel, Newry",
+        "image": "img2.jpg"
+      },
+      {
+        "name": "Bellingham Castle",
+        "address": "Direccion provisional: Bellingham Castle, Castlebellingham, Co. Louth",
+        "mapsQuery": "Bellingham Castle, Castlebellingham",
+        "image": "img3.jpg"
+      },
+      {
+        "name": "Bus Station Newry",
+        "address": "Direccion provisional: Newry Bus Station, Newry, Co. Down",
+        "mapsQuery": "Newry Bus Station",
+        "image": "img4.jpg"
+      }
+    ]
+  },
+  "en": {
+    "title": "Locations",
+    "subtitle": "Provisional addresses",
+    "cardLabel": "Location",
+    "mapsCta": "Open in Google Maps",
+    "cards": [
+      {
+        "name": "Cloughoge Chapel, Newry",
+        "address": "Provisional address: Cloughoge Chapel, Newry, Co. Down",
+        "mapsQuery": "Cloughoge Chapel, Newry",
+        "image": "img1.jpg"
+      },
+      {
+        "name": "Carrickdale Hotel, Newry",
+        "address": "Provisional address: Carrickdale Hotel, Newry, Co. Louth",
+        "mapsQuery": "Carrickdale Hotel, Newry",
+        "image": "img2.jpg"
+      },
+      {
+        "name": "Bellingham Castle",
+        "address": "Provisional address: Bellingham Castle, Castlebellingham, Co. Louth",
+        "mapsQuery": "Bellingham Castle, Castlebellingham",
+        "image": "img3.jpg"
+      },
+      {
+        "name": "Bus Station Newry",
+        "address": "Provisional address: Newry Bus Station, Newry, Co. Down",
+        "mapsQuery": "Newry Bus Station",
+        "image": "img4.jpg"
+      }
+    ]
+  }
+}

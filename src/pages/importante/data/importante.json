@@ -1,0 +1,104 @@
+{
+  "es": {
+    "title": "Importante",
+    "description": "Que no traer y normas del evento.",
+    "metaTitle": "Event | Importante",
+    "metaDescription": "Que no traer y normas del evento.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "rulesSection": {
+      "title": "Reglas y horarios",
+      "subtitle": "Recordatorios clave",
+      "rules": [
+        {
+          "id": "arrival",
+          "text": "Llega 15 minutos antes de la ceremonia para ubicarse sin prisa."
+        },
+        {
+          "id": "ceremony",
+          "text": "Ceremonia religiosa: 12:30 - 13:30 (capilla)."
+        },
+        {
+          "id": "photo",
+          "text": "Mantente atento durante las fotos para que el flujo sea rapido."
+        },
+        {
+          "id": "reception",
+          "text": "Recepcion y cena: 19:00 (Bellingham Castle)."
+        },
+        {
+          "id": "no-umbrellas",
+          "text": "Evita llevar paraguas grandes dentro de la iglesia."
+        },
+        {
+          "id": "reserved",
+          "text": "Respeta las areas reservadas durante la ceremonia."
+        },
+        {
+          "id": "coordination",
+          "text": "Sigue las indicaciones del equipo de coordinacion."
+        },
+        {
+          "id": "finish",
+          "text": "Fiesta hasta las 02:00, organiza tu regreso con tiempo."
+        }
+      ]
+    },
+    "noticeSection": {
+      "eyebrow": "Importante",
+      "title": "No se permite alcohol externo",
+      "description": "Por favor no lleves alcohol. El lugar tiene servicio y barra durante el evento."
+    }
+  },
+  "en": {
+    "title": "Important",
+    "description": "What not to bring and event rules.",
+    "metaTitle": "Event | Important",
+    "metaDescription": "What not to bring and event rules.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "rulesSection": {
+      "title": "Rules and times",
+      "subtitle": "Key reminders",
+      "rules": [
+        {
+          "id": "arrival",
+          "text": "Arrive 15 minutes before the ceremony to settle in."
+        },
+        {
+          "id": "ceremony",
+          "text": "Religious ceremony: 12:30 - 13:30 (chapel)."
+        },
+        {
+          "id": "photo",
+          "text": "Stay nearby during photos so everything flows quickly."
+        },
+        {
+          "id": "reception",
+          "text": "Reception and dinner: 19:00 (Bellingham Castle)."
+        },
+        {
+          "id": "no-umbrellas",
+          "text": "Avoid bringing large umbrellas inside the church."
+        },
+        {
+          "id": "reserved",
+          "text": "Respect reserved areas during the ceremony."
+        },
+        {
+          "id": "coordination",
+          "text": "Follow the coordination team instructions."
+        },
+        {
+          "id": "finish",
+          "text": "Party until 02:00, plan your return in advance."
+        }
+      ]
+    },
+    "noticeSection": {
+      "eyebrow": "Please note",
+      "title": "No outside alcohol",
+      "description": "Please do not bring alcohol. The venue provides service and a bar during the event."
+    }
+  }
+}

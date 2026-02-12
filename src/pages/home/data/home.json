@@ -1,0 +1,186 @@
+{
+  "es": {
+    "meta": {
+      "title": "Event | Bienvenidos",
+      "description": "Bienvenidos a nuestro sitio del evento. Aqui encontraras los detalles clave y actualizaciones."
+    },
+    "hero": {
+      "title": "Se parte de nuestro",
+      "highlight": "para siempre",
+      "subtitle": "Bienvenidos a nuestra boda. En esta pagina encontraran toda la informacion que necesitan.",
+      "primaryCtaLabel": "Confirmar asistencia",
+      "secondaryCtaLabel": "Ver itinerario",
+      "secondaryHref": "#itinerario-detalle"
+    },
+    "story": {
+      "titleHighlight": "Nuestra historia",
+      "titleSuffix": ", escrita con pasos pequenos y miradas grandes",
+      "paragraphs": [
+        "Todo comenzo con un encuentro sencillo y la certeza de que el tiempo se detenia un poquito cuando estabamos juntos. Desde entonces, cada risa, cada viaje y cada abrazo fue bordando este camino que hoy celebramos. Gracias por ser parte de este capitulo y por acompanarnos a escribir lo que sigue.",
+        "Esta pagina tiene toda la informacion del gran dia para que puedan disfrutarlo con calma, amor y alegria."
+      ],
+      "imageAlt": "Constanza y Shane"
+    },
+    "itinerary": {
+      "titleStart": "Nuestro",
+      "titleHighlight": "itinerario",
+      "titleEnd": "del dia",
+      "ctaLabel": "Para mas informacion detallada, haz clic aqui",
+      "ctaHref": "#itinerario-detalle",
+      "steps": [
+        {
+          "imageKey": "hotel",
+          "title": "Salida a la iglesia",
+          "time": "11:00 AM",
+          "text": "Salida desde el Carrickdale Hotel. Llegar 10 min antes para acomodarnos y salir a tiempo."
+        },
+        {
+          "imageKey": "chapel",
+          "title": "Ceremonia religiosa",
+          "time": "12:00 PM",
+          "text": "Cloughoge Chapel. Entrada desde 11:45 para ubicarnos con calma."
+        },
+        {
+          "imageKey": "castle",
+          "title": "Cena y fiesta",
+          "time": "7:00 PM",
+          "text": "Bellingham Castle. Recepcion, cena, brindis y celebracion. Fiesta hasta tarde."
+        }
+      ]
+    },
+    "dressGuide": {
+      "titleStart": "Guia de",
+      "titleHighlight": "vestimenta",
+      "men": {
+        "title": "Hombres",
+        "description": "Traje oscuro o azul marino, camisa clara y corbata opcional. Zapatos formales o mocasines elegantes.",
+        "ctaLabel": "Ver detalles ->",
+        "ctaHref": "/contacto",
+        "ariaLabel": "Ver detalles de vestimenta para hombres",
+        "imageAlt": "Referencia de vestimenta para hombres"
+      },
+      "reservedColors": {
+        "title": "Colores reservados",
+        "description": "Por favor evita estos colores para respetar el look del cortejo.",
+        "ctaLabel": "Ver detalles ->",
+        "ctaHref": "/contacto",
+        "ariaLabel": "Ver detalles de vestimenta para padrinos",
+        "imageAlt": "Colores reservados"
+      },
+      "extras": {
+        "title": "Detalles extra",
+        "description": "Elegante, comodo y listo para fotos. Trae abrigo ligero por si refresca.",
+        "ctaLabel": "Ver detalles ->",
+        "ctaHref": "/contacto",
+        "ariaLabel": "Ver detalles de vestimenta para padrinos",
+        "imageAlt": "Detalles extra"
+      },
+      "women": {
+        "title": "Mujeres",
+        "description": "Vestido coctel o midi en tonos suaves. Evitar blanco, marfil, rose gold y dorado.",
+        "ctaLabel": "Ver detalles ->",
+        "ctaHref": "/contacto",
+        "ariaLabel": "Ver detalles de vestimenta para padrinos",
+        "imageAlt": "Referencia de vestimenta para mujeres"
+      }
+    },
+    "video": {
+      "heading": "Queremos que vivas la mejor experiencia",
+      "subheading": "Si tienes alguna alergia o requerimiento alimentario, por favor avisanos para preparar todo con carino.",
+      "ctaLabel": "Informar requerimientos",
+      "ctaHref": "/contacto"
+    }
+  },
+  "en": {
+    "meta": {
+      "title": "Event | Welcome",
+      "description": "Welcome to our event site. Here you will find the key details and updates."
+    },
+    "hero": {
+      "title": "Be part of our",
+      "highlight": "forever",
+      "subtitle": "Welcome to our wedding. On this page you will find all the information you need.",
+      "primaryCtaLabel": "RSVP",
+      "secondaryCtaLabel": "View itinerary",
+      "secondaryHref": "#itinerario-detalle"
+    },
+    "story": {
+      "titleHighlight": "Our story",
+      "titleSuffix": ", written with small steps and big glances",
+      "paragraphs": [
+        "It all began with a simple meeting and the certainty that time slowed down a little when we were together. Since then, every laugh, every trip, and every hug has embroidered this path we celebrate today. Thank you for being part of this chapter and for joining us as we write what comes next.",
+        "This page has all the information for the big day so you can enjoy it with calm, love, and joy."
+      ],
+      "imageAlt": "Constanza and Shane"
+    },
+    "itinerary": {
+      "titleStart": "Our",
+      "titleHighlight": "itinerary",
+      "titleEnd": "for the day",
+      "ctaLabel": "For more detailed information, click here",
+      "ctaHref": "#itinerario-detalle",
+      "steps": [
+        {
+          "imageKey": "hotel",
+          "title": "Depart for the church",
+          "time": "11:00 AM",
+          "text": "Departure from Carrickdale Hotel. Arrive 10 minutes early to settle in and leave on time."
+        },
+        {
+          "imageKey": "chapel",
+          "title": "Religious ceremony",
+          "time": "12:00 PM",
+          "text": "Cloughoge Chapel. Entry from 11:45 so we can get seated calmly."
+        },
+        {
+          "imageKey": "castle",
+          "title": "Dinner and celebration",
+          "time": "7:00 PM",
+          "text": "Bellingham Castle. Reception, dinner, toasts, and celebration. Party late into the night."
+        }
+      ]
+    },
+    "dressGuide": {
+      "titleStart": "Dress",
+      "titleHighlight": "guide",
+      "men": {
+        "title": "Men",
+        "description": "Dark or navy suit, light shirt, and optional tie. Dress shoes or elegant loafers.",
+        "ctaLabel": "View details ->",
+        "ctaHref": "/contact",
+        "ariaLabel": "View dress details for men",
+        "imageAlt": "Dress reference for men"
+      },
+      "reservedColors": {
+        "title": "Reserved colors",
+        "description": "Please avoid these colors to respect the wedding party look.",
+        "ctaLabel": "View details ->",
+        "ctaHref": "/contact",
+        "ariaLabel": "View dress details for wedding party",
+        "imageAlt": "Reserved colors"
+      },
+      "extras": {
+        "title": "Extra details",
+        "description": "Elegant, comfortable, and photo ready. Bring a light coat in case it gets chilly.",
+        "ctaLabel": "View details ->",
+        "ctaHref": "/contact",
+        "ariaLabel": "View dress details for wedding party",
+        "imageAlt": "Extra details"
+      },
+      "women": {
+        "title": "Women",
+        "description": "Cocktail or midi dress in soft tones. Avoid white, ivory, rose gold, and gold.",
+        "ctaLabel": "View details ->",
+        "ctaHref": "/contact",
+        "ariaLabel": "View dress details for women",
+        "imageAlt": "Dress reference for women"
+      }
+    },
+    "video": {
+      "heading": "We want you to have the best experience",
+      "subheading": "If you have any allergies or dietary requirements, please let us know so we can prepare everything with care.",
+      "ctaLabel": "Share requirements",
+      "ctaHref": "/contact"
+    }
+  }
+}

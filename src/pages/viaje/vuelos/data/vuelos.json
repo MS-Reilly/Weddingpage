@@ -1,0 +1,124 @@
+{
+  "es": {
+    "title": "Vuelos y aeropuertos",
+    "description": "Opciones para llegar a Irlanda.",
+    "metaTitle": "Event | Vuelos y aeropuertos",
+    "metaDescription": "Opciones para llegar a Irlanda.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "cards": {
+      "sectionTitle": "Aeropuertos recomendados",
+      "sectionSubtitle": "Dos opciones principales para llegar a Irlanda del Norte.",
+      "items": [
+        {
+          "id": "dublin",
+          "title": "Aeropuerto de Dublin (DUB)",
+          "imageSrc": "./assets/hero.webp",
+          "imageAlt": "Avion en pista al atardecer",
+          "description": "La opcion con mas vuelos internacionales. Tiempo de vuelo estimado (directo): 11 h 2 min. Dublin no aparece como destino directo en la lista de destinos de MEX, asi que normalmente hay 1+ escalas. Desde Dublin puedes llegar a Newry en tren, bus o taxi.",
+          "ctaLabel": "Ver rutas desde CDMX",
+          "ctaHref": "https://www.google.com/travel/flights?q=MEX%20to%20DUB"
+        },
+        {
+          "id": "belfast",
+          "title": "Aeropuerto de Belfast (BFS)",
+          "imageSrc": "./assets/hero.webp",
+          "imageAlt": "Avion sobre nubes",
+          "description": "Opcion cercana a Newry. Tiempo de vuelo estimado (directo): 11 h. Belfast no aparece como destino directo en la lista de destinos de MEX, asi que normalmente hay 1+ escalas. Reduce el traslado por tierra.",
+          "ctaLabel": "Ver rutas desde CDMX",
+          "ctaHref": "https://www.google.com/travel/flights?q=MEX%20to%20BFS"
+        }
+      ]
+    },
+    "recommendations": {
+      "eyebrow": "Recomendaciones",
+      "titleStart": "Antes de comprar",
+      "titleHighlight": "revisa",
+      "titleEnd": "estas ideas",
+      "description": "Te dejamos algunos puntos clave para elegir la ruta con calma.",
+      "points": [
+        "Compara DUB y BFS segun el tiempo de traslado a Newry.",
+        "Revisa si hay opciones directas MEX -> DUB; la mayoria de itinerarios tiene 1+ escalas.",
+        "Verifica requisitos de visa para Irlanda y el Reino Unido (Irlanda del Norte) antes de comprar."
+      ],
+      "imageAlt": "Pareja caminando en un paisaje verde"
+    },
+    "search": {
+      "title": "Buscar vuelos",
+      "description": "Elige fechas en la siguiente pantalla. Las rutas ya estan configuradas desde CDMX.",
+      "links": [
+        {
+          "id": "dub",
+          "label": "Buscar CDMX -> Dublin",
+          "href": "https://www.google.com/travel/flights?q=MEX%20to%20DUB"
+        },
+        {
+          "id": "bfs",
+          "label": "Buscar CDMX -> Belfast",
+          "href": "https://www.google.com/travel/flights?q=MEX%20to%20BFS"
+        }
+      ]
+    }
+  },
+  "en": {
+    "title": "Flights and airports",
+    "description": "Options for getting to Ireland.",
+    "metaTitle": "Event | Flights and airports",
+    "metaDescription": "Options for getting to Ireland.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "cards": {
+      "sectionTitle": "Recommended airports",
+      "sectionSubtitle": "Two main options for arriving in Northern Ireland.",
+      "items": [
+        {
+          "id": "dublin",
+          "title": "Dublin Airport (DUB)",
+          "imageSrc": "./assets/hero.webp",
+          "imageAlt": "Plane on a runway at sunset",
+          "description": "The option with the most international flights. Estimated nonstop flight time: 11h 2m. Dublin is not listed as a direct destination from MEX on the Mexico City airport destinations list, so expect 1+ stops. From Dublin you can reach Newry by train, bus, or taxi.",
+          "ctaLabel": "See routes from Mexico City",
+          "ctaHref": "https://www.google.com/travel/flights?q=MEX%20to%20DUB"
+        },
+        {
+          "id": "belfast",
+          "title": "Belfast International Airport (BFS)",
+          "imageSrc": "./assets/hero.webp",
+          "imageAlt": "Plane above the clouds",
+          "description": "Closer to Newry. Estimated nonstop flight time: 11h. Belfast is not listed as a direct destination from MEX on the Mexico City airport destinations list, so expect 1+ stops. This reduces ground travel time.",
+          "ctaLabel": "See routes from Mexico City",
+          "ctaHref": "https://www.google.com/travel/flights?q=MEX%20to%20BFS"
+        }
+      ]
+    },
+    "recommendations": {
+      "eyebrow": "Recommendations",
+      "titleStart": "Before you book",
+      "titleHighlight": "check",
+      "titleEnd": "these tips",
+      "description": "A few quick pointers to help you choose your route.",
+      "points": [
+        "Compare DUB and BFS based on ground travel time to Newry.",
+        "Check for direct MEX -> DUB options; most itineraries include 1+ stops.",
+        "Verify visa requirements for Ireland and the UK (Northern Ireland) before booking."
+      ],
+      "imageAlt": "Couple walking through a green landscape"
+    },
+    "search": {
+      "title": "Search flights",
+      "description": "Pick your dates on the next screen. Routes are prefilled from Mexico City.",
+      "links": [
+        {
+          "id": "dub",
+          "label": "Search MEX -> Dublin",
+          "href": "https://www.google.com/travel/flights?q=MEX%20to%20DUB"
+        },
+        {
+          "id": "bfs",
+          "label": "Search MEX -> Belfast",
+          "href": "https://www.google.com/travel/flights?q=MEX%20to%20BFS"
+        }
+      ]
+    }
+  }
+}

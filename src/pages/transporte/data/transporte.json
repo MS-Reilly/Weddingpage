@@ -1,0 +1,28 @@
+{
+  "es": {
+    "title": "Transporte",
+    "description": "Buses y traslados del dia.",
+    "metaTitle": "Event | Transporte",
+    "metaDescription": "Buses y traslados del dia.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "video": {
+      "heading": "Te acompanamos en el camino",
+      "subheading": "Sabemos que vienes de lejos y queremos que tu llegada sea facil.",
+      "message": "Entendemos que vienes de lejos. Si necesitas ayuda para llegar a Newry, estaremos encantados de ayudarte."
+    }
+  },
+  "en": {
+    "title": "Transport",
+    "description": "Buses and transfers for the day.",
+    "metaTitle": "Event | Transport",
+    "metaDescription": "Buses and transfers for the day.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "video": {
+      "heading": "We are with you on the way",
+      "subheading": "We know you are coming from far away and want your arrival to be easy.",
+      "message": "We understand you are traveling from far away. If you need help getting to Newry, we will be happy to assist."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "es": {
+    "title": "Itinerario del dia",
+    "description": "Horarios de ceremonia y celebracion.",
+    "metaTitle": "Event | Itinerario del dia",
+    "metaDescription": "Horarios de ceremonia y celebracion.",
+    "backgroundImage": "./assets/hero.webp",
+    "video": {
+      "heading": "Momentos del dia",
+      "subheading": "Un vistazo a la atmosfera de la celebracion.",
+      "ctaLabel": "Ver ubicaciones",
+      "ctaHref": "/ubicaciones"
+    }
+  },
+  "en": {
+    "title": "Day itinerary",
+    "description": "Ceremony and celebration schedule.",
+    "metaTitle": "Event | Day itinerary",
+    "metaDescription": "Ceremony and celebration schedule.",
+    "backgroundImage": "./assets/hero.webp",
+    "video": {
+      "heading": "Moments of the day",
+      "subheading": "A glimpse into the atmosphere of the celebration.",
+      "ctaLabel": "View locations",
+      "ctaHref": "/ubicaciones"
+    }
+  }
+}

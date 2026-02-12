@@ -1,0 +1,104 @@
+{
+  "es": {
+    "title": "Dress code",
+    "description": "Hombres, mujeres, damas y padrinos.",
+    "metaTitle": "Event | Dress code",
+    "metaDescription": "Hombres, mujeres, damas y padrinos.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "dressGuide": {
+      "titleStart": "Guia de",
+      "titleHighlight": "vestimenta",
+      "men": {
+        "title": "Hombres",
+        "description": "Traje oscuro o azul marino, camisa clara y corbata opcional. Zapatos formales o mocasines elegantes.",
+        "ctaLabel": "Ver detalles ->",
+        "ctaHref": "/dress-code/men",
+        "ariaLabel": "Ver detalles de vestimenta para hombres",
+        "imageAlt": "Referencia de vestimenta para hombres"
+      },
+      "reservedColors": {
+        "title": "Colores reservados",
+        "description": "Por favor evita estos colores para respetar el look del cortejo.",
+        "ctaLabel": "Ver detalles ->",
+        "ctaHref": "/dress-code/colors",
+        "ariaLabel": "Ver detalles de vestimenta para padrinos",
+        "imageAlt": "Colores reservados"
+      },
+      "extras": {
+        "title": "Detalles extra",
+        "description": "Elegante, comodo y listo para fotos. Trae abrigo ligero por si refresca.",
+        "ctaLabel": "Ver detalles ->",
+        "ctaHref": "/dress-code/extras",
+        "ariaLabel": "Ver detalles de vestimenta para padrinos",
+        "imageAlt": "Detalles extra"
+      },
+      "women": {
+        "title": "Mujeres",
+        "description": "Vestido coctel o midi en tonos suaves. Evitar blanco, marfil, rose gold y dorado.",
+        "ctaLabel": "Ver detalles ->",
+        "ctaHref": "/dress-code/women",
+        "ariaLabel": "Ver detalles de vestimenta para padrinos",
+        "imageAlt": "Referencia de vestimenta para mujeres"
+      }
+    },
+    "notice": {
+      "eyebrow": "Importante",
+      "title": "Comodos y con estilo",
+      "description": "Queremos que te sientas comodo y que vengas a impresionar. Por favor sigue las guias y luce tu mejor version.",
+      "imageKey": "bellingham",
+      "imageAlt": "Invitados elegantes"
+    }
+  },
+  "en": {
+    "title": "Dress code",
+    "description": "Men, women, bridesmaids, and groomsmen.",
+    "metaTitle": "Event | Dress code",
+    "metaDescription": "Men, women, bridesmaids, and groomsmen.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "dressGuide": {
+      "titleStart": "Dress",
+      "titleHighlight": "guide",
+      "men": {
+        "title": "Men",
+        "description": "Dark or navy suit, light shirt, and optional tie. Dress shoes or elegant loafers.",
+        "ctaLabel": "View details ->",
+        "ctaHref": "/dress-code/men",
+        "ariaLabel": "View dress details for men",
+        "imageAlt": "Dress reference for men"
+      },
+      "reservedColors": {
+        "title": "Reserved colors",
+        "description": "Please avoid these colors to respect the wedding party look.",
+        "ctaLabel": "View details ->",
+        "ctaHref": "/dress-code/colors",
+        "ariaLabel": "View dress details for wedding party",
+        "imageAlt": "Reserved colors"
+      },
+      "extras": {
+        "title": "Extra details",
+        "description": "Elegant, comfortable, and photo ready. Bring a light coat in case it gets chilly.",
+        "ctaLabel": "View details ->",
+        "ctaHref": "/dress-code/extras",
+        "ariaLabel": "View dress details for wedding party",
+        "imageAlt": "Extra details"
+      },
+      "women": {
+        "title": "Women",
+        "description": "Cocktail or midi dress in soft tones. Avoid white, ivory, rose gold, and gold.",
+        "ctaLabel": "View details ->",
+        "ctaHref": "/dress-code/women",
+        "ariaLabel": "View dress details for women",
+        "imageAlt": "Dress reference for women"
+      }
+    },
+    "notice": {
+      "eyebrow": "Important",
+      "title": "Comfort meets style",
+      "description": "We want you to feel comfortable and dress to impress. Please follow the guidelines and look your best.",
+      "imageKey": "bellingham",
+      "imageAlt": "Well dressed guests"
+    }
+  }
+}

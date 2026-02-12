@@ -1,0 +1,24 @@
+{
+  "es": {
+    "meta": {
+      "title": "404 | Pagina no encontrada",
+      "description": "No pudimos encontrar esta pagina."
+    },
+    "heading": "404 - Pagina no encontrada",
+    "body": "No encontramos la pagina que buscas.",
+    "ctaLabel": "Volver al inicio",
+    "ctaHref": "/",
+    "footerSuffix": "Todos los derechos reservados"
+  },
+  "en": {
+    "meta": {
+      "title": "404 | Page Not Found",
+      "description": "This page could not be found."
+    },
+    "heading": "404 - Page Not Found",
+    "body": "We cannot seem to find the page you are looking for.",
+    "ctaLabel": "Back to Home",
+    "ctaHref": "/",
+    "footerSuffix": "All rights reserved"
+  }
+}

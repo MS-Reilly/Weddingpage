@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Recomendaciones",
+    "details": [
+      {
+        "id": "cafes",
+        "text": "Explora cafeterias y restaurantes locales."
+      },
+      {
+        "id": "walks",
+        "text": "Pregunta por rutas cortas para caminar en el centro."
+      },
+      {
+        "id": "weekend",
+        "text": "Reserva con antelacion si vas en fin de semana."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Recommendations",
+    "details": [
+      {
+        "id": "cafes",
+        "text": "Explore local cafes and restaurants."
+      },
+      {
+        "id": "walks",
+        "text": "Ask about short walking routes in the center."
+      },
+      {
+        "id": "weekend",
+        "text": "Book in advance if you are visiting on a weekend."
+      }
+    ]
+  }
+}

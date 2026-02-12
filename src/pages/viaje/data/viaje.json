@@ -1,0 +1,18 @@
+{
+  "es": {
+    "title": "Viaje",
+    "description": "Consejos para planear tu viaje a Irlanda.",
+    "metaTitle": "Event | Viaje",
+    "metaDescription": "Consejos para planear tu viaje a Irlanda.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp"
+  },
+  "en": {
+    "title": "Travel",
+    "description": "Tips for planning your trip to Ireland.",
+    "metaTitle": "Event | Travel",
+    "metaDescription": "Tips for planning your trip to Ireland.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp"
+  }
+}

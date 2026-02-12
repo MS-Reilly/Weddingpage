@@ -1,0 +1,18 @@
+{
+  "es": {
+    "title": "FAQ",
+    "description": "Respuestas rapidas sobre el evento.",
+    "metaTitle": "Event | FAQ",
+    "metaDescription": "Respuestas rapidas sobre el evento.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp"
+  },
+  "en": {
+    "title": "FAQ",
+    "description": "Quick answers about the event.",
+    "metaTitle": "Event | FAQ",
+    "metaDescription": "Quick answers about the event.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp"
+  }
+}

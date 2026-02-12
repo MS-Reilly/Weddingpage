@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Antes de viajar",
+    "details": [
+      {
+        "id": "documents",
+        "text": "Revisa documentos y vigencia del pasaporte."
+      },
+      {
+        "id": "bookings",
+        "text": "Reserva vuelos y hotel con anticipacion."
+      },
+      {
+        "id": "weather",
+        "text": "Ten en cuenta el clima para preparar tu maleta."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Before traveling",
+    "details": [
+      {
+        "id": "documents",
+        "text": "Check your documents and passport validity."
+      },
+      {
+        "id": "bookings",
+        "text": "Book flights and hotel in advance."
+      },
+      {
+        "id": "weather",
+        "text": "Consider the weather when packing."
+      }
+    ]
+  }
+}

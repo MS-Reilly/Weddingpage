@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Clima",
+    "details": [
+      {
+        "id": "layers",
+        "text": "Trae abrigo ligero y paraguas compacto."
+      },
+      {
+        "id": "temps",
+        "text": "Las temperaturas pueden variar durante el dia."
+      },
+      {
+        "id": "rain",
+        "text": "Considera capas para ajustar tu vestimenta."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Weather",
+    "details": [
+      {
+        "id": "layers",
+        "text": "Bring a light coat and a compact umbrella."
+      },
+      {
+        "id": "temps",
+        "text": "Temperatures can vary throughout the day."
+      },
+      {
+        "id": "rain",
+        "text": "Consider layers so you can adjust your outfit."
+      }
+    ]
+  }
+}

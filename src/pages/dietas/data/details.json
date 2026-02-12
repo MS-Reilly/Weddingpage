@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Alergias y dietas",
+    "details": [
+      {
+        "id": "notify",
+        "text": "Indicanos restricciones alimentarias con anticipacion."
+      },
+      {
+        "id": "menu",
+        "text": "Podemos adaptar el menu si lo sabemos a tiempo."
+      },
+      {
+        "id": "contact",
+        "text": "Usa el formulario de contacto para avisar."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Allergies and diets",
+    "details": [
+      {
+        "id": "notify",
+        "text": "Let us know dietary restrictions in advance."
+      },
+      {
+        "id": "menu",
+        "text": "We can adapt the menu if we know in time."
+      },
+      {
+        "id": "contact",
+        "text": "Use the contact form to let us know."
+      }
+    ]
+  }
+}

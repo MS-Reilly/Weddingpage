@@ -1,0 +1,13 @@
+# robots.txt
+# This file tells search engine crawlers what they can or cannot crawl.
+
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Disallow crawling of sensitive paths (adjust if needed)
+Disallow: /admin/
+Disallow: /api/
+
+# Location of your sitemap
+Sitemap: https://www.hicare.uk.com/sitemap.xml

@@ -1,0 +1,434 @@
+{
+  "es": {
+    "sections": {
+      "men": {
+        "title": "Hombres",
+        "description": "Ejemplos para elegir el look ideal.",
+        "metaTitle": "Event | Dress code - Hombres",
+        "metaDescription": "Ejemplos de vestimenta para hombres.",
+        "backgroundImage": "./assets/hero.webp",
+        "sectionTitle": "Ejemplos para hombres",
+        "sectionSubtitle": "Trajes y detalles que funcionan",
+        "cards": [
+          {
+            "id": "men-suit-dark",
+            "title": "Traje oscuro",
+            "description": "Negro, gris o azul muy oscuro con camisa clara.",
+            "imageKey": "suit",
+            "imageAlt": "Traje oscuro"
+          },
+          {
+            "id": "men-suit-navy",
+            "title": "Traje azul marino",
+            "description": "Una opcion clasica y elegante para fotos.",
+            "imageKey": "suit",
+            "imageAlt": "Traje azul marino"
+          },
+          {
+            "id": "men-shoes",
+            "title": "Zapatos formales",
+            "description": "Mocasines o zapatos de vestir en tonos neutros.",
+            "imageKey": "suit",
+            "imageAlt": "Zapatos formales"
+          },
+          {
+            "id": "men-shirt",
+            "title": "Camisa clara",
+            "description": "Blanca o azul clara para un look limpio.",
+            "imageKey": "suit",
+            "imageAlt": "Camisa clara"
+          },
+          {
+            "id": "men-tie",
+            "title": "Corbata opcional",
+            "description": "Un toque elegante si quieres elevar el look.",
+            "imageKey": "suit",
+            "imageAlt": "Corbata"
+          }
+        ],
+        "pinkSection": {
+          "eyebrow": "Consejo",
+          "title": "Elegante y comodo",
+          "description": "Un look sobrio siempre funciona. Busca telas que se vean bien en fotos y que te permitan moverte con confianza.",
+          "imageKey": "suit",
+          "imageAlt": "Detalle de traje"
+        }
+      },
+      "women": {
+        "title": "Mujeres",
+        "description": "Ideas para un look comodo y elegante.",
+        "metaTitle": "Event | Dress code - Mujeres",
+        "metaDescription": "Ejemplos de vestimenta para mujeres.",
+        "backgroundImage": "./assets/hero.webp",
+        "sectionTitle": "Ejemplos para mujeres",
+        "sectionSubtitle": "Vestidos y tonos recomendados",
+        "cards": [
+          {
+            "id": "women-cocktail",
+            "title": "Vestido coctel",
+            "description": "Largo a la rodilla o ligeramente arriba.",
+            "imageKey": "dress",
+            "imageAlt": "Vestido coctel"
+          },
+          {
+            "id": "women-midi",
+            "title": "Vestido midi",
+            "description": "Tonos suaves y telas con movimiento.",
+            "imageKey": "dress",
+            "imageAlt": "Vestido midi"
+          },
+          {
+            "id": "women-accessories",
+            "title": "Accesorios sutiles",
+            "description": "Toques elegantes sin sobrecargar el look.",
+            "imageKey": "dress",
+            "imageAlt": "Accesorios para mujer"
+          },
+          {
+            "id": "women-shoes",
+            "title": "Zapatos comodos",
+            "description": "Tacones o flats que puedas usar toda la noche.",
+            "imageKey": "dress",
+            "imageAlt": "Zapatos para mujer"
+          },
+          {
+            "id": "women-shawl",
+            "title": "Chal ligero",
+            "description": "Ideal si refresca al final de la fiesta.",
+            "imageKey": "scarf",
+            "imageAlt": "Chal"
+          }
+        ],
+        "pinkSection": {
+          "eyebrow": "Consejo",
+          "title": "Listas para brillar",
+          "description": "Elige un look que te haga sentir segura y comoda. Tonos suaves y telas fluidas se ven increibles en fotos.",
+          "imageKey": "dress",
+          "imageAlt": "Vestido elegante"
+        }
+      },
+      "colors": {
+        "title": "Colores reservados",
+        "description": "Por favor evita estos tonos.",
+        "metaTitle": "Event | Dress code - Colores reservados",
+        "metaDescription": "Colores reservados para la boda.",
+        "backgroundImage": "./assets/hero.webp",
+        "sectionTitle": "Colores reservados",
+        "sectionSubtitle": "Ayudanos a respetar el look del cortejo",
+        "cards": [
+          {
+            "id": "colors-white",
+            "title": "Blanco y marfil",
+            "description": "Reservados para la novia y el cortejo.",
+            "imageKey": "colors",
+            "imageAlt": "Tonos blancos"
+          },
+          {
+            "id": "colors-gold",
+            "title": "Dorado y rose gold",
+            "description": "Evitalos para mantener la paleta del evento.",
+            "imageKey": "colors",
+            "imageAlt": "Tonos dorados"
+          },
+          {
+            "id": "colors-soft",
+            "title": "Tonos similares",
+            "description": "Evita variaciones que parezcan parte del cortejo.",
+            "imageKey": "colors",
+            "imageAlt": "Tonos claros"
+          },
+          {
+            "id": "colors-cream",
+            "title": "Beige y crema",
+            "description": "Si se ven muy claros, mejor evitar.",
+            "imageKey": "colors",
+            "imageAlt": "Tonos crema"
+          },
+          {
+            "id": "colors-metallic",
+            "title": "Metales brillantes",
+            "description": "Evita tonos metalicos que compitan con el cortejo.",
+            "imageKey": "colors",
+            "imageAlt": "Tonos metalicos"
+          }
+        ],
+        "pinkSection": {
+          "eyebrow": "Gracias",
+          "title": "Cuidemos la paleta",
+          "description": "Evitar estos tonos nos ayuda a mantener la armonia del evento. Si tienes dudas, preguntanos.",
+          "imageKey": "colors",
+          "imageAlt": "Paleta de color"
+        }
+      },
+      "extras": {
+        "title": "Detalles extra",
+        "description": "Pequenos toques para sentirte mejor.",
+        "metaTitle": "Event | Dress code - Detalles",
+        "metaDescription": "Detalles extra de vestimenta.",
+        "backgroundImage": "./assets/hero.webp",
+        "sectionTitle": "Detalles extra",
+        "sectionSubtitle": "Comodidad y estilo",
+        "cards": [
+          {
+            "id": "extras-coat",
+            "title": "Abrigo ligero",
+            "description": "Puede refrescar por la noche, trae algo suave.",
+            "imageKey": "scarf",
+            "imageAlt": "Abrigo ligero"
+          },
+          {
+            "id": "extras-comfort",
+            "title": "Comodidad",
+            "description": "Busca telas que te permitan moverte y bailar.",
+            "imageKey": "scarf",
+            "imageAlt": "Comodidad en el look"
+          },
+          {
+            "id": "extras-photos",
+            "title": "Listo para fotos",
+            "description": "Un look limpio y planchado siempre luce bien.",
+            "imageKey": "scarf",
+            "imageAlt": "Look para fotos"
+          },
+          {
+            "id": "extras-weather",
+            "title": "Clima fresco",
+            "description": "Trae algo ligero para la tarde y noche.",
+            "imageKey": "scarf",
+            "imageAlt": "Clima fresco"
+          },
+          {
+            "id": "extras-photo",
+            "title": "Detalles pulidos",
+            "description": "Peinado y accesorios simples elevan el look.",
+            "imageKey": "scarf",
+            "imageAlt": "Detalles pulidos"
+          }
+        ],
+        "pinkSection": {
+          "eyebrow": "Tip",
+          "title": "Pequenos detalles",
+          "description": "Un abrigo ligero, zapatos comodos y un look pulido hacen la diferencia. Queremos que disfrutes todo el dia.",
+          "imageKey": "scarf",
+          "imageAlt": "Accesorios"
+        }
+      }
+    }
+  },
+  "en": {
+    "sections": {
+      "men": {
+        "title": "Men",
+        "description": "Examples to help you choose the right look.",
+        "metaTitle": "Event | Dress code - Men",
+        "metaDescription": "Dress examples for men.",
+        "backgroundImage": "./assets/hero.webp",
+        "sectionTitle": "Examples for men",
+        "sectionSubtitle": "Suits and details that work",
+        "cards": [
+          {
+            "id": "men-suit-dark",
+            "title": "Dark suit",
+            "description": "Black, charcoal, or deep navy with a light shirt.",
+            "imageKey": "suit",
+            "imageAlt": "Dark suit"
+          },
+          {
+            "id": "men-suit-navy",
+            "title": "Navy suit",
+            "description": "A classic, elegant option for photos.",
+            "imageKey": "suit",
+            "imageAlt": "Navy suit"
+          },
+          {
+            "id": "men-shoes",
+            "title": "Dress shoes",
+            "description": "Loafers or formal shoes in neutral tones.",
+            "imageKey": "suit",
+            "imageAlt": "Dress shoes"
+          },
+          {
+            "id": "men-shirt",
+            "title": "Light shirt",
+            "description": "White or light blue for a clean look.",
+            "imageKey": "suit",
+            "imageAlt": "Light shirt"
+          },
+          {
+            "id": "men-tie",
+            "title": "Optional tie",
+            "description": "A polished touch if you want to elevate the look.",
+            "imageKey": "suit",
+            "imageAlt": "Tie"
+          }
+        ],
+        "pinkSection": {
+          "eyebrow": "Tip",
+          "title": "Clean and sharp",
+          "description": "A simple, tailored look always works. Choose fabrics that look great in photos and feel good all day.",
+          "imageKey": "suit",
+          "imageAlt": "Suit detail"
+        }
+      },
+      "women": {
+        "title": "Women",
+        "description": "Ideas for a comfortable and elegant look.",
+        "metaTitle": "Event | Dress code - Women",
+        "metaDescription": "Dress examples for women.",
+        "backgroundImage": "./assets/hero.webp",
+        "sectionTitle": "Examples for women",
+        "sectionSubtitle": "Dresses and recommended tones",
+        "cards": [
+          {
+            "id": "women-cocktail",
+            "title": "Cocktail dress",
+            "description": "Knee length or slightly above.",
+            "imageKey": "dress",
+            "imageAlt": "Cocktail dress"
+          },
+          {
+            "id": "women-midi",
+            "title": "Midi dress",
+            "description": "Soft tones and flowy fabrics.",
+            "imageKey": "dress",
+            "imageAlt": "Midi dress"
+          },
+          {
+            "id": "women-accessories",
+            "title": "Subtle accessories",
+            "description": "Elegant touches without overdoing it.",
+            "imageKey": "dress",
+            "imageAlt": "Accessories"
+          },
+          {
+            "id": "women-shoes",
+            "title": "Comfortable shoes",
+            "description": "Heels or flats you can wear all night.",
+            "imageKey": "dress",
+            "imageAlt": "Women shoes"
+          },
+          {
+            "id": "women-shawl",
+            "title": "Light shawl",
+            "description": "Perfect if the evening gets chilly.",
+            "imageKey": "scarf",
+            "imageAlt": "Shawl"
+          }
+        ],
+        "pinkSection": {
+          "eyebrow": "Tip",
+          "title": "Feel your best",
+          "description": "Pick a look that feels confident and comfortable. Soft tones and flowing fabrics look amazing in photos.",
+          "imageKey": "dress",
+          "imageAlt": "Elegant dress"
+        }
+      },
+      "colors": {
+        "title": "Reserved colors",
+        "description": "Please avoid these tones.",
+        "metaTitle": "Event | Dress code - Reserved colors",
+        "metaDescription": "Reserved wedding colors.",
+        "backgroundImage": "./assets/hero.webp",
+        "sectionTitle": "Reserved colors",
+        "sectionSubtitle": "Help us keep the wedding party look",
+        "cards": [
+          {
+            "id": "colors-white",
+            "title": "White and ivory",
+            "description": "Reserved for the bride and wedding party.",
+            "imageKey": "colors",
+            "imageAlt": "White tones"
+          },
+          {
+            "id": "colors-gold",
+            "title": "Gold and rose gold",
+            "description": "Avoid these to keep the event palette.",
+            "imageKey": "colors",
+            "imageAlt": "Gold tones"
+          },
+          {
+            "id": "colors-soft",
+            "title": "Similar tones",
+            "description": "Avoid shades that could look like the wedding party.",
+            "imageKey": "colors",
+            "imageAlt": "Light tones"
+          },
+          {
+            "id": "colors-cream",
+            "title": "Beige and cream",
+            "description": "If it reads too light, it is best to avoid it.",
+            "imageKey": "colors",
+            "imageAlt": "Cream tones"
+          },
+          {
+            "id": "colors-metallic",
+            "title": "Metallics",
+            "description": "Skip metallic tones that compete with the wedding party.",
+            "imageKey": "colors",
+            "imageAlt": "Metallic tones"
+          }
+        ],
+        "pinkSection": {
+          "eyebrow": "Thank you",
+          "title": "Keep the palette",
+          "description": "Avoiding these tones helps keep the event look cohesive. If unsure, ask us.",
+          "imageKey": "colors",
+          "imageAlt": "Color palette"
+        }
+      },
+      "extras": {
+        "title": "Extra details",
+        "description": "Small touches for comfort.",
+        "metaTitle": "Event | Dress code - Details",
+        "metaDescription": "Extra dress details.",
+        "backgroundImage": "./assets/hero.webp",
+        "sectionTitle": "Extra details",
+        "sectionSubtitle": "Comfort and style",
+        "cards": [
+          {
+            "id": "extras-coat",
+            "title": "Light coat",
+            "description": "Evenings can be chilly, bring a light layer.",
+            "imageKey": "scarf",
+            "imageAlt": "Light coat"
+          },
+          {
+            "id": "extras-comfort",
+            "title": "Comfort",
+            "description": "Choose fabrics that let you move and dance.",
+            "imageKey": "scarf",
+            "imageAlt": "Comfortable look"
+          },
+          {
+            "id": "extras-photos",
+            "title": "Photo ready",
+            "description": "A clean, pressed look always works.",
+            "imageKey": "scarf",
+            "imageAlt": "Photo ready outfit"
+          },
+          {
+            "id": "extras-weather",
+            "title": "Cool weather",
+            "description": "Bring a light layer for late afternoon.",
+            "imageKey": "scarf",
+            "imageAlt": "Cool weather"
+          },
+          {
+            "id": "extras-polish",
+            "title": "Polished details",
+            "description": "Simple, neat touches elevate the look.",
+            "imageKey": "scarf",
+            "imageAlt": "Polished details"
+          }
+        ],
+        "pinkSection": {
+          "eyebrow": "Tip",
+          "title": "Small touches matter",
+          "description": "A light coat, comfortable shoes, and a polished look make the day easier and better in photos.",
+          "imageKey": "scarf",
+          "imageAlt": "Accessories"
+        }
+      }
+    }
+  }
+}

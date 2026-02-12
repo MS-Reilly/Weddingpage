@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Recordatorios",
+    "details": [
+      {
+        "id": "umbrella",
+        "text": "Evita llevar paraguas grandes dentro de la iglesia."
+      },
+      {
+        "id": "areas",
+        "text": "Respeta las areas reservadas durante la ceremonia."
+      },
+      {
+        "id": "coordination",
+        "text": "Sigue las indicaciones del equipo de coordinacion."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Reminders",
+    "details": [
+      {
+        "id": "umbrella",
+        "text": "Avoid bringing large umbrellas inside the church."
+      },
+      {
+        "id": "areas",
+        "text": "Respect reserved areas during the ceremony."
+      },
+      {
+        "id": "coordination",
+        "text": "Follow the coordination team instructions."
+      }
+    ]
+  }
+}

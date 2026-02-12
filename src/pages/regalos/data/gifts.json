@@ -1,0 +1,912 @@
+{
+  "es": {
+    "sectionTitle": "Nuestra mesa de regalos",
+    "items": [
+      {
+        "id": "gift-01",
+        "name": "Cena especial",
+        "description": "Apoya una cena para celebrar.",
+        "price": "€60",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-02",
+        "name": "Brindis",
+        "description": "Ayuda con el brindis de la noche.",
+        "price": "€40",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-03",
+        "name": "Noche de hotel",
+        "description": "Un detalle para una noche de descanso.",
+        "price": "€140",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-04",
+        "name": "Excursion local",
+        "description": "Apoya una salida en Irlanda.",
+        "price": "€90",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-05",
+        "name": "Transporte",
+        "description": "Un apoyo para traslados.",
+        "price": "€70",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-06",
+        "name": "Desayuno en pareja",
+        "description": "Un desayuno especial en luna de miel.",
+        "price": "€55",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-07",
+        "name": "Visita cultural",
+        "description": "Entrada a un museo o castillo.",
+        "price": "€80",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-08",
+        "name": "Foto recuerdo",
+        "description": "Ayuda con las fotos del viaje.",
+        "price": "€65",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-09",
+        "name": "Cena romantica",
+        "description": "Una cena para dos.",
+        "price": "€110",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-10",
+        "name": "Cafe y postre",
+        "description": "Un detalle dulce para el viaje.",
+        "price": "€35",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-11",
+        "name": "Paseo guiado",
+        "description": "Tour por la ciudad.",
+        "price": "€95",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-12",
+        "name": "Experiencia en castillo",
+        "description": "Recorrido por un castillo irlandes.",
+        "price": "€130",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-13",
+        "name": "Picnic",
+        "description": "Un picnic en un parque.",
+        "price": "€45",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-14",
+        "name": "Regalo para el hogar",
+        "description": "Apoyo para nuestro nuevo hogar.",
+        "price": "€100",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-15",
+        "name": "Decoracion",
+        "description": "Detalle para decorar nuestra casa.",
+        "price": "€75",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-16",
+        "name": "Merienda",
+        "description": "Snack para el camino.",
+        "price": "€30",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-17",
+        "name": "Ramo especial",
+        "description": "Flores para la celebracion.",
+        "price": "€60",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-18",
+        "name": "Experiencia de te",
+        "description": "Tarde de te en Irlanda.",
+        "price": "€70",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-19",
+        "name": "Clase de cocina",
+        "description": "Una clase para probar sabores locales.",
+        "price": "€120",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-20",
+        "name": "Noche de musica",
+        "description": "Salida a un concierto.",
+        "price": "€90",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-21",
+        "name": "Aventura ligera",
+        "description": "Actividad al aire libre.",
+        "price": "€110",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-22",
+        "name": "Recuerdo artesanal",
+        "description": "Un recuerdo hecho a mano.",
+        "price": "€50",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-23",
+        "name": "Spa",
+        "description": "Momento de relax en el viaje.",
+        "price": "€150",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-24",
+        "name": "Tour costero",
+        "description": "Paseo por la costa.",
+        "price": "€95",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-25",
+        "name": "Libro de recuerdos",
+        "description": "Apoyo para nuestro album.",
+        "price": "€65",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-26",
+        "name": "Experiencia local",
+        "description": "Actividad en un pueblo cercano.",
+        "price": "€85",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-27",
+        "name": "Pase de tren",
+        "description": "Traslado en tren.",
+        "price": "€75",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-28",
+        "name": "Detalle sorpresa",
+        "description": "Un detalle espontaneo.",
+        "price": "€40",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-29",
+        "name": "Cata de cafe",
+        "description": "Degustacion especial.",
+        "price": "€55",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-30",
+        "name": "Cata de vino",
+        "description": "Brindis y degustacion.",
+        "price": "€120",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-31",
+        "name": "Cena con vista",
+        "description": "Cena en un lugar especial.",
+        "price": "€140",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-32",
+        "name": "Desayuno tradicional",
+        "description": "Desayuno tipico irlandes.",
+        "price": "€50",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-33",
+        "name": "Souvenir",
+        "description": "Recuerdo para la casa.",
+        "price": "€35",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-34",
+        "name": "Dia de fotos",
+        "description": "Sesion de fotos en el viaje.",
+        "price": "€160",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-35",
+        "name": "Paseo en jardin",
+        "description": "Visita a jardines.",
+        "price": "€60",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-36",
+        "name": "Noche tranquila",
+        "description": "Detalle para una noche relajada.",
+        "price": "€80",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-37",
+        "name": "Helado y paseo",
+        "description": "Paseo con postre.",
+        "price": "€30",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-38",
+        "name": "Guia local",
+        "description": "Apoyo para un guia local.",
+        "price": "€90",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-39",
+        "name": "Experiencia gastronomica",
+        "description": "Menu especial para dos.",
+        "price": "€150",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-40",
+        "name": "Traslado aeropuerto",
+        "description": "Ayuda con el traslado.",
+        "price": "€70",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-41",
+        "name": "Merienda campestre",
+        "description": "Picnic campestre.",
+        "price": "€55",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-42",
+        "name": "Recuerdo de boda",
+        "description": "Detalle para conservar recuerdos.",
+        "price": "€45",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-43",
+        "name": "Tour historico",
+        "description": "Recorrido por lugares historicos.",
+        "price": "€100",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-44",
+        "name": "Paseo nocturno",
+        "description": "Salida nocturna tranquila.",
+        "price": "€65",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-45",
+        "name": "Entrada a show",
+        "description": "Entrada a espectaculo local.",
+        "price": "€85",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-46",
+        "name": "Cata de te",
+        "description": "Degustacion de te.",
+        "price": "€40",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-47",
+        "name": "Tarde de lectura",
+        "description": "Libro para el viaje.",
+        "price": "€35",
+        "imageKey": "chapel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-48",
+        "name": "Experiencia romantica",
+        "description": "Momento especial para dos.",
+        "price": "€120",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-49",
+        "name": "Detalle de viaje",
+        "description": "Apoyo general para el viaje.",
+        "price": "€75",
+        "imageKey": "hotel",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      },
+      {
+        "id": "gift-50",
+        "name": "Brunch especial",
+        "description": "Brunch para celebrar.",
+        "price": "€95",
+        "imageKey": "castle",
+        "ctaLabel": "Regalar",
+        "ctaHref": "/contacto"
+      }
+    ]
+  },
+  "en": {
+    "sectionTitle": "Our gift table",
+    "items": [
+      {
+        "id": "gift-01",
+        "name": "Special dinner",
+        "description": "Support a dinner to celebrate.",
+        "price": "€60",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-02",
+        "name": "Toast",
+        "description": "Help with the evening toast.",
+        "price": "€40",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-03",
+        "name": "Hotel night",
+        "description": "A treat for a restful night.",
+        "price": "€140",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-04",
+        "name": "Local excursion",
+        "description": "Support an outing in Ireland.",
+        "price": "€90",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-05",
+        "name": "Transportation",
+        "description": "A little help with transfers.",
+        "price": "€70",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-06",
+        "name": "Breakfast for two",
+        "description": "A special honeymoon breakfast.",
+        "price": "€55",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-07",
+        "name": "Cultural visit",
+        "description": "Entry to a museum or castle.",
+        "price": "€80",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-08",
+        "name": "Photo memory",
+        "description": "Help with travel photos.",
+        "price": "€65",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-09",
+        "name": "Romantic dinner",
+        "description": "A dinner for two.",
+        "price": "€110",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-10",
+        "name": "Coffee and dessert",
+        "description": "A sweet detail for the trip.",
+        "price": "€35",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-11",
+        "name": "Guided walk",
+        "description": "A city tour.",
+        "price": "€95",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-12",
+        "name": "Castle experience",
+        "description": "A tour of an Irish castle.",
+        "price": "€130",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-13",
+        "name": "Picnic",
+        "description": "A picnic in a park.",
+        "price": "€45",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-14",
+        "name": "Home gift",
+        "description": "Support for our new home.",
+        "price": "€100",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-15",
+        "name": "Decor",
+        "description": "A detail to decorate our home.",
+        "price": "€75",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-16",
+        "name": "Snack",
+        "description": "A snack for the road.",
+        "price": "€30",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-17",
+        "name": "Special bouquet",
+        "description": "Flowers for the celebration.",
+        "price": "€60",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-18",
+        "name": "Tea experience",
+        "description": "Afternoon tea in Ireland.",
+        "price": "€70",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-19",
+        "name": "Cooking class",
+        "description": "A class to try local flavors.",
+        "price": "€120",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-20",
+        "name": "Music night",
+        "description": "An evening concert.",
+        "price": "€90",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-21",
+        "name": "Light adventure",
+        "description": "An outdoor activity.",
+        "price": "€110",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-22",
+        "name": "Handmade souvenir",
+        "description": "A handmade keepsake.",
+        "price": "€50",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-23",
+        "name": "Spa",
+        "description": "A relaxing moment on the trip.",
+        "price": "€150",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-24",
+        "name": "Coastal tour",
+        "description": "A ride along the coast.",
+        "price": "€95",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-25",
+        "name": "Memory book",
+        "description": "Support for our album.",
+        "price": "€65",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-26",
+        "name": "Local experience",
+        "description": "An activity in a nearby town.",
+        "price": "€85",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-27",
+        "name": "Train pass",
+        "description": "Travel by train.",
+        "price": "€75",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-28",
+        "name": "Surprise detail",
+        "description": "A spontaneous little detail.",
+        "price": "€40",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-29",
+        "name": "Coffee tasting",
+        "description": "A special tasting.",
+        "price": "€55",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-30",
+        "name": "Wine tasting",
+        "description": "A toast and tasting.",
+        "price": "€120",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-31",
+        "name": "Dinner with a view",
+        "description": "Dinner at a special spot.",
+        "price": "€140",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-32",
+        "name": "Traditional breakfast",
+        "description": "A classic Irish breakfast.",
+        "price": "€50",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-33",
+        "name": "Souvenir",
+        "description": "A keepsake for home.",
+        "price": "€35",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-34",
+        "name": "Photo day",
+        "description": "A travel photo session.",
+        "price": "€160",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-35",
+        "name": "Garden walk",
+        "description": "Visit to gardens.",
+        "price": "€60",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-36",
+        "name": "Quiet night",
+        "description": "A detail for a calm evening.",
+        "price": "€80",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-37",
+        "name": "Ice cream and walk",
+        "description": "A walk with dessert.",
+        "price": "€30",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-38",
+        "name": "Local guide",
+        "description": "Support for a local guide.",
+        "price": "€90",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-39",
+        "name": "Gastronomy experience",
+        "description": "A special menu for two.",
+        "price": "€150",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-40",
+        "name": "Airport transfer",
+        "description": "Help with the transfer.",
+        "price": "€70",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-41",
+        "name": "Country snack",
+        "description": "A countryside picnic.",
+        "price": "€55",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-42",
+        "name": "Wedding keepsake",
+        "description": "A detail to keep memories.",
+        "price": "€45",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-43",
+        "name": "Historic tour",
+        "description": "A tour of historic places.",
+        "price": "€100",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-44",
+        "name": "Night stroll",
+        "description": "A calm night out.",
+        "price": "€65",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-45",
+        "name": "Show ticket",
+        "description": "Ticket to a local show.",
+        "price": "€85",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-46",
+        "name": "Tea tasting",
+        "description": "A tea tasting.",
+        "price": "€40",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-47",
+        "name": "Reading time",
+        "description": "A book for the trip.",
+        "price": "€35",
+        "imageKey": "chapel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-48",
+        "name": "Romantic experience",
+        "description": "A special moment for two.",
+        "price": "€120",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-49",
+        "name": "Travel detail",
+        "description": "General support for the trip.",
+        "price": "€75",
+        "imageKey": "hotel",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      },
+      {
+        "id": "gift-50",
+        "name": "Special brunch",
+        "description": "A celebratory brunch.",
+        "price": "€95",
+        "imageKey": "castle",
+        "ctaLabel": "Gift",
+        "ctaHref": "/contact"
+      }
+    ]
+  }
+}

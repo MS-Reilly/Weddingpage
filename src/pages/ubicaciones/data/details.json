@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Mapas y direcciones",
+    "details": [
+      {
+        "id": "map",
+        "text": "Usa el mapa oficial para llegar a la iglesia y al castillo."
+      },
+      {
+        "id": "transfer",
+        "text": "Considera el tiempo de traslado entre ubicaciones."
+      },
+      {
+        "id": "parking",
+        "text": "Si vas en auto, revisa opciones de estacionamiento."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Maps and addresses",
+    "details": [
+      {
+        "id": "map",
+        "text": "Use the official map to reach the church and the castle."
+      },
+      {
+        "id": "transfer",
+        "text": "Consider the travel time between locations."
+      },
+      {
+        "id": "parking",
+        "text": "If you drive, check parking options."
+      }
+    ]
+  }
+}

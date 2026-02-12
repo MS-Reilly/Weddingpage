@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Traslados",
+    "details": [
+      {
+        "id": "confirm",
+        "text": "Confirma tu cupo de transporte con tiempo."
+      },
+      {
+        "id": "timing",
+        "text": "Consulta horarios de ida y regreso para evitar atrasos."
+      },
+      {
+        "id": "pickup",
+        "text": "Indicanos si necesitas un punto de encuentro especial."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Transfers",
+    "details": [
+      {
+        "id": "confirm",
+        "text": "Confirm your transport seat in advance."
+      },
+      {
+        "id": "timing",
+        "text": "Check departure and return times to avoid delays."
+      },
+      {
+        "id": "pickup",
+        "text": "Let us know if you need a special meeting point."
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "es": {
+    "title": "Que hacer en Irlanda",
+    "description": "Ideas para tu viaje.",
+    "metaTitle": "Event | Que hacer en Irlanda",
+    "metaDescription": "Ideas para tu viaje.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "highlights": {
+      "sectionTitle": "Que hacer en Irlanda",
+      "sectionSubtitle": "Dublin, Belfast y mas ideas",
+      "locationLabel": "Ubicacion",
+      "items": [
+        {
+          "id": "dublin-city",
+          "title": "Paseo por el centro",
+          "location": "Dublin",
+          "description": "Calles para caminar, musica y ambiente local.",
+          "categoryLabel": "Turismo",
+          "imageKey": "hotel",
+          "imageAlt": "Calle en ciudad"
+        },
+        {
+          "id": "temple-bar",
+          "title": "Zona Temple Bar",
+          "location": "Dublin",
+          "description": "Opciones de pubs, cafes y vida nocturna.",
+          "categoryLabel": "Restaurantes",
+          "imageKey": "hotel",
+          "imageAlt": "Letreros de pubs"
+        },
+        {
+          "id": "trinity",
+          "title": "Trinity College area",
+          "location": "Dublin",
+          "description": "Ambiente universitario y plazas para fotos.",
+          "categoryLabel": "Historico",
+          "imageKey": "chapel",
+          "imageAlt": "Edificio clasico"
+        },
+        {
+          "id": "stephens-green",
+          "title": "St Stephen's Green",
+          "location": "Dublin",
+          "description": "Un parque ideal para un descanso corto.",
+          "categoryLabel": "Turismo",
+          "imageKey": "bellingham",
+          "imageAlt": "Parque verde"
+        },
+        {
+          "id": "guinness",
+          "title": "Guinness Storehouse area",
+          "location": "Dublin",
+          "description": "Zona popular para una visita rapida y fotos.",
+          "categoryLabel": "Historico",
+          "imageKey": "hotel",
+          "imageAlt": "Edificio industrial"
+        },
+        {
+          "id": "belfast-titanic",
+          "title": "Titanic Quarter",
+          "location": "Belfast",
+          "description": "Una zona moderna con museos y paseos.",
+          "categoryLabel": "Historico",
+          "imageKey": "chapel",
+          "imageAlt": "Edificio moderno"
+        },
+        {
+          "id": "belfast-cathedral",
+          "title": "Cathedral Quarter",
+          "location": "Belfast",
+          "description": "Calles con cafes, murales y ambiente urbano.",
+          "categoryLabel": "Restaurantes",
+          "imageKey": "hotel",
+          "imageAlt": "Calle con murales"
+        },
+        {
+          "id": "derry-walls",
+          "title": "Derry Walls",
+          "location": "Derry/Londonderry",
+          "description": "Un paseo historico si haces una excursion.",
+          "categoryLabel": "Historico",
+          "imageKey": "chapel",
+          "imageAlt": "Muralla de piedra"
+        },
+        {
+          "id": "giants-causeway",
+          "title": "Giant's Causeway",
+          "location": "Causeway Coast",
+          "description": "Paisajes costeros y formaciones naturales.",
+          "categoryLabel": "Turismo",
+          "imageKey": "bellingham",
+          "imageAlt": "Costa rocosa"
+        },
+        {
+          "id": "cliffs-moher",
+          "title": "Cliffs of Moher",
+          "location": "County Clare",
+          "description": "Vista iconica para una salida de dia completo.",
+          "categoryLabel": "Turismo",
+          "imageKey": "bellingham",
+          "imageAlt": "Acantilados"
+        },
+        {
+          "id": "galway",
+          "title": "Galway city",
+          "location": "Galway",
+          "description": "Calles con musica, cafes y ambiente costero.",
+          "categoryLabel": "Restaurantes",
+          "imageKey": "hotel",
+          "imageAlt": "Calles con cafes"
+        },
+        {
+          "id": "wicklow",
+          "title": "Wicklow Mountains",
+          "location": "County Wicklow",
+          "description": "Naturaleza y miradores cerca de Dublin.",
+          "categoryLabel": "Turismo",
+          "imageKey": "bellingham",
+          "imageAlt": "Montanas verdes"
+        }
+      ]
+    },
+    "video": {
+      "heading": "Irlanda tiene de todo",
+      "subheading": "Ciudades, historia y naturaleza",
+      "message": "Hay muchisimos lugares para visitar en Irlanda, desde Dublin y Belfast hasta la costa y las montanas. Disfruta el viaje y explora los sitios hermosos."
+    }
+  },
+  "en": {
+    "title": "What to do in Ireland",
+    "description": "Ideas for your trip.",
+    "metaTitle": "Event | What to do in Ireland",
+    "metaDescription": "Ideas for your trip.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "highlights": {
+      "sectionTitle": "What to do in Ireland",
+      "sectionSubtitle": "Dublin, Belfast, and more",
+      "locationLabel": "Location",
+      "items": [
+        {
+          "id": "dublin-city",
+          "title": "City center walk",
+          "location": "Dublin",
+          "description": "Walkable streets with music and local energy.",
+          "categoryLabel": "Sightseeing",
+          "imageKey": "hotel",
+          "imageAlt": "City street"
+        },
+        {
+          "id": "temple-bar",
+          "title": "Temple Bar area",
+          "location": "Dublin",
+          "description": "Pubs, cafes, and nightlife spots.",
+          "categoryLabel": "Restaurants",
+          "imageKey": "hotel",
+          "imageAlt": "Pub signs"
+        },
+        {
+          "id": "trinity",
+          "title": "Trinity College area",
+          "location": "Dublin",
+          "description": "Classic campus vibes and photo-friendly squares.",
+          "categoryLabel": "Historical",
+          "imageKey": "chapel",
+          "imageAlt": "Classic building"
+        },
+        {
+          "id": "stephens-green",
+          "title": "St Stephen's Green",
+          "location": "Dublin",
+          "description": "A calm park for a short break.",
+          "categoryLabel": "Sightseeing",
+          "imageKey": "bellingham",
+          "imageAlt": "Green park"
+        },
+        {
+          "id": "guinness",
+          "title": "Guinness Storehouse area",
+          "location": "Dublin",
+          "description": "A popular area for a quick visit and photos.",
+          "categoryLabel": "Historical",
+          "imageKey": "hotel",
+          "imageAlt": "Industrial building"
+        },
+        {
+          "id": "belfast-titanic",
+          "title": "Titanic Quarter",
+          "location": "Belfast",
+          "description": "A modern district with museums and walks.",
+          "categoryLabel": "Historical",
+          "imageKey": "chapel",
+          "imageAlt": "Modern building"
+        },
+        {
+          "id": "belfast-cathedral",
+          "title": "Cathedral Quarter",
+          "location": "Belfast",
+          "description": "Cafe streets, murals, and city energy.",
+          "categoryLabel": "Restaurants",
+          "imageKey": "hotel",
+          "imageAlt": "Street with murals"
+        },
+        {
+          "id": "derry-walls",
+          "title": "Derry Walls",
+          "location": "Derry/Londonderry",
+          "description": "A historic walk if you take a day trip.",
+          "categoryLabel": "Historical",
+          "imageKey": "chapel",
+          "imageAlt": "Stone wall"
+        },
+        {
+          "id": "giants-causeway",
+          "title": "Giant's Causeway",
+          "location": "Causeway Coast",
+          "description": "Coastal views and natural formations.",
+          "categoryLabel": "Sightseeing",
+          "imageKey": "bellingham",
+          "imageAlt": "Rocky coastline"
+        },
+        {
+          "id": "cliffs-moher",
+          "title": "Cliffs of Moher",
+          "location": "County Clare",
+          "description": "An iconic viewpoint for a full-day trip.",
+          "categoryLabel": "Sightseeing",
+          "imageKey": "bellingham",
+          "imageAlt": "Cliffs"
+        },
+        {
+          "id": "galway",
+          "title": "Galway city",
+          "location": "Galway",
+          "description": "Music, cafes, and a coastal vibe.",
+          "categoryLabel": "Restaurants",
+          "imageKey": "hotel",
+          "imageAlt": "Cafe streets"
+        },
+        {
+          "id": "wicklow",
+          "title": "Wicklow Mountains",
+          "location": "County Wicklow",
+          "description": "Nature and viewpoints close to Dublin.",
+          "categoryLabel": "Sightseeing",
+          "imageKey": "bellingham",
+          "imageAlt": "Green mountains"
+        }
+      ]
+    },
+    "video": {
+      "heading": "Ireland has it all",
+      "subheading": "Cities, history, and nature",
+      "message": "There is a lot to explore across Ireland, from Dublin and Belfast to the coast and the mountains. Enjoy the trip and discover beautiful places."
+    }
+  }
+}

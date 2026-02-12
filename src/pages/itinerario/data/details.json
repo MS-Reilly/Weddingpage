@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Detalles del dia",
+    "details": [
+      {
+        "id": "arrival",
+        "text": "Llega con 10 minutos de anticipacion para ubicarnos con calma."
+      },
+      {
+        "id": "schedule",
+        "text": "Revisa el horario completo y guarda los tiempos clave."
+      },
+      {
+        "id": "questions",
+        "text": "Si tienes dudas, escribenos desde la seccion de contacto."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Day details",
+    "details": [
+      {
+        "id": "arrival",
+        "text": "Arrive 10 minutes early so we can get settled calmly."
+      },
+      {
+        "id": "schedule",
+        "text": "Review the full schedule and save the key times."
+      },
+      {
+        "id": "questions",
+        "text": "If you have questions, write to us through the contact section."
+      }
+    ]
+  }
+}

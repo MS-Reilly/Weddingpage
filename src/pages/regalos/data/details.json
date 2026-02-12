@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Regalos",
+    "details": [
+      {
+        "id": "digital",
+        "text": "Puedes contribuir a la mesa de regalos digital."
+      },
+      {
+        "id": "transfer",
+        "text": "Si prefieres, tambien aceptamos transferencias."
+      },
+      {
+        "id": "thanks",
+        "text": "Gracias por acompanarnos en este momento."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Gifts",
+    "details": [
+      {
+        "id": "digital",
+        "text": "You can contribute to the digital gift table."
+      },
+      {
+        "id": "transfer",
+        "text": "If you prefer, we also accept bank transfers."
+      },
+      {
+        "id": "thanks",
+        "text": "Thank you for joining us at this moment."
+      }
+    ]
+  }
+}

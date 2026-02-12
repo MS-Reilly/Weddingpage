@@ -1,0 +1,59 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Build output
+/build
+/dist
+
+# Production
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+*.pid
+*.pid.lock
+
+# Environment files
+.env
+.env.*.local
+
+# Testing
+/coverage
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional cache
+.cache/
+.parcel-cache/
+.next/
+out/
+
+# Storybook
+storybook-static
+
+# Large video files
+*.mp4
+*.mov
+*.avi
+*.webm
+
+# Other
+*.tgz
+
+*storybook.log

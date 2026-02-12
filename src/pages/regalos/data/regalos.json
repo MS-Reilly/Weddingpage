@@ -1,0 +1,28 @@
+{
+  "es": {
+    "title": "Mesa de regalos",
+    "description": "Informacion sobre la mesa de regalos y obsequios.",
+    "metaTitle": "Event | Mesa de regalos",
+    "metaDescription": "Informacion sobre la mesa de regalos y obsequios.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "noticeSection": {
+      "eyebrow": "Gracias",
+      "title": "Apreciamos cualquier detalle",
+      "description": "Si deseas aportar, puedes transferirlo a nuestras cuentas. Sabemos que el viaje fue costoso, asi que no lo esperamos."
+    }
+  },
+  "en": {
+    "title": "Gift table",
+    "description": "Information about the gift table and presents.",
+    "metaTitle": "Event | Gift table",
+    "metaDescription": "Information about the gift table and presents.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "noticeSection": {
+      "eyebrow": "Thank you",
+      "title": "We appreciate any gift",
+      "description": "If you would like to contribute, you can transfer it to our accounts. We know the trip was costly, so we are not expecting it."
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "es": {
+    "title": "Que hacer en Newry",
+    "description": "Planes cerca del hotel.",
+    "metaTitle": "Event | Que hacer en Newry",
+    "metaDescription": "Planes cerca del hotel.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "highlights": {
+      "sectionTitle": "Que hacer en Newry",
+      "sectionSubtitle": "Ideas para explorar la zona",
+      "locationLabel": "Ubicacion",
+      "items": [
+        {
+          "id": "cathedral",
+          "title": "Catedral de San Patricio y San Colman",
+          "location": "Newry",
+          "description": "Una visita tranquila con arquitectura clasica y vistas bonitas en el centro.",
+          "categoryLabel": "Historico",
+          "imageKey": "chapel",
+          "imageAlt": "Interior de una iglesia"
+        },
+        {
+          "id": "canal",
+          "title": "Paseo por el canal",
+          "location": "Newry Canal Towpath",
+          "description": "Camina al atardecer o por la manana para un plan relajado cerca del agua.",
+          "categoryLabel": "Turismo",
+          "imageKey": "bellingham",
+          "imageAlt": "Sendero junto al agua"
+        },
+        {
+          "id": "shopping",
+          "title": "Tiendas y cafes en el centro",
+          "location": "Newry City Centre",
+          "description": "Opciones para comer algo, comprar y descansar entre planes.",
+          "categoryLabel": "Restaurantes",
+          "imageKey": "hotel",
+          "imageAlt": "Cafeteria con mesas"
+        },
+        {
+          "id": "bessbrook",
+          "title": "Bessbrook",
+          "location": "Bessbrook Village",
+          "description": "Un pueblo con historia industrial y calles tranquilas para pasear.",
+          "categoryLabel": "Historico",
+          "imageKey": "chapel",
+          "imageAlt": "Edificios historicos"
+        },
+        {
+          "id": "slieve-gullion",
+          "title": "Slieve Gullion Forest Park",
+          "location": "Ring of Gullion",
+          "description": "Senderos y miradores para una salida corta en la naturaleza.",
+          "categoryLabel": "Turismo",
+          "imageKey": "bellingham",
+          "imageAlt": "Bosque con sendero"
+        },
+        {
+          "id": "carlingford",
+          "title": "Vistas al Carlingford Lough",
+          "location": "Newry to Carlingford",
+          "description": "Paisajes costeros y aire fresco para una tarde relajada.",
+          "categoryLabel": "Turismo",
+          "imageKey": "bellingham",
+          "imageAlt": "Vista al lago"
+        },
+        {
+          "id": "museo-newry",
+          "title": "Museo de Newry",
+          "location": "Newry",
+          "description": "Una parada rapida para conocer la historia local.",
+          "categoryLabel": "Historico",
+          "imageKey": "hotel",
+          "imageAlt": "Exhibicion en museo"
+        },
+        {
+          "id": "cafes-locales",
+          "title": "Cafes y brunch",
+          "location": "Newry",
+          "description": "Ideal para desayunar o tomar cafe antes de salir.",
+          "categoryLabel": "Restaurantes",
+          "imageKey": "hotel",
+          "imageAlt": "Mesa de cafe"
+        },
+        {
+          "id": "pubs",
+          "title": "Pubs tradicionales",
+          "location": "Newry",
+          "description": "Un plan tranquilo para tomar algo por la noche.",
+          "categoryLabel": "Restaurantes",
+          "imageKey": "hotel",
+          "imageAlt": "Interior de pub"
+        },
+        {
+          "id": "ruinas",
+          "title": "Ruinas y sitios historicos",
+          "location": "Cerca de Newry",
+          "description": "Opciones para una visita corta si te gusta la historia.",
+          "categoryLabel": "Historico",
+          "imageKey": "chapel",
+          "imageAlt": "Ruinas historicas"
+        }
+      ]
+    },
+    "video": {
+      "heading": "Mucho por descubrir",
+      "subheading": "Newry y sus alrededores",
+      "message": "Hay muchas cosas que hacer en Newry y sus alrededores. Sientete libre de explorar los sitios hermosos."
+    }
+  },
+  "en": {
+    "title": "What to do in Newry",
+    "description": "Plans near the hotel.",
+    "metaTitle": "Event | What to do in Newry",
+    "metaDescription": "Plans near the hotel.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "highlights": {
+      "sectionTitle": "What to do in Newry",
+      "sectionSubtitle": "Ideas to explore nearby",
+      "locationLabel": "Location",
+      "items": [
+        {
+          "id": "cathedral",
+          "title": "Cathedral of Saint Patrick and Saint Colman",
+          "location": "Newry",
+          "description": "A calm visit with classic architecture and scenic views in the center.",
+          "categoryLabel": "Historical",
+          "imageKey": "chapel",
+          "imageAlt": "Church interior"
+        },
+        {
+          "id": "canal",
+          "title": "Canal walk",
+          "location": "Newry Canal Towpath",
+          "description": "Walk at sunset or in the morning for a relaxed plan by the water.",
+          "categoryLabel": "Sightseeing",
+          "imageKey": "bellingham",
+          "imageAlt": "Path beside the water"
+        },
+        {
+          "id": "shopping",
+          "title": "Shops and cafes downtown",
+          "location": "Newry City Centre",
+          "description": "Easy options for a bite, shopping, and a break between plans.",
+          "categoryLabel": "Restaurants",
+          "imageKey": "hotel",
+          "imageAlt": "Cafe tables"
+        },
+        {
+          "id": "bessbrook",
+          "title": "Bessbrook",
+          "location": "Bessbrook Village",
+          "description": "A historic mill village with calm streets to stroll.",
+          "categoryLabel": "Historical",
+          "imageKey": "chapel",
+          "imageAlt": "Historic buildings"
+        },
+        {
+          "id": "slieve-gullion",
+          "title": "Slieve Gullion Forest Park",
+          "location": "Ring of Gullion",
+          "description": "Trails and viewpoints for a short nature outing.",
+          "categoryLabel": "Sightseeing",
+          "imageKey": "bellingham",
+          "imageAlt": "Forest path"
+        },
+        {
+          "id": "carlingford",
+          "title": "Carlingford Lough views",
+          "location": "Newry to Carlingford",
+          "description": "Coastal scenery and fresh air for an easy afternoon.",
+          "categoryLabel": "Sightseeing",
+          "imageKey": "bellingham",
+          "imageAlt": "Lake view"
+        },
+        {
+          "id": "newry-museum",
+          "title": "Newry Museum",
+          "location": "Newry",
+          "description": "A quick stop to learn about local history.",
+          "categoryLabel": "Historical",
+          "imageKey": "hotel",
+          "imageAlt": "Museum exhibit"
+        },
+        {
+          "id": "cafes",
+          "title": "Cafes and brunch",
+          "location": "Newry",
+          "description": "Great for breakfast or coffee before exploring.",
+          "categoryLabel": "Restaurants",
+          "imageKey": "hotel",
+          "imageAlt": "Coffee table"
+        },
+        {
+          "id": "pubs",
+          "title": "Traditional pubs",
+          "location": "Newry",
+          "description": "A relaxed plan for a drink in the evening.",
+          "categoryLabel": "Restaurants",
+          "imageKey": "hotel",
+          "imageAlt": "Pub interior"
+        },
+        {
+          "id": "ruins",
+          "title": "Ruins and historic sites",
+          "location": "Near Newry",
+          "description": "Short visits if you are into local history.",
+          "categoryLabel": "Historical",
+          "imageKey": "chapel",
+          "imageAlt": "Historic ruins"
+        }
+      ]
+    },
+    "video": {
+      "heading": "So much to explore",
+      "subheading": "Newry and the surroundings",
+      "message": "There are many things to do in Newry and the surrounding area. Feel free to explore the beautiful sites."
+    }
+  }
+}

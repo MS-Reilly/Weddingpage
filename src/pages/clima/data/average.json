@@ -1,0 +1,56 @@
+{
+  "es": {
+    "eyebrow": "Abril en Irlanda",
+    "title": "Promedios del mes",
+    "description": "Valores aproximados basados en el area de Dublin.",
+    "stats": [
+      {
+        "id": "high",
+        "label": "Maxima",
+        "value": "12 C"
+      },
+      {
+        "id": "low",
+        "label": "Minima",
+        "value": "6 C"
+      },
+      {
+        "id": "rain",
+        "label": "Lluvia",
+        "value": "50-60 mm"
+      },
+      {
+        "id": "daylight",
+        "label": "Luz del dia",
+        "value": "13-14 h"
+      }
+    ]
+  },
+  "en": {
+    "eyebrow": "April in Ireland",
+    "title": "Monthly averages",
+    "description": "Approximate values based on the Dublin area.",
+    "stats": [
+      {
+        "id": "high",
+        "label": "High",
+        "value": "12 C"
+      },
+      {
+        "id": "low",
+        "label": "Low",
+        "value": "6 C"
+      },
+      {
+        "id": "rain",
+        "label": "Rain",
+        "value": "50-60 mm"
+      },
+      {
+        "id": "daylight",
+        "label": "Daylight",
+        "value": "13-14 hrs"
+      }
+    ]
+  }
+}

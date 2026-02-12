@@ -1,0 +1,18 @@
+{
+  "es": {
+    "title": "Clima en Irlanda",
+    "description": "Que llevar y como vestirse.",
+    "metaTitle": "Event | Clima en Irlanda",
+    "metaDescription": "Que llevar y como vestirse.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp"
+  },
+  "en": {
+    "title": "Weather in Ireland",
+    "description": "What to pack and how to dress.",
+    "metaTitle": "Event | Weather in Ireland",
+    "metaDescription": "What to pack and how to dress.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Alojamiento",
+    "details": [
+      {
+        "id": "nearby",
+        "text": "Prioriza hoteles cerca del Carrickdale o del castillo."
+      },
+      {
+        "id": "blocks",
+        "text": "Consulta si hay bloques de habitaciones disponibles."
+      },
+      {
+        "id": "group",
+        "text": "Coordina temprano si viajas en grupo."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Accommodation",
+    "details": [
+      {
+        "id": "nearby",
+        "text": "Prioritize hotels near Carrickdale or the castle."
+      },
+      {
+        "id": "blocks",
+        "text": "Check if room blocks are available."
+      },
+      {
+        "id": "group",
+        "text": "Coordinate early if you are traveling as a group."
+      }
+    ]
+  }
+}

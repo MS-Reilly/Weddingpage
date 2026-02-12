@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Preguntas frecuentes",
+    "details": [
+      {
+        "id": "ceremony",
+        "text": "A que hora inicia la ceremonia?"
+      },
+      {
+        "id": "dresscode",
+        "text": "Hay codigo de vestimenta especifico?"
+      },
+      {
+        "id": "dietas",
+        "text": "Como informo alergias o dietas?"
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Frequently asked questions",
+    "details": [
+      {
+        "id": "ceremony",
+        "text": "What time does the ceremony start?"
+      },
+      {
+        "id": "dresscode",
+        "text": "Is there a specific dress code?"
+      },
+      {
+        "id": "dietas",
+        "text": "How do I report allergies or diets?"
+      }
+    ]
+  }
+}

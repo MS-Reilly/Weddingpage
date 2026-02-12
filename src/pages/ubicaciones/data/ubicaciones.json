@@ -1,0 +1,26 @@
+{
+  "es": {
+    "title": "Ubicaciones",
+    "description": "Mapa de iglesia y recepción.",
+    "metaTitle": "Event | Ubicaciones",
+    "metaDescription": "Mapa de iglesia y recepción.",
+    "backgroundImage": "./assets/hero.webp",
+    "video": {
+      "heading": "Todo esta cerca",
+      "subheading": "La mayoria de ubicaciones estan a maximo 20 minutos de Newry.",
+      "message": "El dia de la boda, los desplazamientos son cortos para que todo fluya con calma."
+    }
+  },
+  "en": {
+    "title": "Locations",
+    "description": "Map of the church and reception.",
+    "metaTitle": "Event | Locations",
+    "metaDescription": "Map of the church and reception.",
+    "backgroundImage": "./assets/hero.webp",
+    "video": {
+      "heading": "Everything is close",
+      "subheading": "Most locations are at most 20 minutes from Newry.",
+      "message": "On the wedding day, travel times are short so everything flows calmly."
+    }
+  }
+}

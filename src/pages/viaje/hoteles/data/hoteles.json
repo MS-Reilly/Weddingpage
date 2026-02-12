@@ -1,0 +1,102 @@
+{
+  "es": {
+    "title": "Hoteles",
+    "description": "Recomendaciones de alojamiento.",
+    "metaTitle": "Event | Hoteles",
+    "metaDescription": "Recomendaciones de alojamiento.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "cards": {
+      "sectionTitle": "Hoteles recomendados",
+      "sectionSubtitle": "Tres opciones cerca del evento.",
+      "items": [
+        {
+          "id": "carrickdale",
+          "title": "Carrickdale Hotel & Spa",
+          "description": "Nuestra recomendacion principal por cercania y comodidad.",
+          "imageKey": "hotel",
+          "imageAlt": "Fachada de hotel",
+          "badgeLabel": "Recomendado",
+          "distanceLabel": "10 min",
+          "ctaLabel": "Ver hotel",
+          "ctaHref": "https://www.google.com/search?q=Carrickdale+Hotel+%26+Spa"
+        },
+        {
+          "id": "canal-court",
+          "title": "Canal Court Hotel, Newry",
+          "description": "Opcion centrica en Newry con buenos accesos.",
+          "imageKey": "chapel",
+          "imageAlt": "Hotel clasico en la ciudad",
+          "ctaLabel": "Ver hotel",
+          "ctaHref": "https://www.google.com/search?q=Canal+Court+Hotel+Newry"
+        },
+        {
+          "id": "airbnb",
+          "title": "Airbnb en Newry y alrededores",
+          "description": "Casas y departamentos con flexibilidad para grupos.",
+          "imageKey": "bellingham",
+          "imageAlt": "Vista de campo verde",
+          "ctaLabel": "Ver Airbnb",
+          "ctaHref": "https://www.airbnb.com/s/Newry--United-Kingdom/homes"
+        }
+      ]
+    },
+    "notice": {
+      "eyebrow": "Importante",
+      "title": "Habitaciones en el castillo",
+      "description": "El dia de la boda habra habitaciones disponibles en el castillo por tu conveniencia. Cada habitacion cuesta 255 euros por noche. Por favor contactanos si necesitas una.",
+      "imageKey": "bellingham",
+      "imageAlt": "Castillo rodeado de verde"
+    }
+  },
+  "en": {
+    "title": "Hotels",
+    "description": "Accommodation recommendations.",
+    "metaTitle": "Event | Hotels",
+    "metaDescription": "Accommodation recommendations.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "cards": {
+      "sectionTitle": "Recommended hotels",
+      "sectionSubtitle": "Three options close to the venue.",
+      "items": [
+        {
+          "id": "carrickdale",
+          "title": "Carrickdale Hotel & Spa",
+          "description": "Our top recommendation for proximity and comfort.",
+          "imageKey": "hotel",
+          "imageAlt": "Hotel facade",
+          "badgeLabel": "Recommended",
+          "distanceLabel": "10 min",
+          "ctaLabel": "View hotel",
+          "ctaHref": "https://www.google.com/search?q=Carrickdale+Hotel+%26+Spa"
+        },
+        {
+          "id": "canal-court",
+          "title": "Canal Court Hotel, Newry",
+          "description": "Central Newry option with easy access.",
+          "imageKey": "chapel",
+          "imageAlt": "Classic city hotel",
+          "ctaLabel": "View hotel",
+          "ctaHref": "https://www.google.com/search?q=Canal+Court+Hotel+Newry"
+        },
+        {
+          "id": "airbnb",
+          "title": "Airbnb in Newry and nearby",
+          "description": "Homes and apartments with flexibility for groups.",
+          "imageKey": "bellingham",
+          "imageAlt": "Green countryside view",
+          "ctaLabel": "View Airbnb",
+          "ctaHref": "https://www.airbnb.com/s/Newry--United-Kingdom/homes"
+        }
+      ]
+    },
+    "notice": {
+      "eyebrow": "Important",
+      "title": "Rooms at the castle",
+      "description": "On the wedding day there will be rooms available at the castle for your convenience. Each room is 255 euros per night. Please contact us if you need one.",
+      "imageKey": "bellingham",
+      "imageAlt": "Castle surrounded by greenery"
+    }
+  }
+}

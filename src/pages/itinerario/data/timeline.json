@@ -1,0 +1,182 @@
+{
+  "es": {
+    "title": "Itinerario",
+    "subtitle": "Un dia completo desde los preparativos hasta el ultimo baile.",
+    "items": [
+      {
+        "time": "07:00",
+        "title": "La novia se prepara",
+        "description": "Peluqueria, maquillaje y ultimos retoques para empezar el dia con calma.",
+        "image": "img1.jpg"
+      },
+      {
+        "time": "11:00",
+        "title": "Recogida en autobus - Carrickdale Hotel",
+        "description": "Los invitados suben al autobus en Carrickdale Hotel para el trayecto corto a la capilla.",
+        "image": "img2.jpg"
+      },
+      {
+        "time": "11:10",
+        "title": "Trayecto en autobus",
+        "description": "Aproximadamente 10 minutos de viaje hasta la capilla.",
+        "image": "img3.png"
+      },
+      {
+        "time": "11:30",
+        "title": "Acomodacion en la capilla",
+        "description": "Los invitados toman asiento y se acomodan.",
+        "image": "img4.jpg"
+      },
+      {
+        "time": "12:00",
+        "title": "Llegada de la novia",
+        "description": "La novia llega a la capilla.",
+        "image": "img5.jpeg"
+      },
+      {
+        "time": "12:30 - 13:30",
+        "title": "Ceremonia de misa",
+        "description": "Ceremonia de una hora en la capilla.",
+        "image": "img6.jpg"
+      },
+      {
+        "time": "13:30",
+        "title": "Salida de autobuses desde la capilla",
+        "description": "Los autobuses recogen a los invitados y van al lugar (aprox. 25 minutos).",
+        "image": "img7.jpg"
+      },
+      {
+        "time": "14:00",
+        "title": "Llegada al lugar",
+        "description": "Los invitados llegan y se acomodan en el lugar.",
+        "image": "img8.jpg"
+      },
+      {
+        "time": "14:00 - 17:45",
+        "title": "Te y tiempo para refrescarse",
+        "description": "Servicio de te y tiempo para descansar en las habitaciones para quienes se quedan.",
+        "image": "img9.jpg"
+      },
+      {
+        "time": "18:00",
+        "title": "Apertura del salon",
+        "description": "Los invitados pasan al salon comedor.",
+        "image": "img10.webp"
+      },
+      {
+        "time": "18:15",
+        "title": "Discursos",
+        "description": "Discursos antes de servir la cena.",
+        "image": "img11.jpg"
+      },
+      {
+        "time": "19:00",
+        "title": "Cena",
+        "description": "Empieza el servicio de cena.",
+        "image": "img12.jpg"
+      },
+      {
+        "time": "20:30",
+        "title": "Musica y primer baile",
+        "description": "Comienza la musica y se realiza el primer baile.",
+        "image": "img13.jpeg"
+      },
+      {
+        "time": "Hasta las 02:00",
+        "title": "Celebracion",
+        "description": "Baile y celebracion hasta la madrugada.",
+        "image": "img14.webp"
+      }
+    ]
+  },
+  "en": {
+    "title": "Timeline",
+    "subtitle": "A full day from preparations to the last dance.",
+    "items": [
+      {
+        "time": "07:00",
+        "title": "The bride gets ready",
+        "description": "Hair, makeup, and final touches to start the day calmly.",
+        "image": "img1.jpg"
+      },
+      {
+        "time": "11:00",
+        "title": "Bus pickup - Carrickdale Hotel",
+        "description": "Guests board the bus at Carrickdale Hotel for the short ride to the chapel.",
+        "image": "img2.jpg"
+      },
+      {
+        "time": "11:10",
+        "title": "Bus ride",
+        "description": "Approximately 10 minutes of travel to the chapel.",
+        "image": "img3.png"
+      },
+      {
+        "time": "11:30",
+        "title": "Seating in the chapel",
+        "description": "Guests take their seats and get settled.",
+        "image": "img4.jpg"
+      },
+      {
+        "time": "12:00",
+        "title": "Bride arrives",
+        "description": "The bride arrives at the chapel.",
+        "image": "img5.jpeg"
+      },
+      {
+        "time": "12:30 - 13:30",
+        "title": "Mass ceremony",
+        "description": "One-hour ceremony in the chapel.",
+        "image": "img6.jpg"
+      },
+      {
+        "time": "13:30",
+        "title": "Buses depart from the chapel",
+        "description": "Buses pick up guests and head to the venue (approx. 25 minutes).",
+        "image": "img7.jpg"
+      },
+      {
+        "time": "14:00",
+        "title": "Arrival at the venue",
+        "description": "Guests arrive and get settled at the venue.",
+        "image": "img8.jpg"
+      },
+      {
+        "time": "14:00 - 17:45",
+        "title": "Tea and refresh time",
+        "description": "Tea service and time to rest in rooms for those staying.",
+        "image": "img9.jpg"
+      },
+      {
+        "time": "18:00",
+        "title": "Reception room opens",
+        "description": "Guests move to the dining room.",
+        "image": "img10.webp"
+      },
+      {
+        "time": "18:15",
+        "title": "Speeches",
+        "description": "Speeches before dinner service.",
+        "image": "img11.jpg"
+      },
+      {
+        "time": "19:00",
+        "title": "Dinner",
+        "description": "Dinner service begins.",
+        "image": "img12.jpg"
+      },
+      {
+        "time": "20:30",
+        "title": "Music and first dance",
+        "description": "Music starts and the first dance takes place.",
+        "image": "img13.jpeg"
+      },
+      {
+        "time": "Until 02:00",
+        "title": "Celebration",
+        "description": "Dancing and celebration into the early morning.",
+        "image": "img14.webp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "es": {
+    "title": "Dietas y alergias",
+    "description": "Haznos saber tus requisitos.",
+    "metaTitle": "Event | Dietas y alergias",
+    "metaDescription": "Haznos saber tus requisitos.",
+    "note": "Pronto compartiremos mas informacion.",
+    "backgroundImage": "./assets/hero.webp",
+    "storySection": {
+      "titleHighlight": "Muchas opciones ",
+      "titleSuffix": "para disfrutar",
+      "paragraphs": [
+        "Tendremos muchos platillos y opciones para que todos puedan disfrutar la cena.",
+        "Queremos que te sientas comodo y bien atendido durante toda la celebracion."
+      ],
+      "imageAlt": "Mesa con platos variados"
+    },
+    "noticeSection": {
+      "eyebrow": "Importante",
+      "title": "Avisanos tus requerimientos",
+      "description": "Por favor dinos si tienes alguna necesidad alimentaria para poder cuidarte."
+    }
+  },
+  "en": {
+    "title": "Diets and allergies",
+    "description": "Let us know your requirements.",
+    "metaTitle": "Event | Diets and allergies",
+    "metaDescription": "Let us know your requirements.",
+    "note": "We will share more information soon.",
+    "backgroundImage": "./assets/hero.webp",
+    "storySection": {
+      "titleHighlight": "Plenty of options ",
+      "titleSuffix": "to enjoy",
+      "paragraphs": [
+        "We will have many dishes and options so everyone can enjoy dinner.",
+        "We want you to feel comfortable and well taken care of throughout the celebration."
+      ],
+      "imageAlt": "Table with assorted dishes"
+    },
+    "noticeSection": {
+      "eyebrow": "Please note",
+      "title": "Let us know your dietary requirements",
+      "description": "Please tell us if you have any dietary needs so we can take care of you."
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "es": {
+    "meta": {
+      "title": "Event | Contacto",
+      "description": "Envianos un mensaje si tienes dudas sobre la boda o necesitas ayuda con tu viaje."
+    },
+    "hero": {
+      "title": "Contacto",
+      "subtitle": "Si tienes dudas sobre el itinerario, el viaje o la mesa de regalos, escribenos y te respondemos pronto.",
+      "address": {
+        "label": "Direccion",
+        "lines": ["Bellingham Castle", "Newry, Co. Down", "Irlanda del Norte"]
+      },
+      "phone": {
+        "label": "Telefono",
+        "value": "+44 77 0000 0000",
+        "href": "tel:+442012345678"
+      },
+      "email": {
+        "label": "Email",
+        "value": "hola@nuestroboda.com",
+        "href": "mailto:hola@nuestroboda.com"
+      }
+    },
+    "form": {
+      "labels": {
+        "firstName": "Nombre*",
+        "lastName": "Apellido",
+        "email": "Email*",
+        "phone": "Telefono",
+        "message": "Mensaje*"
+      },
+      "placeholders": {
+        "firstName": "Ana",
+        "lastName": "Perez",
+        "email": "correo@ejemplo.com",
+        "phone": "+44 77 0000 0000",
+        "message": "Cuentanos en que podemos ayudar"
+      },
+      "requiredNote": "* Campos obligatorios",
+      "submitLabel": "Enviar mensaje",
+      "submittingLabel": "Enviando...",
+      "validationError": "Por favor completa los campos obligatorios.",
+      "successMessage": "Gracias. Te responderemos pronto.",
+      "honeypotMessage": "Gracias. Tu mensaje fue recibido.",
+      "errorMessage": "Ups, algo fallo. Intenta de nuevo."
+    }
+  },
+  "en": {
+    "meta": {
+      "title": "Event | Contact",
+      "description": "Send us a message if you have questions about the wedding or need help with your trip."
+    },
+    "hero": {
+      "title": "Contact",
+      "subtitle": "If you have questions about the itinerary, travel, or the gift table, write to us and we will reply soon.",
+      "address": {
+        "label": "Address",
+        "lines": ["Bellingham Castle", "Newry, Co. Down", "Northern Ireland"]
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+44 77 0000 0000",
+        "href": "tel:+442012345678"
+      },
+      "email": {
+        "label": "Email",
+        "value": "hola@nuestroboda.com",
+        "href": "mailto:hola@nuestroboda.com"
+      }
+    },
+    "form": {
+      "labels": {
+        "firstName": "First name*",
+        "lastName": "Last name",
+        "email": "Email*",
+        "phone": "Phone",
+        "message": "Message*"
+      },
+      "placeholders": {
+        "firstName": "Ana",
+        "lastName": "Perez",
+        "email": "email@example.com",
+        "phone": "+44 77 0000 0000",
+        "message": "Tell us how we can help"
+      },
+      "requiredNote": "* Required fields",
+      "submitLabel": "Send message",
+      "submittingLabel": "Sending...",
+      "validationError": "Please complete the required fields.",
+      "successMessage": "Thank you. We will reply soon.",
+      "honeypotMessage": "Thank you. Your message was received.",
+      "errorMessage": "Oops, something went wrong. Try again."
+    }
+  }
+}

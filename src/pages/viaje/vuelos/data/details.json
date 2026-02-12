@@ -1,0 +1,36 @@
+{
+  "es": {
+    "detailsTitle": "Vuelos",
+    "details": [
+      {
+        "id": "airports",
+        "text": "Considera aeropuertos cercanos a Newry."
+      },
+      {
+        "id": "schedules",
+        "text": "Compara horarios para coincidir con los traslados."
+      },
+      {
+        "id": "coordination",
+        "text": "Avisanos si necesitas ayuda para coordinar tu llegada."
+      }
+    ]
+  },
+  "en": {
+    "detailsTitle": "Flights",
+    "details": [
+      {
+        "id": "airports",
+        "text": "Consider airports close to Newry."
+      },
+      {
+        "id": "schedules",
+        "text": "Compare schedules to align with transfers."
+      },
+      {
+        "id": "coordination",
+        "text": "Let us know if you need help coordinating your arrival."
+      }
+    ]
+  }
+}
