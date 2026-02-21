@@ -2,31 +2,7 @@
 /* Load Tailwind first */
 @import "tailwindcss";
 
-/* Imperial Script and Roboto fonts in /public/fonts */
-
-@font-face {
-  font-family: "ImperialScript";
-  src: url("/fonts/Tangerine-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Roboto";
-  src: url("/fonts/Roboto-Italic-VariableFont_wdth,wght.ttf") format("truetype");
-  font-weight: 100 900;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Roboto";
-  src: url("/fonts/Roboto-VariableFont_wdth,wght.ttf") format("truetype");
-  font-weight: 100 900;
-  font-style: normal;
-  font-display: swap;
-}
+/* Fonts loaded from Google Fonts (see index.html) */
 
 
 
@@ -37,7 +13,7 @@ html { font-synthesis: none; }
 @theme {
   --font-*: initial;
   --font-roboto: Roboto, sans-serif;
-  --font-imperial: ImperialScript, cursive;
+  --font-imperial: Tangerine, cursive;
 
   --breakpoint-*: initial;
   --breakpoint-2xsm: 375px;
