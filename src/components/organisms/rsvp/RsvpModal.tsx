@@ -64,7 +64,7 @@ export default function RsvpModal() {
   };
   return (
     <Transition.Root show={isOpen} as={Fragment}>
-      <Dialog as="div" className="relative z-50" onClose={handleClose}>
+      <Dialog as="div" className="relative z-[200]" onClose={handleClose}>
         <Transition.Child
           as={Fragment}
           enter="ease-out duration-300"
@@ -77,8 +77,8 @@ export default function RsvpModal() {
           <div className="fixed inset-0 bg-gray-500/50 backdrop-blur-md transition-opacity" />
         </Transition.Child>
 
-        <div className="fixed inset-0 z-10 w-screen overflow-y-auto">
-          <div className="flex min-h-full items-center justify-center p-4 text-center sm:p-0">
+        <div className="fixed inset-0 z-[200] w-screen overflow-y-auto">
+          <div className="flex min-h-full items-end sm:items-center justify-center p-0 sm:p-4 text-center">
             <Transition.Child
               as={Fragment}
               enter="ease-out duration-300"
@@ -88,25 +88,25 @@ export default function RsvpModal() {
               leaveFrom="opacity-100 translate-y-0 sm:scale-100"
               leaveTo="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
             >
-              <Dialog.Panel className="relative transform overflow-hidden rounded-xl bg-white text-left shadow-xl transition-all dark:bg-gray-900 sm:my-8 sm:w-full sm:max-w-4xl">
+              <Dialog.Panel className="relative transform overflow-hidden sm:rounded-xl rounded-t-2xl bg-white text-left shadow-xl transition-all dark:bg-gray-900 w-full sm:my-8 sm:max-w-4xl max-h-[95vh] sm:max-h-[90vh] flex flex-col">
                 <button
                   type="button"
-                  className="absolute right-4 top-4 z-10 rounded-full bg-white/10 p-2 backdrop-blur-lg"
+                  className="absolute right-4 top-4 z-10 rounded-full bg-white/80 dark:bg-gray-800/80 p-2 backdrop-blur-lg hover:bg-white dark:hover:bg-gray-700 transition-colors"
                   onClick={handleClose}
                 >
-                  <XMarkIcon className="h-5 w-5 text-gray-600" />
+                  <XMarkIcon className="h-5 w-5 text-gray-600 dark:text-gray-300" />
                 </button>
 
-                <div className="flex flex-col-reverse sm:flex-row">
-                  <div className="p-6 sm:w-1/2 sm:p-8">
+                <div className="flex flex-col-reverse sm:flex-row overflow-y-auto">
+                  <div className="p-6 sm:w-1/2 sm:p-8 flex-shrink-0">
                     <div className="text-center sm:text-left">
                       <Dialog.Title
                         as="h3"
-                        className="text-3xl font-semibold leading-7 text-brand-500 dark:text-white"
+                        className="text-2xl sm:text-3xl font-semibold leading-7 text-brand-500 dark:text-white"
                       >
                         Confirma tu asistencia
                       </Dialog.Title>
-                      <p className="mt-3 text-base text-gray-500 dark:text-gray-400">
+                      <p className="mt-3 text-sm sm:text-base text-gray-500 dark:text-gray-400">
                         Ayudanos a planear todo con carino. Completa el RSVP y
                         cuentanos si tienes alguna preferencia.
                       </p>
@@ -240,11 +240,11 @@ export default function RsvpModal() {
                     )}
                   </div>
 
-                  <div className="relative sm:w-1/2">
+                  <div className="relative sm:w-1/2 flex-shrink-0">
                     <img
                       src={bellinghamImage}
                       alt="Bellingham Castle"
-                      className="h-48 w-full object-cover sm:h-full"
+                      className="h-32 sm:h-full w-full object-cover"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-brand-500/20 to-brand-600/20" />
                   </div>
