@@ -3,9 +3,9 @@ import HomeHero from "./organisms/HomeHero";
 import StorySection from "./organisms/StorySection";
 import BentoSection from "./organisms/BentoSection";
 import HowItWorksSection from "./organisms/HowItWorksSection";
-import { VideoSection } from "./organisms/VideoSection";
+// import { VideoSection } from "./organisms/VideoSection";
 import { Link } from "react-router-dom";
-import videoWeb from "./assets/VideoHome.mp4";
+// import videoWeb from "./assets/VideoHome.mp4";
 import img1 from "@assets/images/wedding/ImageHotel.webp";
 import img2 from "@assets/images/wedding/Chapel.webp";
 import img3 from "@assets/images/wedding/bellingham.webp";
@@ -66,7 +66,8 @@ export default function Home() {
         extras={localizedHomeData.dressGuide.extras}
         women={localizedHomeData.dressGuide.women}
       />
-      <div className="h-screen sm:h-auto">
+      {/* Commented out until video is hosted externally */}
+      {/* <div className="h-screen sm:h-auto">
         <VideoSection
           videoSrc={videoWeb}
           heading={localizedHomeData.video.heading}
@@ -83,7 +84,7 @@ export default function Home() {
             </Link>
           </div>
         </VideoSection>
-      </div>
+      </div> */}
     </>
   );
 }

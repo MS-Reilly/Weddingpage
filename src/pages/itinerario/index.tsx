@@ -1,8 +1,8 @@
 import InfoPage from "../info/InfoPage";
 import pageData from "./data/itinerario.json";
 import TimelineSection from "./organisms/TimelineSection";
-import { VideoSection } from "./organisms/VideoSection";
-import videoWeb from "./assets/Video.mp4";
+// import { VideoSection } from "./organisms/VideoSection";
+// import videoWeb from "./assets/Video.mp4";
 import { useSelector } from "react-redux";
 import type { RootState } from "@/store/store";
 import { getLocalizedData } from "@/utils/i18n";
@@ -37,7 +37,8 @@ export default function ItinerarioPage() {
         backgroundImage={backgroundImage}
       />
       <TimelineSection />
-      <div className="h-screen sm:h-auto">
+      {/* Commented out until video is hosted externally */}
+      {/* <div className="h-screen sm:h-auto">
         <VideoSection
           videoSrc={videoWeb}
           heading={localizedPageData.video.heading}
