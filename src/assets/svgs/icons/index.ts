@@ -24,7 +24,7 @@ import { ReactComponent as IconsBus } from "./bus.svg?react";
 import { ReactComponent as IconsMaps } from "./maps.svg?react";
 import { ReactComponent as IconsFlight } from "./flight.svg?react";
 import { ReactComponent as IconsHotel } from "./hotel.svg?react";
-import { ReactComponent as IconsIreland } from "./Ireland.svg?react";
+import { ReactComponent as IconsIreland } from "./ireland.svg?react";
 import { ReactComponent as IconsVillage } from "./village.svg?react";
 import { ReactComponent as IconsDress } from "./dress.svg?react";
 import { ReactComponent as IconsWeather } from "./rain.svg?react";
