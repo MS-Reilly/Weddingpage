@@ -10,7 +10,7 @@
       "subtitle": "Bienvenidos a nuestra boda. En esta pagina encontraran toda la informacion que necesitan.",
       "primaryCtaLabel": "Confirmar asistencia",
       "secondaryCtaLabel": "Ver itinerario",
-      "secondaryHref": "#itinerario-detalle"
+      "secondaryHref": "/itinerario"
     },
     "story": {
       "titleHighlight": "Nuestra historia",
@@ -26,7 +26,7 @@
       "titleHighlight": "itinerario",
       "titleEnd": "del dia",
       "ctaLabel": "Para mas informacion detallada, haz clic aqui",
-      "ctaHref": "#itinerario-detalle",
+      "ctaHref": "/itinerario",
       "steps": [
         {
           "imageKey": "hotel",
@@ -55,7 +55,7 @@
         "title": "Hombres",
         "description": "Traje oscuro o azul marino, camisa clara y corbata opcional. Zapatos formales o mocasines elegantes.",
         "ctaLabel": "Ver detalles ->",
-        "ctaHref": "/contacto",
+        "ctaHref": "/dress-code",
         "ariaLabel": "Ver detalles de vestimenta para hombres",
         "imageAlt": "Referencia de vestimenta para hombres"
       },
@@ -63,7 +63,7 @@
         "title": "Colores reservados",
         "description": "Por favor evita estos colores para respetar el look del cortejo.",
         "ctaLabel": "Ver detalles ->",
-        "ctaHref": "/contacto",
+        "ctaHref": "/dress-code",
         "ariaLabel": "Ver detalles de vestimenta para padrinos",
         "imageAlt": "Colores reservados"
       },
@@ -71,7 +71,7 @@
         "title": "Detalles extra",
         "description": "Elegante, comodo y listo para fotos. Trae abrigo ligero por si refresca.",
         "ctaLabel": "Ver detalles ->",
-        "ctaHref": "/contacto",
+        "ctaHref": "/dress-code",
         "ariaLabel": "Ver detalles de vestimenta para padrinos",
         "imageAlt": "Detalles extra"
       },
@@ -79,7 +79,7 @@
         "title": "Mujeres",
         "description": "Vestido coctel o midi en tonos suaves. Evitar blanco, marfil, rose gold y dorado.",
         "ctaLabel": "Ver detalles ->",
-        "ctaHref": "/contacto",
+        "ctaHref": "/dress-code",
         "ariaLabel": "Ver detalles de vestimenta para padrinos",
         "imageAlt": "Referencia de vestimenta para mujeres"
       }
@@ -88,7 +88,7 @@
       "heading": "Queremos que vivas la mejor experiencia",
       "subheading": "Si tienes alguna alergia o requerimiento alimentario, por favor avisanos para preparar todo con carino.",
       "ctaLabel": "Informar requerimientos",
-      "ctaHref": "/contacto"
+      "ctaHref": "/dietas"
     }
   },
   "en": {
@@ -102,7 +102,7 @@
       "subtitle": "Welcome to our wedding. On this page you will find all the information you need.",
       "primaryCtaLabel": "RSVP",
       "secondaryCtaLabel": "View itinerary",
-      "secondaryHref": "#itinerario-detalle"
+      "secondaryHref": "/itinerario"
     },
     "story": {
       "titleHighlight": "Our story",
@@ -118,7 +118,7 @@
       "titleHighlight": "itinerary",
       "titleEnd": "for the day",
       "ctaLabel": "For more detailed information, click here",
-      "ctaHref": "#itinerario-detalle",
+      "ctaHref": "/itinerario",
       "steps": [
         {
           "imageKey": "hotel",
@@ -147,7 +147,7 @@
         "title": "Men",
         "description": "Dark or navy suit, light shirt, and optional tie. Dress shoes or elegant loafers.",
         "ctaLabel": "View details ->",
-        "ctaHref": "/contact",
+        "ctaHref": "/dress-code",
         "ariaLabel": "View dress details for men",
         "imageAlt": "Dress reference for men"
       },
@@ -155,7 +155,7 @@
         "title": "Reserved colors",
         "description": "Please avoid these colors to respect the wedding party look.",
         "ctaLabel": "View details ->",
-        "ctaHref": "/contact",
+        "ctaHref": "/dress-code",
         "ariaLabel": "View dress details for wedding party",
         "imageAlt": "Reserved colors"
       },
@@ -163,7 +163,7 @@
         "title": "Extra details",
         "description": "Elegant, comfortable, and photo ready. Bring a light coat in case it gets chilly.",
         "ctaLabel": "View details ->",
-        "ctaHref": "/contact",
+        "ctaHref": "/dress-code",
         "ariaLabel": "View dress details for wedding party",
         "imageAlt": "Extra details"
       },
@@ -171,7 +171,7 @@
         "title": "Women",
         "description": "Cocktail or midi dress in soft tones. Avoid white, ivory, rose gold, and gold.",
         "ctaLabel": "View details ->",
-        "ctaHref": "/contact",
+        "ctaHref": "/dress-code",
         "ariaLabel": "View dress details for women",
         "imageAlt": "Dress reference for women"
       }
@@ -180,7 +180,7 @@
       "heading": "We want you to have the best experience",
       "subheading": "If you have any allergies or dietary requirements, please let us know so we can prepare everything with care.",
       "ctaLabel": "Share requirements",
-      "ctaHref": "/contact"
+      "ctaHref": "/dietas"
     }
   }
 }
