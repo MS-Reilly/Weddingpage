@@ -39,7 +39,7 @@ export default function Header({ data = [] }: HeaderProps) {
         <div className="flex lg:flex-2">
           <Link to="/" className="-m-1.5 p-1.5 flex items-center gap-2">
             <span className="sr-only">Constanza & Shane</span>
-            <Logo className="h-12 w-auto" />
+            <Logo className="h-8 w-auto lg:h-12" />
           </Link>
         </div>
 
