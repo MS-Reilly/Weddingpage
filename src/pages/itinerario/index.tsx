@@ -49,7 +49,7 @@ export default function ItinerarioPage() {
             {localizedPageData.video.subheading}
           </p>
         </VideoSection>
-      </div>
+      </div> */}
     </>
   );
 }

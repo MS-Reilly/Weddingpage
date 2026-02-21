@@ -37,6 +37,7 @@ export default function UbicacionesPage() {
       />
       <LocationsSection />
       {/* Commented out until video is hosted externally */}
+      {/* Commented out until video is hosted externally */}
       {/* <div className="h-screen sm:h-auto">
         <VideoSection
           videoSrc={videoWeb}
@@ -49,7 +50,7 @@ export default function UbicacionesPage() {
             {localizedPageData.video.message}
           </p>
         </VideoSection>
-      </div>
+      </div> */}
     </>
   );
 }
