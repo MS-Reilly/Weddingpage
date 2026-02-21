@@ -44,7 +44,16 @@ export default function Header({ data = [] }: HeaderProps) {
         </div>
 
         {/* Mobile toggle */}
-        <div className="flex lg:hidden">
+        <div className="flex lg:hidden items-center gap-2">
+          <Button
+            size="sm"
+            variant="ghost"
+            startIcon={<IconsMaps className="h-4 w-4" aria-hidden="true" />}
+            aria-label={languageButtonLabel}
+            onClick={() => dispatch(toggleLanguage())}
+          >
+            {nextLanguageLabel}
+          </Button>
           <button
             type="button"
             onClick={() => setMobileMenuOpen(true)}
@@ -167,19 +176,6 @@ export default function Header({ data = [] }: HeaderProps) {
           </div>
 
           <div className="mt-6">
-            <Button
-              size="md"
-              variant="ghost"
-              className="w-full mb-3"
-              startIcon={<IconsMaps className="h-4 w-4" aria-hidden="true" />}
-              aria-label={languageButtonLabel}
-              onClick={() => {
-                dispatch(toggleLanguage());
-                setMobileMenuOpen(false);
-              }}
-            >
-              {nextLanguageLabel}
-            </Button>
             <Button
               size="md"
               variant="primary"
