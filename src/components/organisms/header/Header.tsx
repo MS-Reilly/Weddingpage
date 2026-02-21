@@ -110,8 +110,8 @@ export default function Header({ data = [] }: HeaderProps) {
         onClose={setMobileMenuOpen}
         className="lg:hidden"
       >
-        <div className="fixed inset-0 z-50" />
-        <DialogPanel className="fixed inset-y-0 right-0 z-50 w-full max-w-sm overflow-y-auto bg-white dark:bg-gray-900 px-6 py-6 shadow-lg ring-1 ring-black/10">
+        <div className="fixed inset-0 z-[150]" />
+        <DialogPanel className="fixed inset-y-0 right-0 z-[150] w-full max-w-sm overflow-y-auto bg-white dark:bg-gray-900 px-6 py-6 shadow-lg ring-1 ring-black/10">
           <div className="flex items-center justify-between">
             <Link
               to="/"
