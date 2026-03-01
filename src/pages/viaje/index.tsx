@@ -10,8 +10,12 @@ export default function ViajePage() {
   const language = useSelector((state: RootState) => state.language.value);
   const localizedPageData = getLocalizedData(pageData, language);
   const localizedDetailsData = getLocalizedData(detailsData, language);
+  const pageImages = import.meta.glob("./assets/*", {
+    eager: true,
+    as: "url",
+  }) as Record<string, string>;
   const backgroundImage = localizedPageData.backgroundImage
-    ? new URL(localizedPageData.backgroundImage, import.meta.url).href
+    ? pageImages[localizedPageData.backgroundImage]
     : undefined;
   return (
     <>

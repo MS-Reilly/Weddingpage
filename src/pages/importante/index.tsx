@@ -9,8 +9,12 @@ import { getLocalizedData } from "@/utils/i18n";
 export default function ImportantePage() {
   const language = useSelector((state: RootState) => state.language.value);
   const localizedPageData = getLocalizedData(pageData, language);
+  const pageImages = import.meta.glob("./assets/*", {
+    eager: true,
+    as: "url",
+  }) as Record<string, string>;
   const backgroundImage = localizedPageData.backgroundImage
-    ? new URL(localizedPageData.backgroundImage, import.meta.url).href
+    ? pageImages[localizedPageData.backgroundImage]
     : undefined;
   return (
     <>

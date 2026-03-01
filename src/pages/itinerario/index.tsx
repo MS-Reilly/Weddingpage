@@ -23,8 +23,12 @@ export default function ItinerarioPage() {
       ctaHref: string;
     };
   };
+  const pageImages = import.meta.glob("./assets/*", {
+    eager: true,
+    as: "url",
+  }) as Record<string, string>;
   const backgroundImage = localizedPageData.backgroundImage
-    ? new URL(localizedPageData.backgroundImage, import.meta.url).href
+    ? pageImages[localizedPageData.backgroundImage]
     : undefined;
   return (
     <>

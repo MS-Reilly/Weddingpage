@@ -57,10 +57,15 @@ export default function DressCodeDetailsPage() {
   const backLabel =
     language === "es" ? "Volver a dress code" : "Back to dress code";
 
+  const pageImages = import.meta.glob("./assets/*", {
+    eager: true,
+    as: "url",
+  }) as Record<string, string>;
+
   const backgroundImage = useMemo(() => {
     if (!sectionData?.backgroundImage) return undefined;
-    return new URL(sectionData.backgroundImage, import.meta.url).href;
-  }, [sectionData]);
+    return pageImages[sectionData.backgroundImage];
+  }, [sectionData, pageImages]);
 
   if (!sectionData) {
     return <NotFound />;

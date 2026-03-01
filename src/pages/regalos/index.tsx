@@ -38,8 +38,12 @@ export default function RegalosPage() {
   const language = useSelector((state: RootState) => state.language.value);
   const pageData = getLocalizedData(pageDataJson, language) as PageData;
   const giftsData = getLocalizedData(giftsDataJson, language) as GiftsData;
+  const pageImages = import.meta.glob("./assets/*", {
+    eager: true,
+    as: "url",
+  }) as Record<string, string>;
   const backgroundImage = pageData.backgroundImage
-    ? new URL(pageData.backgroundImage, import.meta.url).href
+    ? pageImages[pageData.backgroundImage]
     : undefined;
   const giftImageMap = {
     chapel: chapelImage,
