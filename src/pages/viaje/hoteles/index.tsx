@@ -7,9 +7,9 @@ import HotelNoticeSection from "./organisms/HotelNoticeSection";
 import { useSelector } from "react-redux";
 import type { RootState } from "@/store/store";
 import { getLocalizedData } from "@/utils/i18n";
-import imgHotel from "@assets/images/wedding/ImageHotel.webp";
-import imgChapel from "@assets/images/wedding/Chapel.webp";
-import imgBellingham from "@assets/images/wedding/bellingham.webp";
+import imgHotel from "./assets/carrickdale.webp";
+import imgChapel from "./assets/canalCourt.jpg";
+import imgBellingham from "./assets/airbnb.jpg";
 
 export default function ViajeHotelesPage() {
   const language = useSelector((state: RootState) => state.language.value);
