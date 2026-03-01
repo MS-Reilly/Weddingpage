@@ -4,7 +4,6 @@
     "description": "Recomendaciones de alojamiento.",
     "metaTitle": "Event | Hoteles",
     "metaDescription": "Recomendaciones de alojamiento.",
-    "note": "Pronto compartiremos mas informacion.",
     "backgroundImage": "./assets/hero.webp",
     "cards": {
       "sectionTitle": "Hoteles recomendados",
@@ -45,7 +44,7 @@
       "eyebrow": "Importante",
       "title": "Habitaciones en el castillo",
       "description": "El dia de la boda habra habitaciones disponibles en el castillo por tu conveniencia. Cada habitacion cuesta 255 euros por noche. Por favor contactanos si necesitas una.",
-      "imageKey": "bellingham",
+      "imageKey": "room",
       "imageAlt": "Castillo rodeado de verde"
     }
   },
@@ -54,7 +53,6 @@
     "description": "Accommodation recommendations.",
     "metaTitle": "Event | Hotels",
     "metaDescription": "Accommodation recommendations.",
-    "note": "We will share more information soon.",
     "backgroundImage": "./assets/hero.webp",
     "cards": {
       "sectionTitle": "Recommended hotels",
@@ -95,7 +93,7 @@
       "eyebrow": "Important",
       "title": "Rooms at the castle",
       "description": "On the wedding day there will be rooms available at the castle for your convenience. Each room is 255 euros per night. Please contact us if you need one.",
-      "imageKey": "bellingham",
+      "imageKey": "room",
       "imageAlt": "Castle surrounded by greenery"
     }
   }

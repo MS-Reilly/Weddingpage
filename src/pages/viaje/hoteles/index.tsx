@@ -10,6 +10,7 @@ import { getLocalizedData } from "@/utils/i18n";
 import imgHotel from "./assets/carrickdale.webp";
 import imgChapel from "./assets/canalCourt.jpg";
 import imgBellingham from "./assets/airbnb.jpg";
+import imgRoom from "./assets/roomCastle.jpg";
 
 export default function ViajeHotelesPage() {
   const language = useSelector((state: RootState) => state.language.value);
@@ -48,6 +49,7 @@ export default function ViajeHotelesPage() {
     hotel: imgHotel,
     chapel: imgChapel,
     bellingham: imgBellingham,
+    room: imgRoom,
   };
   const backgroundImage = localizedPageData.backgroundImage
     ? new URL(localizedPageData.backgroundImage, import.meta.url).href
