@@ -1,64 +1,174 @@
 {
   "es": {
     "title": "Llegar a Newry",
-    "subtitle": "Opciones desde Dublin y Belfast con precios orientativos.",
+    "subtitle": "Opciones desde Dublín y Belfast con precios orientativos.",
     "cards": [
       {
-        "from": "Desde Dublin",
-        "title": "Tren, bus o taxi",
-        "description": "Desde Dublin puedes llegar a Newry en tren, bus o taxi. Elige la opcion que mejor se adapte a tu horario y presupuesto.",
+        "from": "En tren",
+        "title": "Viaje cómodo y directo",
+        "description": "Llegar a Newry en tren es una opción cómoda y sencilla. Hay conexiones directas desde Dublín y Belfast, ideales para relajarte y disfrutar del paisaje antes del gran día.",
         "prices": [
-          "Tren: 20-35 EUR (1h30)",
-          "Bus: 12-20 EUR (1h50)",
-          "Taxi: 160-220 EUR (1h20)"
+          "Desde Dublín: 20-35 EUR (1h30)",
+          "Desde Belfast: 8-15 GBP (40 min)"
         ],
-        "image": "hero.webp"
+        "image": "train.jpg",
+        "buttons": {
+          "dublin": {
+            "text": "Boletos desde Dublín",
+            "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000093&originName=Dublin%20City%2C%20Connolly%20Rail%20Station&originType=Train%20stop"
+          },
+          "belfast": {
+            "text": "Boletos desde Belfast",
+            "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000055&originName=Belfast%2C%20Grand%20Central%20Station&originType=Train%20stop"
+          }
+        }
       },
       {
-        "from": "Desde Belfast",
-        "title": "Viaje rapido y directo",
-        "description": "Desde Belfast, Newry queda muy cerca. Hay trenes y buses frecuentes, y el taxi es una opcion comoda si vienes con equipaje.",
+        "from": "En autobús",
+        "title": "Opción económica",
+        "description": "El autobús es una alternativa práctica y económica para llegar a Newry. Existen servicios regulares desde las principales ciudades, con buena frecuencia y paradas céntricas.",
         "prices": [
-          "Tren: 8-15 GBP (40 min)",
-          "Bus: 6-12 GBP (50 min)",
-          "Taxi: 55-85 GBP (35 min)"
+          "Desde Dublín: 12-20 EUR (1h50)",
+          "Desde Belfast: 6-12 GBP (50 min)"
         ],
-        "image": "hero.webp"
+        "image": "bus.jpg",
+        "buttons": {
+          "dublin": {
+            "text": "Boletos desde Dublín",
+            "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000093&originName=Dublin%20City%2C%20Connolly%20Rail%20Station&originType=Train%20stop"
+          },
+          "belfast": {
+            "text": "Boletos desde Belfast",
+            "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000055&originName=Belfast%2C%20Grand%20Central%20Station&originType=Train%20stop"
+          }
+        }
+      },
+      {
+        "from": "En avión",
+        "title": "Para viajeros internacionales",
+        "description": "Si vienes desde fuera de Irlanda, los aeropuertos más cercanos son Belfast y Dublín. Desde allí podrás continuar tu viaje a Newry en coche de alquiler, tren o autobús.",
+        "prices": [
+          "Vuelo a Belfast + traslado: 1h en coche",
+          "Vuelo a Dublín + traslado: 1h15 en coche"
+        ],
+        "image": "plane.jpg",
+        "buttons": {
+          "dublin": {
+            "text": "Vuelos a Dublín",
+            "url": "https://www.dublinairport.com/"
+          },
+          "belfast": {
+            "text": "Vuelos a Belfast",
+            "url": "https://www.belfastcityairport.com/"
+          }
+        }
+      },
+      {
+        "from": "Transporte local",
+        "title": "Muévete con facilidad",
+        "description": "Una vez en Newry, el transporte local es sencillo y accesible. Recomendamos reservar taxi con antelación, especialmente para la noche de la boda.",
+        "prices": [
+          "Taxi urbano: 10-20 GBP por trayecto",
+          "Traslado hotel-evento: servicio organizado"
+        ],
+        "image": "taxi.jpg",
+        "buttons": {
+          "dublin": {
+            "text": "Taxis de Dublin",
+            "url": "https://www.google.com/search?q=taxi+newry"
+          },
+          "belfast": {
+            "text": "Taxis de Belfast",
+            "url": "https://www.google.com/search?q=taxi+newry+dublin"
+          }
+        }
       }
-    ],
-    "map": {
-      "title": "Mapa de Newry",
-      "introTitle": "Newry, puertas del Mourne",
-      "intro": "Newry es una ciudad historica en la frontera entre Irlanda y Irlanda del Norte, conocida por su canal y su papel como punto de paso entre Belfast y Dublin. Esta muy bien conectada por carretera y ferrocarril.",
-      "description": "Ubica el centro de Newry y planifica tu llegada.",
-      "embedUrl": "https://www.google.com/maps?q=Newry&output=embed"
-    }
+    ]
   },
+
   "en": {
     "title": "Getting to Newry",
     "subtitle": "Options from Dublin and Belfast with estimated prices.",
     "cards": [
       {
-        "from": "From Dublin",
-        "title": "Train, bus, or taxi",
-        "description": "From Dublin you can reach Newry by train, bus, or taxi. Choose the option that best fits your schedule and budget.",
+        "from": "By train",
+        "title": "Comfortable and direct",
+        "description": "Getting to Newry by train is a comfortable and simple option. There are direct connections from Dublin and Belfast, ideal for relaxing and enjoying the scenery before the big day.",
         "prices": [
-          "Train: 20-35 EUR (1h30)",
-          "Bus: 12-20 EUR (1h50)",
-          "Taxi: 160-220 EUR (1h20)"
+          "From Dublin: 20-35 EUR (1h30)",
+          "From Belfast: 8-15 GBP (40 min)"
         ],
-        "image": "hero.webp"
+        "image": "train.jpg",
+        "buttons": {
+          "dublin": {
+            "text": "Tickets from Dublin",
+            "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000093&originName=Dublin%20City%2C%20Connolly%20Rail%20Station&originType=Train%20stop"
+          },
+          "belfast": {
+            "text": "Tickets from Belfast",
+            "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000055&originName=Belfast%2C%20Grand%20Central%20Station&originType=Train%20stop"
+          }
+        }
       },
       {
-        "from": "From Belfast",
-        "title": "Fast and direct",
-        "description": "From Belfast, Newry is very close. There are frequent trains and buses, and a taxi is a comfortable option if you are traveling with luggage.",
+        "from": "By bus",
+        "title": "Economic option",
+        "description": "The bus is a practical and economical alternative to get to Newry. There are regular services from major cities, with good frequency and central stops.",
         "prices": [
-          "Train: 8-15 GBP (40 min)",
-          "Bus: 6-12 GBP (50 min)",
-          "Taxi: 55-85 GBP (35 min)"
+          "From Dublin: 12-20 EUR (1h50)",
+          "From Belfast: 6-12 GBP (50 min)"
         ],
-        "image": "hero.webp"
+        "image": "bus.jpg",
+        "buttons": {
+          "dublin": {
+            "text": "Tickets from Dublin",
+            "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000093&originName=Dublin%20City%2C%20Connolly%20Rail%20Station&originType=Train%20stop"
+          },
+          "belfast": {
+            "text": "Tickets from Belfast",
+            "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000055&originName=Belfast%2C%20Grand%20Central%20Station&originType=Train%20stop"
+          }
+        }
+      },
+      {
+        "from": "By plane",
+        "title": "For international travelers",
+        "description": "If you are coming from outside Ireland, the nearest airports are Belfast and Dublin. From there you can continue your journey to Newry by car rental, train or bus.",
+        "prices": [
+          "Flight to Belfast + transfer: 1h by car",
+          "Flight to Dublin + transfer: 1h15 by car"
+        ],
+        "image": "plane.jpg",
+        "buttons": {
+          "dublin": {
+            "text": "Flights to Dublin",
+            "url": "https://www.dublinairport.com/"
+          },
+          "belfast": {
+            "text": "Flights to Belfast",
+            "url": "https://www.belfastcityairport.com/"
+          }
+        }
+      },
+      {
+        "from": "Local transport",
+        "title": "Move with ease",
+        "description": "Once in Newry, local transport is simple and accessible. We recommend booking a taxi in advance, especially for the wedding night.",
+        "prices": [
+          "Urban taxi: 10-20 GBP per trip",
+          "Hotel-event transfer: service organized"
+        ],
+        "image": "taxi.jpg",
+        "buttons": {
+          "dublin": {
+            "text": "Taxis from Dublin",
+            "url": "https://www.google.com/search?q=taxi+newry+dublin"
+          },
+          "belfast": {
+            "text": "Taxis from Belfast",
+            "url": "https://www.google.com/search?q=taxi+newry+belfast"
+          }
+        }
       }
     ],
     "map": {
