@@ -12,12 +12,14 @@ type AirportCardsSectionProps = {
   sectionTitle: string;
   sectionSubtitle?: string;
   items: AirportCard[];
+  images: Record<string, string>;
 };
 
 export default function AirportCardsSection({
   sectionTitle,
   sectionSubtitle,
   items,
+  images,
 }: AirportCardsSectionProps) {
   return (
     <section className="floral-section-light mx-auto w-full max-w-6xl px-4 py-16 sm:px-6 lg:px-8">
@@ -44,7 +46,7 @@ export default function AirportCardsSection({
               </h3>
               <div className="mt-4 overflow-hidden rounded-2xl border border-brand-100 bg-slate-50">
                 <img
-                  src={new URL(item.imageSrc, import.meta.url).href}
+                  src={images[item.imageSrc]}
                   alt={item.imageAlt}
                   className="h-40 w-full object-cover"
                   loading="lazy"

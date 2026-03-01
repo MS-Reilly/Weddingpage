@@ -13,7 +13,7 @@
         {
           "id": "dublin",
           "title": "Aeropuerto de Dublin (DUB)",
-          "imageSrc": "./assets/hero.webp",
+          "imageSrc": "./assets/img1.jpeg",
           "imageAlt": "Avion en pista al atardecer",
           "description": "La opcion con mas vuelos internacionales. Tiempo de vuelo estimado (directo): 11 h 2 min. Dublin no aparece como destino directo en la lista de destinos de MEX, asi que normalmente hay 1+ escalas. Desde Dublin puedes llegar a Newry en tren, bus o taxi.",
           "ctaLabel": "Ver rutas desde CDMX",
@@ -22,26 +22,37 @@
         {
           "id": "belfast",
           "title": "Aeropuerto de Belfast (BFS)",
-          "imageSrc": "./assets/hero.webp",
+          "imageSrc": "./assets/img2.jpg",
           "imageAlt": "Avion sobre nubes",
           "description": "Opcion cercana a Newry. Tiempo de vuelo estimado (directo): 11 h. Belfast no aparece como destino directo en la lista de destinos de MEX, asi que normalmente hay 1+ escalas. Reduce el traslado por tierra.",
           "ctaLabel": "Ver rutas desde CDMX",
           "ctaHref": "https://www.google.com/travel/flights?q=MEX%20to%20BFS"
+        },
+        {
+          "id": "london",
+          "title": "Desde Londres (LON)",
+          "imageSrc": "./assets/img3.jpeg",
+          "imageAlt": "Avion despegando",
+          "description": "Desde Londres puedes llegar a Newry fácilmente volando a Belfast o Dublin y continuando el trayecto en tren o coche. Para encontrar mejores precios, recomendamos viajar entre martes y miércoles alrededor de la fecha de la boda (miércoles 22 de abril) y evitar el fin de semana previo.",
+          "ctaLabel": "Ver rutas desde Londres",
+          "ctaHref": "https://www.google.com/travel/flights?q=LON%20to%20BFS"
         }
       ]
     },
     "recommendations": {
       "eyebrow": "Recomendaciones",
-      "titleStart": "Antes de comprar",
+      "titleStart": "Antes de reservar,",
       "titleHighlight": "revisa",
-      "titleEnd": "estas ideas",
-      "description": "Te dejamos algunos puntos clave para elegir la ruta con calma.",
+      "titleEnd": "estos tips",
+      "description": "Información esencial para cruzar fronteras y aeropuertos sin contratiempos en 2026.",
       "points": [
-        "Compara DUB y BFS segun el tiempo de traslado a Newry.",
-        "Revisa si hay opciones directas MEX -> DUB; la mayoria de itinerarios tiene 1+ escalas.",
-        "Verifica requisitos de visa para Irlanda y el Reino Unido (Irlanda del Norte) antes de comprar."
+        "Mexicanos: Desde feb-2026 es obligatorio el UK ETA (£16) para entrar a Newry, aunque llegues vía Dublín por tierra.",
+        "Ruta México: Dublín (DUB) suele ser mejor opción que Londres para conectar, pero requiere pasar dos controles migratorios distintos.",
+        "Visitas desde Londres: Al ser vuelo doméstico no hay migración, pero Aer Lingus y otras aerolíneas ahora exigen pasaporte vigente (ID ya no basta).",
+        "Doble Moneda: Newry usa Libras (£), pero si aterrizas en Dublín o vas de tour al sur, necesitarás Euros (€) y un seguro con cobertura dual.",
+        "Residentes UK: Si no eres británico, verifica tu eVisa digital; las aerolíneas ya no permiten abordar solo con tarjetas de residencia físicas."
       ],
-      "imageAlt": "Pareja caminando en un paisaje verde"
+      "imageAlt": "Pareja caminando por un paisaje verde cerca de la frontera en Newry"
     },
     "search": {
       "title": "Buscar vuelos",
@@ -74,7 +85,7 @@
         {
           "id": "dublin",
           "title": "Dublin Airport (DUB)",
-          "imageSrc": "./assets/hero.webp",
+          "imageSrc": "./assets/img1.jpeg",
           "imageAlt": "Plane on a runway at sunset",
           "description": "The option with the most international flights. Estimated nonstop flight time: 11h 2m. Dublin is not listed as a direct destination from MEX on the Mexico City airport destinations list, so expect 1+ stops. From Dublin you can reach Newry by train, bus, or taxi.",
           "ctaLabel": "See routes from Mexico City",
@@ -83,26 +94,37 @@
         {
           "id": "belfast",
           "title": "Belfast International Airport (BFS)",
-          "imageSrc": "./assets/hero.webp",
+          "imageSrc": "./assets/img2.jpg",
           "imageAlt": "Plane above the clouds",
           "description": "Closer to Newry. Estimated nonstop flight time: 11h. Belfast is not listed as a direct destination from MEX on the Mexico City airport destinations list, so expect 1+ stops. This reduces ground travel time.",
           "ctaLabel": "See routes from Mexico City",
           "ctaHref": "https://www.google.com/travel/flights?q=MEX%20to%20BFS"
+        },
+        {
+          "id": "london",
+          "title": "From London (LON)",
+          "imageSrc": "./assets/img3.jpeg",
+          "imageAlt": "Plane taking off",
+          "description": "From London you can easily reach Newry by flying to Belfast or Dublin and continuing by train or car. For better fares, we recommend traveling on Tuesday or Wednesday around the wedding date (Wednesday, April 22) and avoiding the previous weekend.",
+          "ctaLabel": "See routes from London",
+          "ctaHref": "https://www.google.com/travel/flights?q=LON%20to%20BFS"
         }
       ]
     },
     "recommendations": {
       "eyebrow": "Recommendations",
-      "titleStart": "Before you book",
+      "titleStart": "Before you book,",
       "titleHighlight": "check",
       "titleEnd": "these tips",
-      "description": "A few quick pointers to help you choose your route.",
+      "description": "Essential travel and border info for a seamless 2026 trip to Newry.",
       "points": [
-        "Compare DUB and BFS based on ground travel time to Newry.",
-        "Check for direct MEX -> DUB options; most itineraries include 1+ stops.",
-        "Verify visa requirements for Ireland and the UK (Northern Ireland) before booking."
+        "Mexican Citizens: A UK ETA (£16) is mandatory as of Feb 2026 to enter Newry, even if arriving via Dublin by land.",
+        "Mexico Route: Dublin (DUB) is often the best hub, but be prepared for two separate immigration checks (Ireland and the UK).",
+        "London Travelers: While it's a domestic flight, most airlines now require a valid passport or updated digital ID for boarding.",
+        "Dual Currency & Insurance: Newry uses GBP (£), but you'll need Euros (€) for Dublin. Ensure your travel insurance covers both territories.",
+        "UK Residents: If you're a non-British citizen, verify your eVisa status; physical residency cards are no longer sufficient for travel."
       ],
-      "imageAlt": "Couple walking through a green landscape"
+      "imageAlt": "Couple walking through a green landscape near the Newry border"
     },
     "search": {
       "title": "Search flights",

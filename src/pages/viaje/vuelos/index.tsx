@@ -51,8 +51,15 @@ export default function ViajeVuelosPage() {
     };
   };
   const localizedDetailsData = getLocalizedData(detailsData, language);
+  
+  // Load images from assets folder
+  const vuelosImages = import.meta.glob("./assets/*", {
+    eager: true,
+    as: "url",
+  }) as Record<string, string>;
+  
   const backgroundImage = localizedPageData.backgroundImage
-    ? new URL(localizedPageData.backgroundImage, import.meta.url).href
+    ? vuelosImages[localizedPageData.backgroundImage]
     : undefined;
   return (
     <>
@@ -67,6 +74,7 @@ export default function ViajeVuelosPage() {
         sectionTitle={localizedPageData.cards.sectionTitle}
         sectionSubtitle={localizedPageData.cards.sectionSubtitle}
         items={localizedPageData.cards.items}
+        images={vuelosImages}
       />
       <FlightRecommendationsSection
         eyebrow={localizedPageData.recommendations.eyebrow}
