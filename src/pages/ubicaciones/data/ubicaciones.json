@@ -1,7 +1,7 @@
 {
   "es": {
     "title": "Ubicaciones",
-    "description": "Mapa de iglesia y recepción.",
+    "description": "",
     "metaTitle": "Event | Ubicaciones",
     "metaDescription": "Mapa de iglesia y recepción.",
     "backgroundImage": "./assets/hero.webp",
@@ -13,7 +13,7 @@
   },
   "en": {
     "title": "Locations",
-    "description": "Map of the church and reception.",
+    "description": "",
     "metaTitle": "Event | Locations",
     "metaDescription": "Map of the church and reception.",
     "backgroundImage": "./assets/hero.webp",

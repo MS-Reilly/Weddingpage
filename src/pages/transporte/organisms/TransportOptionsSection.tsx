@@ -18,6 +18,10 @@ interface TransportCard {
       text: string;
       url: string;
     };
+    newry?: {
+      text: string;
+      url: string;
+    };
   };
 }
 
@@ -139,6 +143,29 @@ export default function TransportOptionsSection() {
                       </svg>
                       {card.buttons.belfast.text}
                     </a>
+                    {card.buttons.newry && (
+                      <a
+                        href={card.buttons.newry.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center justify-center gap-2 rounded-lg bg-gold-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-gold-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-600"
+                      >
+                        <svg
+                          className="h-4 w-4"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z"
+                          />
+                        </svg>
+                        {card.buttons.newry.text}
+                      </a>
+                    )}
                   </div>
                 </div>
               </div>

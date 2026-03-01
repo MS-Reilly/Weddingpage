@@ -127,6 +127,10 @@
           "belfast": {
             "text": "Tickets from Belfast",
             "url": "https://www.translink.co.uk/journeyplannerv2?destinationId=10000044&destinationName=Newry%2C%20Newry%20Train%20Station&destinationType=Train%20stop&findBusDepartures=true&findTrainDepartures=true&originId=10000055&originName=Belfast%2C%20Grand%20Central%20Station&originType=Train%20stop"
+          },
+          "newry": {
+            "text": "Taxis en Newry",
+            "url": "https://www.google.com/search?sca_esv=0108a123375dd053&rlz=1CDGOYI_enGB1124GB1125&hl=en-US&sxsrf=ANbL-n7hWzNhArmQG7s5AIs81Qjqa5XZdQ:1772396667083&kgmid=/g/1yh9tsty_&query=Taxiline&shem=epsd1,rimspe,rimspiose,shrtsdl&shndl=30&source=sh/x/loc/act/m1/3&kgs=171fe67d261e984d&utm_source=epsd1,rimspe,rimspiose,shrtsdl,sh/x/loc/act/m1/3"
           }
         }
       },
@@ -167,16 +171,13 @@
           "belfast": {
             "text": "Taxis from Belfast",
             "url": "https://www.google.com/search?q=taxi+newry+belfast"
+          },
+          "newry": {
+            "text": "Taxis in Newry",
+            "url": "https://www.google.com/search?sca_esv=0108a123375dd053&rlz=1CDGOYI_enGB1124GB1125&hl=en-US&sxsrf=ANbL-n7hWzNhArmQG7s5AIs81Qjqa5XZdQ:1772396667083&kgmid=/g/1yh9tsty_&query=Taxiline&shem=epsd1,rimspe,rimspiose,shrtsdl&shndl=30&source=sh/x/loc/act/m1/3&kgs=171fe67d261e984d&utm_source=epsd1,rimspe,rimspiose,shrtsdl,sh/x/loc/act/m1/3"
           }
         }
       }
-    ],
-    "map": {
-      "title": "Map of Newry",
-      "introTitle": "Newry, gateway to the Mourne",
-      "intro": "Newry is a historic city on the border between Ireland and Northern Ireland, known for its canal and its role as a gateway between Belfast and Dublin. It is well connected by road and rail.",
-      "description": "Locate the center of Newry and plan your arrival.",
-      "embedUrl": "https://www.google.com/maps?q=Newry&output=embed"
-    }
+    ]
   }
 }

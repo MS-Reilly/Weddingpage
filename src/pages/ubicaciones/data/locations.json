@@ -1,65 +1,77 @@
 {
   "es": {
     "title": "Ubicaciones",
-    "subtitle": "Direcciones provisionales",
-    "cardLabel": "Ubicacion",
+    "subtitle": "Direcciones",
+    "cardLabel": "Ubicación",
     "mapsCta": "Abrir en Google Maps",
     "cards": [
       {
-        "name": "Cloughoge Chapel, Newry",
-        "address": "Direccion provisional: Cloughoge Chapel, Newry, Co. Down",
+        "name": "Capilla de Cloughoge, Newry",
+        "address": "Cloughoge Chapel, Newry, Co. Down, BT35 8QT",
         "mapsQuery": "Cloughoge Chapel, Newry",
         "image": "img1.jpg"
       },
       {
-        "name": "Carrickdale Hotel, Newry",
-        "address": "Direccion provisional: Carrickdale Hotel, Newry, Co. Louth",
-        "mapsQuery": "Carrickdale Hotel, Newry",
+        "name": "Carrickdale Hotel & Spa, Newry",
+        "address": "Carrickdale Hotel & Spa, Newry, Co. Louth, A91 PR63",
+        "mapsQuery": "Carrickdale Hotel & Spa, Newry",
         "image": "img2.jpg"
       },
       {
         "name": "Bellingham Castle",
-        "address": "Direccion provisional: Bellingham Castle, Castlebellingham, Co. Louth",
+        "address": "Bellingham Castle, Castlebellingham, Co. Louth, A91 RP44",
         "mapsQuery": "Bellingham Castle, Castlebellingham",
         "image": "img3.jpg"
       },
       {
-        "name": "Bus Station Newry",
-        "address": "Direccion provisional: Newry Bus Station, Newry, Co. Down",
+        "name": "Estación de autobuses de Newry",
+        "address": "Newry Bus Station, Newry, Co. Down, BT35 6BP",
         "mapsQuery": "Newry Bus Station",
         "image": "img4.jpg"
+      },
+      {
+        "name": "Estación de tren de Newry",
+        "address": "Newry Train Station, Newry, Co. Down, BT35 6JW",
+        "mapsQuery": "Newry Train Station",
+        "image": "img5.jpeg"
       }
     ]
   },
   "en": {
     "title": "Locations",
-    "subtitle": "Provisional addresses",
+    "subtitle": "Addresses",
     "cardLabel": "Location",
     "mapsCta": "Open in Google Maps",
     "cards": [
       {
         "name": "Cloughoge Chapel, Newry",
-        "address": "Provisional address: Cloughoge Chapel, Newry, Co. Down",
+        "address": "Cloughoge Chapel, Newry, Co. Down, BT35 8QT",
         "mapsQuery": "Cloughoge Chapel, Newry",
         "image": "img1.jpg"
       },
       {
-        "name": "Carrickdale Hotel, Newry",
-        "address": "Provisional address: Carrickdale Hotel, Newry, Co. Louth",
-        "mapsQuery": "Carrickdale Hotel, Newry",
+        "name": "Carrickdale Hotel & Spa, Newry",
+        "address": "Carrickdale Hotel & Spa, Newry, Co. Louth, A91 PR63",
+        "mapsQuery": "Carrickdale Hotel & Spa, Newry",
         "image": "img2.jpg"
       },
       {
         "name": "Bellingham Castle",
-        "address": "Provisional address: Bellingham Castle, Castlebellingham, Co. Louth",
+        "address": "Bellingham Castle, Castlebellingham, Co. Louth, A91 RP44",
         "mapsQuery": "Bellingham Castle, Castlebellingham",
         "image": "img3.jpg"
       },
       {
-        "name": "Bus Station Newry",
-        "address": "Provisional address: Newry Bus Station, Newry, Co. Down",
+        "name": "Newry Bus Station",
+        "address": "Newry Bus Station, Newry, Co. Down, BT35 6BP",
         "mapsQuery": "Newry Bus Station",
         "image": "img4.jpg"
+      },
+      {
+        "name": "Newry Train Station",
+        "address": "Newry Train Station, Newry, Co. Down, BT35 6JW",
+        "mapsQuery": "Newry Train Station",
+        "image": "img5.jpeg"
       }
     ]
   }
