@@ -12,11 +12,13 @@ import img3 from "@assets/images/wedding/bellingham.webp";
 import img4 from "./assets/images/afternoonTea.webp";
 import img5 from "./assets/images/meal.webp";
 import img6 from "./assets/images/end.webp";
+import videoWeb from "./assets/videoHome.mp4";
 
 import homeData from "./data/home.json";
 import { useSelector } from "react-redux";
 import type { RootState } from "@/store/store";
 import { getLocalizedData } from "@/utils/i18n";
+import { VideoSection } from "./organisms/VideoSection";
 
 export default function Home() {
   const language = useSelector((state: RootState) => state.language.value);
@@ -75,7 +77,8 @@ export default function Home() {
         women={localizedHomeData.dressGuide.women}
       />
       {/* Commented out until video is hosted externally */}
-      {/* <div className="h-screen sm:h-auto">
+
+      <div className="h-screen sm:h-auto">
         <VideoSection
           videoSrc={videoWeb}
           heading={localizedHomeData.video.heading}
@@ -92,7 +95,7 @@ export default function Home() {
             </Link>
           </div>
         </VideoSection>
-      </div> */}
+      </div>
     </>
   );
 }
