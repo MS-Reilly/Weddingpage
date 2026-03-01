@@ -1,181 +1,131 @@
 {
   "es": {
     "title": "Itinerario",
-    "subtitle": "Un dia completo desde los preparativos hasta el ultimo baile.",
+    "subtitle": "Un día completo desde los preparativos hasta el último baile.",
     "items": [
       {
-        "time": "07:00",
-        "title": "La novia se prepara",
-        "description": "Peluqueria, maquillaje y ultimos retoques para empezar el dia con calma.",
+        "time": "11:15 hrs",
+        "title": "Salida desde Carrickdale Hotel & Spa",
         "image": "img1.jpg"
       },
       {
-        "time": "11:00",
-        "title": "Recogida en autobus - Carrickdale Hotel",
-        "description": "Los invitados suben al autobus en Carrickdale Hotel para el trayecto corto a la capilla.",
+        "time": "11:30 hrs",
+        "title": "Llegada a la Iglesia The Sacred Heart",
         "image": "img2.jpg"
       },
+      { "time": "12:00 hrs", "title": "Ceremonia", "image": "img3.jpg" },
       {
-        "time": "11:10",
-        "title": "Trayecto en autobus",
-        "description": "Aproximadamente 10 minutos de viaje hasta la capilla.",
-        "image": "img3.png"
+        "time": "13:30 hrs",
+        "title": "Traslado a Bellingham Castle",
+        "image": "img4.jpeg"
       },
+      { "time": "14:30 hrs", "title": "Check in", "image": "img5.jpg" },
+      { "time": "15:00 hrs", "title": "Afternoon Tea", "image": "img6.webp" },
       {
-        "time": "11:30",
-        "title": "Acomodacion en la capilla",
-        "description": "Los invitados toman asiento y se acomodan.",
-        "image": "img4.jpg"
-      },
-      {
-        "time": "12:00",
-        "title": "Llegada de la novia",
-        "description": "La novia llega a la capilla.",
-        "image": "img5.jpeg"
-      },
-      {
-        "time": "12:30 - 13:30",
-        "title": "Ceremonia de misa",
-        "description": "Ceremonia de una hora en la capilla.",
-        "image": "img6.jpg"
-      },
-      {
-        "time": "13:30",
-        "title": "Salida de autobuses desde la capilla",
-        "description": "Los autobuses recogen a los invitados y van al lugar (aprox. 25 minutos).",
+        "time": "16:00 hrs",
+        "title": "Fotografías en Bellingham Castle con invitados",
         "image": "img7.jpg"
       },
       {
-        "time": "14:00",
-        "title": "Llegada al lugar",
-        "description": "Los invitados llegan y se acomodan en el lugar.",
-        "image": "img8.jpg"
+        "time": "17:30 hrs",
+        "title": "Inicio de la Recepción",
+        "image": "img8.webp"
+      },
+      { "time": "18:30 hrs", "title": "Cena", "image": "img9.webp" },
+      {
+        "time": "23:30 hrs",
+        "title": "Bocadillo nocturno",
+        "image": "img10.jpg"
       },
       {
-        "time": "14:00 - 17:45",
-        "title": "Te y tiempo para refrescarse",
-        "description": "Servicio de te y tiempo para descansar en las habitaciones para quienes se quedan.",
-        "image": "img9.jpg"
-      },
-      {
-        "time": "18:00",
-        "title": "Apertura del salon",
-        "description": "Los invitados pasan al salon comedor.",
-        "image": "img10.webp"
-      },
-      {
-        "time": "18:15",
-        "title": "Discursos",
-        "description": "Discursos antes de servir la cena.",
+        "time": "01:00 hrs (23 de Abril)",
+        "title": "Fin de la Recepción",
         "image": "img11.jpg"
       },
       {
-        "time": "19:00",
-        "title": "Cena",
-        "description": "Empieza el servicio de cena.",
+        "time": "02:00 hrs a 04:00 hrs (23 de Abril)",
+        "title": "Pub de Bellingham Castle abierto para los huéspedes",
         "image": "img12.jpg"
       },
       {
-        "time": "20:30",
-        "title": "Musica y primer baile",
-        "description": "Comienza la musica y se realiza el primer baile.",
-        "image": "img13.jpeg"
+        "time": "10:00 hrs a 12:00 hrs (23 de Abril)",
+        "title": "Desayuno tardío",
+        "image": "img13.jpg"
       },
       {
-        "time": "Hasta las 02:00",
-        "title": "Celebracion",
-        "description": "Baile y celebracion hasta la madrugada.",
-        "image": "img14.webp"
+        "time": "13:00 hrs (23 de Abril)",
+        "title": "Salida al tour desde Bellingham Castle",
+        "image": "img14.jpg"
+      },
+      {
+        "time": "17:00 hrs (23 de Abril)",
+        "title": "Regreso al Carrickdale Hotel & Spa",
+        "image": "img1.jpg"
       }
     ]
   },
   "en": {
-    "title": "Timeline",
-    "subtitle": "A full day from preparations to the last dance.",
+    "title": "Itinerary",
+    "subtitle": "A full day from preparations to the final dance.",
     "items": [
       {
-        "time": "07:00",
-        "title": "The bride gets ready",
-        "description": "Hair, makeup, and final touches to start the day calmly.",
+        "time": "11:15 hrs",
+        "title": "Departure from Carrickdale Hotel & Spa",
         "image": "img1.jpg"
       },
       {
-        "time": "11:00",
-        "title": "Bus pickup - Carrickdale Hotel",
-        "description": "Guests board the bus at Carrickdale Hotel for the short ride to the chapel.",
+        "time": "11:30 hrs",
+        "title": "Arrival at The Sacred Heart Church",
         "image": "img2.jpg"
       },
+      { "time": "12:00 hrs", "title": "Ceremony", "image": "img3.jpg" },
       {
-        "time": "11:10",
-        "title": "Bus ride",
-        "description": "Approximately 10 minutes of travel to the chapel.",
-        "image": "img3.png"
+        "time": "13:30 hrs",
+        "title": "Transfer to Bellingham Castle",
+        "image": "img4.jpeg"
       },
+      { "time": "14:30 hrs", "title": "Check in", "image": "img5.jpg" },
+      { "time": "15:00 hrs", "title": "Afternoon Tea", "image": "img6.webp" },
       {
-        "time": "11:30",
-        "title": "Seating in the chapel",
-        "description": "Guests take their seats and get settled.",
-        "image": "img4.jpg"
-      },
-      {
-        "time": "12:00",
-        "title": "Bride arrives",
-        "description": "The bride arrives at the chapel.",
-        "image": "img5.jpeg"
-      },
-      {
-        "time": "12:30 - 13:30",
-        "title": "Mass ceremony",
-        "description": "One-hour ceremony in the chapel.",
-        "image": "img6.jpg"
-      },
-      {
-        "time": "13:30",
-        "title": "Buses depart from the chapel",
-        "description": "Buses pick up guests and head to the venue (approx. 25 minutes).",
+        "time": "16:00 hrs",
+        "title": "Photographs at Bellingham Castle with Guests",
         "image": "img7.jpg"
       },
       {
-        "time": "14:00",
-        "title": "Arrival at the venue",
-        "description": "Guests arrive and get settled at the venue.",
-        "image": "img8.jpg"
+        "time": "17:30 hrs",
+        "title": "Reception Begins",
+        "image": "img8.webp"
+      },
+      { "time": "18:30 hrs", "title": "Dinner", "image": "img9.webp" },
+      {
+        "time": "23:30 hrs",
+        "title": "Late Night Snack",
+        "image": "img10.jpg"
       },
       {
-        "time": "14:00 - 17:45",
-        "title": "Tea and refresh time",
-        "description": "Tea service and time to rest in rooms for those staying.",
-        "image": "img9.jpg"
-      },
-      {
-        "time": "18:00",
-        "title": "Reception room opens",
-        "description": "Guests move to the dining room.",
-        "image": "img10.webp"
-      },
-      {
-        "time": "18:15",
-        "title": "Speeches",
-        "description": "Speeches before dinner service.",
+        "time": "01:00 hrs (23 April)",
+        "title": "End of Reception",
         "image": "img11.jpg"
       },
       {
-        "time": "19:00",
-        "title": "Dinner",
-        "description": "Dinner service begins.",
+        "time": "02:00 hrs to 04:00 hrs (23 April)",
+        "title": "Bellingham Castle Pub Open for Guests",
         "image": "img12.jpg"
       },
       {
-        "time": "20:30",
-        "title": "Music and first dance",
-        "description": "Music starts and the first dance takes place.",
-        "image": "img13.jpeg"
+        "time": "10:00 hrs to 12:00 hrs (23 April)",
+        "title": "Late Breakfast",
+        "image": "img13.jpg"
       },
       {
-        "time": "Until 02:00",
-        "title": "Celebration",
-        "description": "Dancing and celebration into the early morning.",
-        "image": "img14.webp"
+        "time": "13:00 hrs (23 April)",
+        "title": "Departure for the Tour from Bellingham Castle",
+        "image": "img14.jpg"
+      },
+      {
+        "time": "17:00 hrs (23 April)",
+        "title": "Return to Carrickdale Hotel & Spa",
+        "image": "img1.jpg"
       }
     ]
   }
