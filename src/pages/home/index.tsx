@@ -9,6 +9,10 @@ import { Link } from "react-router-dom";
 import img1 from "@assets/images/wedding/ImageHotel.webp";
 import img2 from "@assets/images/wedding/Chapel.webp";
 import img3 from "@assets/images/wedding/bellingham.webp";
+import img4 from "./assets/images/afternoonTea.webp";
+import img5 from "./assets/images/meal.webp";
+import img6 from "./assets/images/end.webp";
+
 import homeData from "./data/home.json";
 import { useSelector } from "react-redux";
 import type { RootState } from "@/store/store";
@@ -21,6 +25,9 @@ export default function Home() {
     hotel: img1,
     chapel: img2,
     castle: img3,
+    tea: img4,
+    meal: img5,
+    end: img6,
   };
 
   const itinerarySteps = localizedHomeData.itinerary.steps.map((step) => ({
@@ -61,6 +68,7 @@ export default function Home() {
       <BentoSection
         titleStart={localizedHomeData.dressGuide.titleStart}
         titleHighlight={localizedHomeData.dressGuide.titleHighlight}
+        titleComment={localizedHomeData.dressGuide.titleComment}
         men={localizedHomeData.dressGuide.men}
         reservedColors={localizedHomeData.dressGuide.reservedColors}
         extras={localizedHomeData.dressGuide.extras}

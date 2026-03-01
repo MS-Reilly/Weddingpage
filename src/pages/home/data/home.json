@@ -2,7 +2,7 @@
   "es": {
     "meta": {
       "title": "Event | Bienvenidos",
-      "description": "Bienvenidos a nuestro sitio del evento. Aqui encontraras los detalles clave y actualizaciones."
+      "description": "¡Estamos muy emocionados de celebrar nuestra boda con ustedes!"
     },
     "hero": {
       "title": "Se parte de nuestro",
@@ -13,57 +13,78 @@
       "secondaryHref": "/itinerario"
     },
     "story": {
-      "titleHighlight": "Nuestra historia",
-      "titleSuffix": ", escrita con pasos pequenos y miradas grandes",
+      "titleHighlight": "¡Estamos muy emocionados",
+      "titleSuffix": " de celebrar nuestra boda con ustedes!",
       "paragraphs": [
-        "Todo comenzo con un encuentro sencillo y la certeza de que el tiempo se detenia un poquito cuando estabamos juntos. Desde entonces, cada risa, cada viaje y cada abrazo fue bordando este camino que hoy celebramos. Gracias por ser parte de este capitulo y por acompanarnos a escribir lo que sigue.",
-        "Esta pagina tiene toda la informacion del gran dia para que puedan disfrutarlo con calma, amor y alegria."
+        " Para muchos será un pequeño viaje y para la mitad de nuestros invitados será una boda destino. Creamos esta página para que tengan toda la información del viaje y de la boda en un solo lugar",
+        "¡No podemos esperar para compartir este momento con ustedes!",
+        "Con cariño,",
+        "Constanza & Shane"
       ],
       "imageAlt": "Constanza y Shane"
     },
     "itinerary": {
-      "titleStart": "Nuestro",
-      "titleHighlight": "itinerario",
-      "titleEnd": "del dia",
+      "titleStart": "Itinernario",
+      "titleHighlight": "de la boda",
+      "titleEnd": "",
       "ctaLabel": "Para mas informacion detallada, haz clic aqui",
       "ctaHref": "/itinerario",
       "steps": [
         {
           "imageKey": "hotel",
-          "title": "Salida a la iglesia",
-          "time": "11:00 AM",
+          "title": "Salida desde Carrickdale Hotel & Spa",
+          "time": "11:15 hrs",
           "text": "Salida desde el Carrickdale Hotel. Llegar 10 min antes para acomodarnos y salir a tiempo."
         },
         {
           "imageKey": "chapel",
-          "title": "Ceremonia religiosa",
-          "time": "12:00 PM",
+          "title": "Ceremonia",
+          "time": "12:00 hrs",
           "text": "Cloughoge Chapel. Entrada desde 11:45 para ubicarnos con calma."
         },
         {
           "imageKey": "castle",
-          "title": "Cena y fiesta",
-          "time": "7:00 PM",
+          "title": "Check in en Bellingham Castle",
+          "time": "14:30 hrs",
+          "text": "Bellingham Castle. Recepcion, cena, brindis y celebracion. Fiesta hasta tarde."
+        },
+        {
+          "imageKey": "tea",
+          "title": "Afternoon Tea",
+          "time": "15:00 hrs",
+          "text": "Bellingham Castle. Recepcion, cena, brindis y celebracion. Fiesta hasta tarde."
+        },
+        {
+          "imageKey": "meal",
+          "title": "Inicio de la Recepción",
+          "time": "18:30 hrs",
+          "text": "Bellingham Castle. Recepcion, cena, brindis y celebracion. Fiesta hasta tarde."
+        },
+        {
+          "imageKey": "end",
+          "title": "Fin de la Recepción",
+          "time": "01:00 hrs",
           "text": "Bellingham Castle. Recepcion, cena, brindis y celebracion. Fiesta hasta tarde."
         }
       ]
     },
     "dressGuide": {
-      "titleStart": "Guia de",
+      "titleStart": "Código de",
       "titleHighlight": "vestimenta",
+      "titleComment": "Para la Ceremonia y la Recepción en Bellingham Castle, el código de vestimenta será Etiqueta Rigurosa. Nos encantaría que nos acompañen con vestimenta de gala acorde a una celebración formal en un castillo.",
       "men": {
-        "title": "Hombres",
-        "description": "Traje oscuro o azul marino, camisa clara y corbata opcional. Zapatos formales o mocasines elegantes.",
+        "title": "Caballeros",
+        "description": "Esmoquin clásico en negro o azul medianoche, camisa blanca formal y corbatín negro.",
         "ctaLabel": "Ver detalles ->",
-        "ctaHref": "/dress-code",
+        "ctaHref": "/dress-code/men",
         "ariaLabel": "Ver detalles de vestimenta para hombres",
         "imageAlt": "Referencia de vestimenta para hombres"
       },
       "reservedColors": {
         "title": "Colores reservados",
-        "description": "Por favor evita estos colores para respetar el look del cortejo.",
+        "description": "Agradecemos evitar colores como blanco, marfil, rosado ya que está reserado para las damas de honor, tejidos con brillo excesivo, dorado o lentejuelas, colores neón o rojo brillante.",
         "ctaLabel": "Ver detalles ->",
-        "ctaHref": "/dress-code",
+        "ctaHref": "/dress-code/colors",
         "ariaLabel": "Ver detalles de vestimenta para padrinos",
         "imageAlt": "Colores reservados"
       },
@@ -71,15 +92,15 @@
         "title": "Detalles extra",
         "description": "Elegante, comodo y listo para fotos. Trae abrigo ligero por si refresca.",
         "ctaLabel": "Ver detalles ->",
-        "ctaHref": "/dress-code",
+        "ctaHref": "/dress-code/extras",
         "ariaLabel": "Ver detalles de vestimenta para padrinos",
         "imageAlt": "Detalles extra"
       },
       "women": {
-        "title": "Mujeres",
-        "description": "Vestido coctel o midi en tonos suaves. Evitar blanco, marfil, rose gold y dorado.",
+        "title": "Damas",
+        "description": "Vestido largo de noche. Sugerimos elegir tonos elegantes que acompañen la atmósfera clásica del lugar, algunos ejemplos son azul marino, verde esmeralda, azul profundo, tonos neutros.",
         "ctaLabel": "Ver detalles ->",
-        "ctaHref": "/dress-code",
+        "ctaHref": "/dress-code/women",
         "ariaLabel": "Ver detalles de vestimenta para padrinos",
         "imageAlt": "Referencia de vestimenta para mujeres"
       }
@@ -91,6 +112,7 @@
       "ctaHref": "/dietas"
     }
   },
+
   "en": {
     "meta": {
       "title": "Event | Welcome",

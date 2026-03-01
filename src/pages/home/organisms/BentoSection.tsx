@@ -2,7 +2,7 @@
 
 import { Link } from "react-router-dom";
 import dressImage from "../assets/images/dress.webp";
-import suitImage from "../assets/images/suit.webp";
+import suitImage from "../assets/images/tux.webp";
 import colorImage from "../assets/images/rose gold.webp";
 import scarfImage from "../assets/images/Scarf.webp";
 
@@ -18,6 +18,7 @@ export type DressGuideCard = {
 export type BentoSectionProps = {
   titleStart: string;
   titleHighlight: string;
+  titleComment: string;
   men: DressGuideCard;
   reservedColors: DressGuideCard;
   extras: DressGuideCard;
@@ -27,6 +28,7 @@ export type BentoSectionProps = {
 export default function BentoSection({
   titleStart,
   titleHighlight,
+  titleComment,
   men,
   reservedColors,
   extras,
@@ -38,6 +40,9 @@ export default function BentoSection({
         <h1 className="max-w-7xl mx-auto text-4xl font-semibold tracking-tight text-brand-950 sm:text-6xl text-center">
           {titleStart} <span className="text-brand-500">{titleHighlight}</span>
         </h1>
+        <p className="max-w-7xl mx-auto mt-8 text-lg tracking-tight text-brand-800 sm:text-xl text-center">
+          {titleComment}
+        </p>
         {/* Bento grid */}
         <div className="mt-12 grid gap-6 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
           {/* Tall left: Men */}

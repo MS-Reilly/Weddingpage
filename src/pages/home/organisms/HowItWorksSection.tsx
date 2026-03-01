@@ -104,11 +104,11 @@ export default function HowItWorksSection({
 
             {/* Step title and description */}
             {/* Modify text-lg to adjust title size */}
-            <h2 className="text-3xl font-semibold text-white md:text-4xl lg:text-3xl">
+            <h2 className="text-4xl font-semibold text-white md:text-4xl lg:text-3xl">
               {step.title}
             </h2>
             {step.time && (
-              <p className="mt-2 text-xl font-semibold font-imperial text-[color:var(--color-gold-100)] md:text-2xl lg:text-xl">
+              <p className="mt-2 text-4xl font-semibold font-imperial text-[color:var(--color-gold-100)] md:text-3xl lg:text-4xl">
                 {step.time}
               </p>
             )}
