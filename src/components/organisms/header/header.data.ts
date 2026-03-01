@@ -39,6 +39,12 @@ export const headerData: { es: HeaderItem[]; en: HeaderItem[] } = {
           href: "/ubicaciones",
           icon: IconsMaps,
         },
+        {
+          name: "Importante",
+          description: "Que no traer y normas del evento",
+          href: "/importante",
+          icon: IconsExclamation,
+        },
       ],
       callsToAction: [],
     },
@@ -98,12 +104,6 @@ export const headerData: { es: HeaderItem[]; en: HeaderItem[] } = {
           icon: IconsNutrition,
         },
         {
-          name: "Importante",
-          description: "Que no traer y normas del evento",
-          href: "/importante",
-          icon: IconsExclamation,
-        },
-        {
           name: "Contacto",
           description: "Escribenos si necesitas ayuda",
           href: "/contacto",
@@ -144,6 +144,12 @@ export const headerData: { es: HeaderItem[]; en: HeaderItem[] } = {
           description: "Church and reception map",
           href: "/ubicaciones",
           icon: IconsMaps,
+        },
+        {
+          name: "Important",
+          description: "What not to bring and event rules",
+          href: "/importante",
+          icon: IconsExclamation,
         },
       ],
       callsToAction: [],
@@ -203,12 +209,7 @@ export const headerData: { es: HeaderItem[]; en: HeaderItem[] } = {
           href: "/dietas",
           icon: IconsNutrition,
         },
-        {
-          name: "Important",
-          description: "What not to bring and event rules",
-          href: "/importante",
-          icon: IconsExclamation,
-        },
+
         {
           name: "Contact",
           description: "Write to us if you need help",
