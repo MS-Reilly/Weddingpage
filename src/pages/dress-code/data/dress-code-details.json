@@ -2,56 +2,77 @@
   "es": {
     "sections": {
       "men": {
-        "title": "Hombres",
-        "description": "Ejemplos para elegir el look ideal.",
-        "metaTitle": "Event | Dress code - Hombres",
-        "metaDescription": "Ejemplos de vestimenta para hombres.",
+        "title": "Caballeros",
+        "description": "Se ruega respetar todos los elementos del esmoquin clásico.",
+        "metaTitle": "Event | Dress code - Caballeros",
+        "metaDescription": "Guía de etiqueta rigurosa para caballeros.",
         "backgroundImage": "./assets/hero.webp",
-        "sectionTitle": "Ejemplos para hombres",
-        "sectionSubtitle": "Trajes y detalles que funcionan",
+        "sectionTitle": "Guía de etiqueta",
+        "sectionSubtitle": "Etiqueta rigurosa para caballeros",
         "cards": [
           {
-            "id": "men-suit-dark",
-            "title": "Traje oscuro",
-            "description": "Negro, gris o azul muy oscuro con camisa clara.",
+            "id": "men-tuxedo",
+            "title": "Esmoquin negro o azul marino",
+            "description": "Traje formal de corte clásico, preferiblemente en negro o azul marino profundo.",
             "imageKey": "suit",
-            "imageAlt": "Traje oscuro"
+            "imageAlt": "Esmoquin negro o azul marino"
           },
           {
-            "id": "men-suit-navy",
-            "title": "Traje azul marino",
-            "description": "Una opcion clasica y elegante para fotos.",
+            "id": "men-jacket",
+            "title": "Saco de esmoquin",
+            "description": "Con solapa de satén o seda y pantalón a juego con franja lateral. Siempre acompañado de camisa blanca de vestir.",
             "imageKey": "suit",
-            "imageAlt": "Traje azul marino"
+            "imageAlt": "Saco de esmoquin"
           },
           {
-            "id": "men-shoes",
-            "title": "Zapatos formales",
-            "description": "Mocasines o zapatos de vestir en tonos neutros.",
+            "id": "men-vest-cummerbund",
+            "title": "Chaleco o fajín",
+            "description": "Negro y discreto, para mantener la línea elegante del conjunto.",
             "imageKey": "suit",
-            "imageAlt": "Zapatos formales"
+            "imageAlt": "Chaleco o fajín"
+          },
+          {
+            "id": "men-trousers",
+            "title": "Pantalón de esmoquin",
+            "description": "A juego con el saco, con franja lateral de satén y sin cinturón visible. La pretina debe cubrirse con chaleco o fajín para mantener la línea formal del conjunto.",
+            "imageKey": "suit",
+            "imageAlt": "Pantalón de esmoquin"
           },
           {
             "id": "men-shirt",
-            "title": "Camisa clara",
-            "description": "Blanca o azul clara para un look limpio.",
+            "title": "Camisa",
+            "description": "Blanca, de vestir, con cuello clásico o para corbatín.",
             "imageKey": "suit",
-            "imageAlt": "Camisa clara"
+            "imageAlt": "Camisa blanca de vestir"
           },
           {
-            "id": "men-tie",
-            "title": "Corbata opcional",
-            "description": "Un toque elegante si quieres elevar el look.",
+            "id": "men-bowtie",
+            "title": "Corbatín",
+            "description": "Negro, preferiblemente de lazo y no preatado.",
             "imageKey": "suit",
-            "imageAlt": "Corbata"
+            "imageAlt": "Corbatín negro"
+          },
+          {
+            "id": "men-shoes",
+            "title": "Zapatos",
+            "description": "Negros, de charol o piel pulida, perfectamente lustrados.",
+            "imageKey": "suit",
+            "imageAlt": "Zapatos formales negros"
+          },
+          {
+            "id": "men-socks",
+            "title": "Calcetines",
+            "description": "Negros y largos, de vestir.",
+            "imageKey": "suit",
+            "imageAlt": "Calcetines negros de vestir"
           }
         ],
         "pinkSection": {
-          "eyebrow": "Consejo",
-          "title": "Elegante y comodo",
-          "description": "Un look sobrio siempre funciona. Busca telas que se vean bien en fotos y que te permitan moverte con confianza.",
+          "eyebrow": "Nota",
+          "title": "Detalles que elevan el look",
+          "description": "Un esmoquin bien entallado, camisa blanca impecable y accesorios clásicos siempre se ven elegantes en fotos y se sienten cómodos durante todo el día.",
           "imageKey": "suit",
-          "imageAlt": "Detalle de traje"
+          "imageAlt": "Detalle de esmoquin"
         }
       },
       "women": {
