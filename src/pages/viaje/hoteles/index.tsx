@@ -40,7 +40,23 @@ export default function ViajeHotelesPage() {
       eyebrow: string;
       title: string;
       description: string;
-      imageKey: "hotel" | "chapel" | "bellingham";
+      pricing: {
+        title: string;
+        options: Array<{ guests: string; price: string }>;
+      };
+      deadline: string;
+      paymentInstructions: string;
+      paymentMethods: Array<{
+        name: string;
+        fields: Array<{ label: string; value: string }>;
+      }>;
+      reference: {
+        label: string;
+        format: string;
+        exampleLabel: string;
+        example: string;
+      };
+      imageKey: "hotel" | "chapel" | "bellingham" | "room";
       imageAlt: string;
     };
   };
@@ -80,6 +96,11 @@ export default function ViajeHotelesPage() {
         eyebrow={localizedPageData.notice.eyebrow}
         title={localizedPageData.notice.title}
         description={localizedPageData.notice.description}
+        pricing={localizedPageData.notice.pricing}
+        deadline={localizedPageData.notice.deadline}
+        paymentInstructions={localizedPageData.notice.paymentInstructions}
+        paymentMethods={localizedPageData.notice.paymentMethods}
+        reference={localizedPageData.notice.reference}
         imageSrc={imageMap[localizedPageData.notice.imageKey]}
         imageAlt={localizedPageData.notice.imageAlt}
       />

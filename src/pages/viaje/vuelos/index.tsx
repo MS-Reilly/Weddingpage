@@ -51,13 +51,13 @@ export default function ViajeVuelosPage() {
     };
   };
   const localizedDetailsData = getLocalizedData(detailsData, language);
-  
+
   // Load images from assets folder
   const vuelosImages = import.meta.glob("./assets/*", {
     eager: true,
     as: "url",
   }) as Record<string, string>;
-  
+
   const backgroundImage = localizedPageData.backgroundImage
     ? vuelosImages[localizedPageData.backgroundImage]
     : undefined;

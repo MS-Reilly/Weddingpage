@@ -43,7 +43,39 @@
     "notice": {
       "eyebrow": "Importante",
       "title": "Habitaciones en el castillo",
-      "description": "El dia de la boda habra habitaciones disponibles en el castillo por tu conveniencia. Cada habitacion cuesta 255 euros por noche. Por favor contactanos si necesitas una.",
+      "description": "El día de la boda habrá habitaciones disponibles en el castillo para tu conveniencia.",
+      "pricing": {
+        "title": "Precio por noche:",
+        "options": [
+          { "guests": "1 persona", "price": "£215" },
+          { "guests": "2 personas", "price": "£235" }
+        ]
+      },
+      "deadline": "Agradeceremos realizar el depósito a más tardar el 15 de marzo de 2026.",
+      "paymentInstructions": "Para confirmar su habitación, les pedimos realizar el depósito correspondiente a través de alguna de las siguientes opciones:",
+      "paymentMethods": [
+        {
+          "name": "Santander en pesos mexicanos",
+          "fields": [
+            { "label": "Nombre", "value": "" },
+            { "label": "CLABE", "value": "" }
+          ]
+        },
+        {
+          "name": "Revolut en libras esterlinas",
+          "fields": [
+            { "label": "Name", "value": "" },
+            { "label": "Sort code", "value": "" },
+            { "label": "Account", "value": "" }
+          ]
+        }
+      ],
+      "reference": {
+        "label": "Referencia:",
+        "format": "Nombre + Hotel",
+        "exampleLabel": "Ejemplo:",
+        "example": "Maria Hotel"
+      },
       "imageKey": "room",
       "imageAlt": "Castillo rodeado de verde"
     }
@@ -92,7 +124,39 @@
     "notice": {
       "eyebrow": "Important",
       "title": "Rooms at the castle",
-      "description": "On the wedding day there will be rooms available at the castle for your convenience. Each room is 255 euros per night. Please contact us if you need one.",
+      "description": "On the wedding day, rooms will be available at the castle for your convenience.",
+      "pricing": {
+        "title": "Price per night:",
+        "options": [
+          { "guests": "1 person", "price": "£215" },
+          { "guests": "2 people", "price": "£235" }
+        ]
+      },
+      "deadline": "We would appreciate the deposit by March 15, 2026 at the latest.",
+      "paymentInstructions": "To confirm your room, please make the deposit through one of the following options:",
+      "paymentMethods": [
+        {
+          "name": "Santander in Mexican pesos",
+          "fields": [
+            { "label": "Name", "value": "" },
+            { "label": "CLABE", "value": "" }
+          ]
+        },
+        {
+          "name": "Revolut in pounds sterling",
+          "fields": [
+            { "label": "Name", "value": "" },
+            { "label": "Sort code", "value": "" },
+            { "label": "Account", "value": "" }
+          ]
+        }
+      ],
+      "reference": {
+        "label": "Reference:",
+        "format": "Name + Hotel",
+        "exampleLabel": "Example:",
+        "example": "Maria Hotel"
+      },
       "imageKey": "room",
       "imageAlt": "Castle surrounded by greenery"
     }

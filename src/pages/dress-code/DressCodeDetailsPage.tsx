@@ -9,14 +9,18 @@ import { useSelector } from "react-redux";
 import type { RootState } from "@/store/store";
 import { getLocalizedData } from "@/utils/i18n";
 import dressImage from "../home/assets/images/dress.webp";
-import suitImage from "../home/assets/images/suit.webp";
+import suitImage from "../home/assets/images/tux.webp";
 import colorImage from "../home/assets/images/rose gold.webp";
-import scarfImage from "../home/assets/images/Scarf.webp";
+import roseImg from "./assets/rose gold.webp";
+import whiteImg from "./assets/white.jpg";
+import scarfImage from "../home/assets/images/coat.webp";
 
 const imageMap = {
   dress: dressImage,
   suit: suitImage,
   colors: colorImage,
+  roseColor: roseImg,
+  whiteColor: whiteImg,
   scarf: scarfImage,
 };
 

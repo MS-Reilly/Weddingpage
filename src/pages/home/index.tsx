@@ -10,6 +10,7 @@ import img1 from "@assets/images/wedding/ImageHotel.webp";
 import img2 from "@assets/images/wedding/Chapel.webp";
 import img3 from "@assets/images/wedding/bellingham.webp";
 import img4 from "./assets/images/afternoonTea.webp";
+
 import img5 from "./assets/images/meal.webp";
 import img6 from "./assets/images/end.webp";
 import videoWeb from "./assets/videoHome.mp4";

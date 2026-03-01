@@ -120,14 +120,14 @@
             "id": "colors-white",
             "title": "Blanco y marfil",
             "description": "Reservados para la novia y el cortejo.",
-            "imageKey": "colors",
+            "imageKey": "whiteColor",
             "imageAlt": "Tonos blancos"
           },
           {
             "id": "colors-gold",
-            "title": "Dorado y rose gold",
+            "title": "rose gold",
             "description": "Evitalos para mantener la paleta del evento.",
-            "imageKey": "colors",
+            "imageKey": "roseColor",
             "imageAlt": "Tonos dorados"
           },
           {
