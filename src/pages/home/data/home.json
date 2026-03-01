@@ -16,7 +16,7 @@
       "titleHighlight": "¡Estamos muy emocionados",
       "titleSuffix": " de celebrar nuestra boda con ustedes!",
       "paragraphs": [
-        " Para muchos será un pequeño viaje y para la mitad de nuestros invitados será una boda destino. Creamos esta página para que tengan toda la información del viaje y de la boda en un solo lugar",
+        " Para muchos será un pequeño viaje y para la mitad de nuestros invitados será una boda destino. Creamos esta página para que tengan toda la información del viaje y de la boda en un solo lugar.",
         "¡No podemos esperar para compartir este momento con ustedes!",
         "Con cariño,",
         "Constanza & Shane"
@@ -71,7 +71,7 @@
     "dressGuide": {
       "titleStart": "Código de",
       "titleHighlight": "vestimenta",
-      "titleComment": "Para la Ceremonia y la Recepción en Bellingham Castle, el código de vestimenta será Etiqueta Rigurosa. Nos encantaría que nos acompañen con vestimenta de gala acorde a una celebración formal en un castillo.",
+      "titleComment": "Para la ceremonia y la recepción en Bellingham Castle, el código de vestimenta será Etiqueta Rigurosa. Les agradeceremos asistir con vestimenta de gala acorde a una celebración formal en un castillo.",
       "men": {
         "title": "Caballeros",
         "description": "Esmoquin clásico en negro o azul medianoche, camisa blanca formal y corbatín negro.",
@@ -90,7 +90,7 @@
       },
       "extras": {
         "title": "Detalles extra",
-        "description": "Elegante, comodo y listo para fotos. Trae abrigo ligero por si refresca.",
+        "description": "Para una boda de día y noche con vestido largo o esmoquin, se recomienda usar telas más abrigadas y llevar un abrigo elegante que combine con un evento",
         "ctaLabel": "Ver detalles ->",
         "ctaHref": "/dress-code/extras",
         "ariaLabel": "Ver detalles de vestimenta para padrinos",
@@ -116,7 +116,7 @@
   "en": {
     "meta": {
       "title": "Event | Welcome",
-      "description": "Welcome to our event site. Here you will find the key details and updates."
+      "description": "We are so excited to celebrate our wedding with you!"
     },
     "hero": {
       "title": "Be part of our",
@@ -124,85 +124,106 @@
       "subtitle": "Welcome to our wedding. On this page you will find all the information you need.",
       "primaryCtaLabel": "RSVP",
       "secondaryCtaLabel": "View itinerary",
-      "secondaryHref": "/itinerario"
+      "secondaryHref": "/itinerary"
     },
     "story": {
-      "titleHighlight": "Our story",
-      "titleSuffix": ", written with small steps and big glances",
+      "titleHighlight": "We are so excited",
+      "titleSuffix": " to celebrate our wedding with you!",
       "paragraphs": [
-        "It all began with a simple meeting and the certainty that time slowed down a little when we were together. Since then, every laugh, every trip, and every hug has embroidered this path we celebrate today. Thank you for being part of this chapter and for joining us as we write what comes next.",
-        "This page has all the information for the big day so you can enjoy it with calm, love, and joy."
+        "For many of you it will be a short trip and for half of our guests it will be a destination wedding. We created this page so you can have all the travel and wedding information in one place.",
+        "We cannot wait to share this moment with you!",
+        "With love,",
+        "Constanza & Shane"
       ],
       "imageAlt": "Constanza and Shane"
     },
     "itinerary": {
-      "titleStart": "Our",
-      "titleHighlight": "itinerary",
-      "titleEnd": "for the day",
+      "titleStart": "Wedding",
+      "titleHighlight": "Itinerary",
+      "titleEnd": "",
       "ctaLabel": "For more detailed information, click here",
-      "ctaHref": "/itinerario",
+      "ctaHref": "/itinerary",
       "steps": [
         {
           "imageKey": "hotel",
-          "title": "Depart for the church",
-          "time": "11:00 AM",
-          "text": "Departure from Carrickdale Hotel. Arrive 10 minutes early to settle in and leave on time."
+          "title": "Departure from Carrickdale Hotel & Spa",
+          "time": "11:15 hrs",
+          "text": "Departure from Carrickdale Hotel. Please arrive 10 minutes early so we can organise ourselves and leave on time."
         },
         {
           "imageKey": "chapel",
-          "title": "Religious ceremony",
-          "time": "12:00 PM",
-          "text": "Cloughoge Chapel. Entry from 11:45 so we can get seated calmly."
+          "title": "Ceremony",
+          "time": "12:00 hrs",
+          "text": "Cloughoge Chapel. Entry from 11:45 so we can be seated calmly."
         },
         {
           "imageKey": "castle",
-          "title": "Dinner and celebration",
-          "time": "7:00 PM",
-          "text": "Bellingham Castle. Reception, dinner, toasts, and celebration. Party late into the night."
+          "title": "Check in at Bellingham Castle",
+          "time": "14:30 hrs",
+          "text": "Bellingham Castle. Reception, dinner, toasts and celebration. Party until late."
+        },
+        {
+          "imageKey": "tea",
+          "title": "Afternoon Tea",
+          "time": "15:00 hrs",
+          "text": "Bellingham Castle. Reception, dinner, toasts and celebration. Party until late."
+        },
+        {
+          "imageKey": "meal",
+          "title": "Reception Begins",
+          "time": "18:30 hrs",
+          "text": "Bellingham Castle. Reception, dinner, toasts and celebration. Party until late."
+        },
+        {
+          "imageKey": "end",
+          "title": "End of Reception",
+          "time": "01:00 hrs",
+          "text": "Bellingham Castle. Reception, dinner, toasts and celebration. Party until late."
         }
       ]
     },
     "dressGuide": {
       "titleStart": "Dress",
-      "titleHighlight": "guide",
+      "titleHighlight": "Code",
+      "titleComment": "For the ceremony and reception at Bellingham Castle, the dress code will be Black Tie. We kindly ask you to attend in formal attire suitable for a celebration in a castle.",
       "men": {
-        "title": "Men",
-        "description": "Dark or navy suit, light shirt, and optional tie. Dress shoes or elegant loafers.",
+        "title": "Gentlemen",
+        "description": "Classic black or midnight blue tuxedo, formal white shirt and black bow tie.",
         "ctaLabel": "View details ->",
-        "ctaHref": "/dress-code",
-        "ariaLabel": "View dress details for men",
-        "imageAlt": "Dress reference for men"
+        "ctaHref": "/dress-code/men",
+        "ariaLabel": "View dress code details for men",
+        "imageAlt": "Men's attire reference"
       },
       "reservedColors": {
-        "title": "Reserved colors",
-        "description": "Please avoid these colors to respect the wedding party look.",
+        "title": "Reserved colours",
+        "description": "We kindly ask you to avoid colours such as white, ivory, and blush pink as they are reserved for the bridal party, fabrics with excessive shine, gold or sequins, neon colours, or bright red.",
         "ctaLabel": "View details ->",
-        "ctaHref": "/dress-code",
-        "ariaLabel": "View dress details for wedding party",
-        "imageAlt": "Reserved colors"
+        "ctaHref": "/dress-code/colors",
+        "ariaLabel": "View dress code details for wedding party",
+        "imageAlt": "Reserved colours"
       },
       "extras": {
-        "title": "Extra details",
-        "description": "Elegant, comfortable, and photo ready. Bring a light coat in case it gets chilly.",
+        "title": "Additional details",
+        "description": "For a day and evening wedding with long dresses or tuxedos, we recommend warmer fabrics and bringing an elegant coat suitable for a formal event.",
         "ctaLabel": "View details ->",
-        "ctaHref": "/dress-code",
-        "ariaLabel": "View dress details for wedding party",
-        "imageAlt": "Extra details"
+        "ctaHref": "/dress-code/extras",
+        "ariaLabel": "View additional dress code details",
+        "imageAlt": "Additional details"
       },
       "women": {
-        "title": "Women",
-        "description": "Cocktail or midi dress in soft tones. Avoid white, ivory, rose gold, and gold.",
+        "title": "Ladies",
+        "description": "Full length evening gown. We suggest choosing elegant tones that complement the classic atmosphere of the venue, such as navy blue, emerald green, deep blue, and neutral tones.",
         "ctaLabel": "View details ->",
-        "ctaHref": "/dress-code",
-        "ariaLabel": "View dress details for women",
-        "imageAlt": "Dress reference for women"
+        "ctaHref": "/dress-code/women",
+        "ariaLabel": "View dress code details for women",
+        "imageAlt": "Women's attire reference"
       }
     },
     "video": {
       "heading": "We want you to have the best experience",
       "subheading": "If you have any allergies or dietary requirements, please let us know so we can prepare everything with care.",
-      "ctaLabel": "Share requirements",
-      "ctaHref": "/dietas"
+      "ctaLabel": "Inform us of requirements",
+      "ctaHref": "/dietary"
     }
   }
 }

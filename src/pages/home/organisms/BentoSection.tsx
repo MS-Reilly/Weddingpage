@@ -5,6 +5,7 @@ import dressImage from "../assets/images/dress.webp";
 import suitImage from "../assets/images/tux.webp";
 import colorImage from "../assets/images/rose gold.webp";
 import scarfImage from "../assets/images/Scarf.webp";
+import coatImg from "../assets/images/coat.webp";
 
 export type DressGuideCard = {
   title: string;
@@ -128,7 +129,7 @@ export default function BentoSection({
               <div className="flex flex-1 items-center justify-center px-8 pb-8 sm:px-10">
                 <img
                   alt={extras.imageAlt}
-                  src={scarfImage}
+                  src={coatImg}
                   className="w-full h-full rounded-2xl object-cover"
                 />
               </div>
