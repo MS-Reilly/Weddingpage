@@ -48,10 +48,7 @@ out/
 storybook-static
 
 # Large video files
-*.mp4
-*.mov
-*.avi
-*.webm
+
 
 # Other
 *.tgz
