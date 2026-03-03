@@ -14,10 +14,26 @@ import colorImage from "../home/assets/images/rose gold.webp";
 import roseImg from "./assets/rose gold.webp";
 import whiteImg from "./assets/white.jpg";
 import scarfImage from "../home/assets/images/coat.webp";
+import suitPieceImage from "./assets/tuxPieces.jpg";
+import suitJacketImage from "./assets/jacket.jpg";
+import suitVestImage from "./assets/vest.jpg";
+import suitPantsImage from "./assets/tuxPiecesBlue.jpg";
+import suitBowImage from "./assets/bow.jpg";
+import suitShoesImage from "./assets/shoes.jpg";
+import suitSocksImage from "./assets/socks.webp";
+import suitShirtImage from "./assets/shirt.jpg";
 
 const imageMap = {
   dress: dressImage,
   suit: suitImage,
+  suitPiece: suitPieceImage,
+  suitJacket: suitJacketImage,
+  suitVest: suitVestImage,
+  suitPants: suitPantsImage,
+  suitBow: suitBowImage,
+  suitShoes: suitShoesImage,
+  suitSocks: suitSocksImage,
+  suitShirt: suitShirtImage,
   colors: colorImage,
   roseColor: roseImg,
   whiteColor: whiteImg,

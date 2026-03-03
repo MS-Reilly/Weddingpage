@@ -14,56 +14,56 @@
             "id": "men-tuxedo",
             "title": "Esmoquin negro o azul marino",
             "description": "Traje formal de corte clásico, preferiblemente en negro o azul marino profundo.",
-            "imageKey": "suit",
+            "imageKey": "suitPiece",
             "imageAlt": "Esmoquin negro o azul marino"
           },
           {
             "id": "men-jacket",
             "title": "Saco de esmoquin",
             "description": "Con solapa de satén o seda y pantalón a juego con franja lateral. Siempre acompañado de camisa blanca de vestir.",
-            "imageKey": "suit",
+            "imageKey": "suitJacket",
             "imageAlt": "Saco de esmoquin"
           },
           {
             "id": "men-vest-cummerbund",
             "title": "Chaleco o fajín",
             "description": "Negro y discreto, para mantener la línea elegante del conjunto.",
-            "imageKey": "suit",
+            "imageKey": "suitVest",
             "imageAlt": "Chaleco o fajín"
           },
           {
             "id": "men-trousers",
             "title": "Pantalón de esmoquin",
             "description": "A juego con el saco, con franja lateral de satén y sin cinturón visible. La pretina debe cubrirse con chaleco o fajín para mantener la línea formal del conjunto.",
-            "imageKey": "suit",
+            "imageKey": "suitPants",
             "imageAlt": "Pantalón de esmoquin"
           },
           {
             "id": "men-shirt",
             "title": "Camisa",
             "description": "Blanca, de vestir, con cuello clásico o para corbatín.",
-            "imageKey": "suit",
+            "imageKey": "suitShirt",
             "imageAlt": "Camisa blanca de vestir"
           },
           {
             "id": "men-bowtie",
             "title": "Corbatín",
             "description": "Negro, preferiblemente de lazo y no preatado.",
-            "imageKey": "suit",
+            "imageKey": "suitBow",
             "imageAlt": "Corbatín negro"
           },
           {
             "id": "men-shoes",
             "title": "Zapatos",
             "description": "Negros, de charol o piel pulida, perfectamente lustrados.",
-            "imageKey": "suit",
+            "imageKey": "suitShoes",
             "imageAlt": "Zapatos formales negros"
           },
           {
             "id": "men-socks",
             "title": "Calcetines",
             "description": "Negros y largos, de vestir.",
-            "imageKey": "suit",
+            "imageKey": "suitSocks",
             "imageAlt": "Calcetines negros de vestir"
           }
         ],
