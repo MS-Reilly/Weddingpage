@@ -1,7 +1,7 @@
 "use client";
 
 import { Link } from "react-router-dom";
-import dressImage from "../assets/images/dress.webp";
+import dressImage from "../assets/images/dressBlue.png";
 import suitImage from "../assets/images/tux.webp";
 import colorImage from "../assets/images/rose gold.webp";
 import scarfImage from "../assets/images/Scarf.webp";
