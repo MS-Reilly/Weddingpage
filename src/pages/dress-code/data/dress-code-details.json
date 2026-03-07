@@ -77,55 +77,69 @@
       },
       "women": {
         "title": "Mujeres",
-        "description": "Ideas para un look comodo y elegante.",
+        "description": "Se ruega respetar el vestido largo formal acorde a etiqueta rigurosa.",
         "metaTitle": "Event | Dress code - Mujeres",
-        "metaDescription": "Ejemplos de vestimenta para mujeres.",
+        "metaDescription": "Guía de etiqueta rigurosa para damas con ejemplos de vestimenta formal, tejidos, colores y accesorios recomendados.",
         "backgroundImage": "./assets/hero.webp",
-        "sectionTitle": "Ejemplos para mujeres",
-        "sectionSubtitle": "Vestidos y tonos recomendados",
+        "sectionTitle": "Guía de etiqueta",
+        "sectionSubtitle": "Etiqueta rigurosa para damas",
         "cards": [
           {
-            "id": "women-cocktail",
-            "title": "Vestido coctel",
-            "description": "Largo a la rodilla o ligeramente arriba.",
-            "imageKey": "dress",
-            "imageAlt": "Vestido coctel"
+            "id": "women-gown",
+            "title": "Vestido largo de gala",
+            "description": "En tejidos formales y con caída elegante. El largo debe llegar al suelo o rozarlo ligeramente.",
+            "imageKey": "dressBlue",
+            "imageAlt": "Vestido largo de gala"
           },
           {
-            "id": "women-midi",
-            "title": "Vestido midi",
-            "description": "Tonos suaves y telas con movimiento.",
-            "imageKey": "dress",
-            "imageAlt": "Vestido midi"
+            "id": "women-fabrics",
+            "title": "Tejidos formales",
+            "description": "Seda, satén, crepé, chiffon o telas estructuradas de alta calidad.",
+            "imageKey": "dressMaterial",
+            "imageAlt": "Tejidos formales para vestido de gala"
           },
           {
-            "id": "women-accessories",
-            "title": "Accesorios sutiles",
-            "description": "Toques elegantes sin sobrecargar el look.",
-            "imageKey": "dress",
-            "imageAlt": "Accesorios para mujer"
+            "id": "women-palette",
+            "title": "Paleta sugerida",
+            "description": "Tonos como azul marino, tonos sobrios o tonos joya, es decir, colores profundos e intensos como esmeralda, zafiro, borgoña o vino.",
+            "imageKey": "dressTwo",
+            "imageAlt": "Paleta sugerida para damas"
+          },
+          {
+            "id": "women-avoid",
+            "title": "Colores a evitar",
+            "description": "Agradecemos evitar tonos beige o similares al blanco, rojo intenso, dorado, plateado, acabados metálicos, lentejuelas, brillos marcados o colores fosforescentes, con el fin de preservar la armonía visual del evento.",
+            "imageKey": "dressNotAllowed",
+            "imageAlt": "Colores a evitar en la vestimenta femenina"
           },
           {
             "id": "women-shoes",
-            "title": "Zapatos comodos",
-            "description": "Tacones o flats que puedas usar toda la noche.",
-            "imageKey": "dress",
-            "imageAlt": "Zapatos para mujer"
+            "title": "Zapatos de gala",
+            "description": "De tacón elegante, abiertos o cerrados, en materiales formales como piel o satén. Deben armonizar con el vestido largo y el conjunto.",
+            "imageKey": "dressShoes",
+            "imageAlt": "Zapatos de gala para mujer"
           },
           {
-            "id": "women-shawl",
-            "title": "Chal ligero",
-            "description": "Ideal si refresca al final de la fiesta.",
-            "imageKey": "scarf",
-            "imageAlt": "Chal"
+            "id": "women-wrap",
+            "title": "Capa, estola o abrigo ligero de gala",
+            "description": "En abril las temperaturas pueden descender, por lo que se recomienda considerar una pieza formal que armonice con el vestido largo.",
+            "imageKey": "dressCoats",
+            "imageAlt": "Capa o estola de gala"
+          },
+          {
+            "id": "women-accessories",
+            "title": "Accesorios clásicos",
+            "description": "Joyería fina y clutch pequeño para complementar el conjunto.",
+            "imageKey": "dressNecklase",
+            "imageAlt": "Accesorios clásicos para mujer"
           }
         ],
         "pinkSection": {
-          "eyebrow": "Consejo",
-          "title": "Listas para brillar",
-          "description": "Elige un look que te haga sentir segura y comoda. Tonos suaves y telas fluidas se ven increibles en fotos.",
-          "imageKey": "dress",
-          "imageAlt": "Vestido elegante"
+          "eyebrow": "Color reservado",
+          "title": "Color de Damas de Honor",
+          "description": "Rosa (Rosette). Este tono está reservado exclusivamente para las damas de honor. Se agradece a las invitadas evitar vestidos en este color o en tonos muy similares de rosa para mantener una distinción visual clara dentro del cortejo nupcial y preservar la armonía estética del evento.",
+          "imageKey": "dressPink",
+          "imageAlt": "Color rosa rosette reservado para damas de honor"
         }
       },
       "colors": {

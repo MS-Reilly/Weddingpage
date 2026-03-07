@@ -22,6 +22,15 @@ import suitBowImage from "./assets/bow.jpg";
 import suitShoesImage from "./assets/shoes.jpg";
 import suitSocksImage from "./assets/socks.webp";
 import suitShirtImage from "./assets/shirt.jpg";
+import dressBlue from "./assets/dressBlue.png";
+import dressCoats from "./assets/dresscoats.png";
+import dressMaterial from "./assets/dressMaterial.png";
+import dressNecklase from "./assets/dressNecklase.png";
+import dressPink from "./assets/dressPink.png";
+import dressShirt from "./assets/dressShirt.png";
+import dressShoes from "./assets/dressShoes.png";
+import dressTwo from "./assets/twoDress.png";
+import dressNotAllowed from "./assets/notAllowedDress.png";
 
 const imageMap = {
   dress: dressImage,
@@ -34,6 +43,17 @@ const imageMap = {
   suitShoes: suitShoesImage,
   suitSocks: suitSocksImage,
   suitShirt: suitShirtImage,
+
+  dressBlue: dressBlue,
+  dressCoats: dressCoats,
+  dressMaterial: dressMaterial,
+  dressNecklase: dressNecklase,
+  dressPink: dressPink,
+  dressShirts: dressShirt,
+  dressShoes: dressShoes,
+  dressTwo: dressTwo,
+  dressNotAllowed: dressNotAllowed,
+
   colors: colorImage,
   roseColor: roseImg,
   whiteColor: whiteImg,
