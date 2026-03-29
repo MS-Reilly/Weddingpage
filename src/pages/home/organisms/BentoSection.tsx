@@ -1,11 +1,12 @@
 "use client";
 
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import dressImage from "../assets/images/dressBlue.png";
 import suitImage from "../assets/images/tux.webp";
 import colorImage from "../assets/images/rose gold.webp";
-import scarfImage from "../assets/images/Scarf.webp";
 import coatImg from "../assets/images/coat.webp";
+import ImageLightbox from "@/components/atoms/lightbox/ImageLightbox";
 
 export type DressGuideCard = {
   title: string;
@@ -26,6 +27,11 @@ export type BentoSectionProps = {
   women: DressGuideCard;
 };
 
+type LightboxImage = {
+  src: string;
+  alt: string;
+} | null;
+
 export default function BentoSection({
   titleStart,
   titleHighlight,
@@ -35,6 +41,16 @@ export default function BentoSection({
   extras,
   women,
 }: BentoSectionProps) {
+  const [lightboxImage, setLightboxImage] = useState<LightboxImage>(null);
+
+  const openLightbox = (src: string, alt: string) => {
+    setLightboxImage({ src, alt });
+  };
+
+  const closeLightbox = () => {
+    setLightboxImage(null);
+  };
+
   return (
     <section className="floral-section bg-white/95 py-18 sm:py-24 dark:bg-gray-900/90">
       <div className="mx-auto max-w-2xl px-5 lg:max-w-7xl lg:px-6">
@@ -59,13 +75,16 @@ export default function BentoSection({
                 </p>
               </div>
 
-              <div className="relative w-full grow min-h-[300px] sm:min-h-[400px]">
-                <div className="absolute inset-x-8 top-8 bottom-8 overflow-hidden rounded-2xl bg-gray-900 shadow-2xl outline outline-white/10 dark:bg-gray-900/60">
-                  <img
-                    alt={men.imageAlt}
-                    src={suitImage}
-                    className="w-full h-full object-cover"
-                  />
+              <div className="flex-1 px-4 pb-4 sm:px-8 sm:pb-8 lg:px-10 lg:pb-10">
+                <div className="h-full w-full overflow-hidden rounded-2xl bg-gray-900 shadow-2xl outline outline-white/10 dark:bg-gray-900/60">
+                  <div className="aspect-[3/4] lg:aspect-square w-full max-w-sm mx-auto lg:max-w-md">
+                    <img
+                      alt={men.imageAlt}
+                      src={suitImage}
+                      className="w-full h-full object-cover cursor-pointer transition hover:opacity-90"
+                      onClick={() => openLightbox(suitImage, men.imageAlt)}
+                    />
+                  </div>
                 </div>
               </div>
 
@@ -94,12 +113,19 @@ export default function BentoSection({
                   {reservedColors.description}
                 </p>
               </div>
-              <div className="flex flex-1 items-center justify-center px-8 pb-8 sm:px-10">
-                <img
-                  alt={reservedColors.imageAlt}
-                  src={colorImage}
-                  className="w-full h-full rounded-2xl object-cover"
-                />
+              <div className="flex-1 px-4 pb-4 sm:px-8 sm:pb-8 lg:px-10 lg:pb-10">
+                <div className="h-full w-full overflow-hidden rounded-2xl">
+                  <div className="aspect-[3/4] lg:aspect-[4/5] w-full max-w-sm mx-auto">
+                    <img
+                      alt={reservedColors.imageAlt}
+                      src={colorImage}
+                      className="w-full h-full object-cover cursor-pointer transition hover:opacity-90"
+                      onClick={() =>
+                        openLightbox(colorImage, reservedColors.imageAlt)
+                      }
+                    />
+                  </div>
+                </div>
               </div>
               <div className="px-8 pb-8 pt-4 sm:px-10">
                 <Link
@@ -126,12 +152,17 @@ export default function BentoSection({
                   {extras.description}
                 </p>
               </div>
-              <div className="flex flex-1 items-center justify-center px-8 pb-8 sm:px-10">
-                <img
-                  alt={extras.imageAlt}
-                  src={coatImg}
-                  className="w-full h-full rounded-2xl object-cover"
-                />
+              <div className="flex-1 px-4 pb-4 sm:px-8 sm:pb-8 lg:px-10 lg:pb-10">
+                <div className="h-full w-full overflow-hidden rounded-2xl">
+                  <div className="aspect-[3/4] lg:aspect-[4/5] w-full max-w-sm mx-auto">
+                    <img
+                      alt={extras.imageAlt}
+                      src={coatImg}
+                      className="w-full h-full object-cover cursor-pointer transition hover:opacity-90"
+                      onClick={() => openLightbox(coatImg, extras.imageAlt)}
+                    />
+                  </div>
+                </div>
               </div>
               <div className="px-8 pb-8 pt-4 sm:px-10">
                 <Link
@@ -158,13 +189,16 @@ export default function BentoSection({
                   {women.description}
                 </p>
               </div>
-              <div className="relative w-full grow min-h-[300px] sm:min-h-[400px]">
-                <div className="absolute top-8 right-8 bottom-8 left-8 overflow-hidden rounded-2xl bg-gray-900 shadow-2xl outline outline-white/10 dark:bg-gray-900/60">
-                  <img
-                    alt={women.imageAlt}
-                    src={dressImage}
-                    className="w-full h-full object-cover"
-                  />
+              <div className="flex-1 px-4 pb-4 sm:px-8 sm:pb-8 lg:px-10 lg:pb-10">
+                <div className="h-full w-full overflow-hidden rounded-2xl bg-gray-900 shadow-2xl outline outline-white/10 dark:bg-gray-900/60">
+                  <div className="aspect-[3/4] lg:aspect-square w-full max-w-sm mx-auto lg:max-w-md">
+                    <img
+                      alt={women.imageAlt}
+                      src={dressImage}
+                      className="w-full h-full object-cover cursor-pointer transition hover:opacity-90"
+                      onClick={() => openLightbox(dressImage, women.imageAlt)}
+                    />
+                  </div>
                 </div>
               </div>
               <div className="px-8 pb-8 pt-4 sm:px-10">
@@ -181,6 +215,14 @@ export default function BentoSection({
           </div>
         </div>
       </div>
+
+      {/* Image Lightbox */}
+      <ImageLightbox
+        imageSrc={lightboxImage?.src || ""}
+        imageAlt={lightboxImage?.alt || ""}
+        isOpen={!!lightboxImage}
+        onClose={closeLightbox}
+      />
     </section>
   );
 }
